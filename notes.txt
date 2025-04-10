@@ -1,0 +1,183 @@
+C - datatypes
+-
+int a= 10;
+int a[3] = {10,20,30};
+float b = 34.43;
+char
+double
+short
+long
+
+
+Everything in python is object
+Every object contains methods 
+
+
+
+
+python - objects
+--------------
+number
+------
+number can be integer or decimal or octal or hexa.
+
+val = 10
+aval = 45.43
+
+
+string
+------
+string is defined in single or double or triple quotes.
+
+aname = "python programming"
+bname = 'java programming'
+cname = """unix shell"""
+
+list ( array in C)
+--------------------
+list contains set of elements.
+Elements can be numbers or strings or any combination 
+list is defined in [].
+
+alist = [10,20,30]
+blist = ["python",45,43,45.43,"java",[67,57]]
+
+
+
+tuple ( immutable ,unchangeable, uneditable)
+-----
+tuple contains set of elements.
+elements can be set of numbers or strings or any combination.
+tuple is defined in ().
+Elements inside tupel CANT be modified directly.
+
+atup = (10,20,30,40)
+btup = ("java","oracle"45,43.45)
+
+dictionary ( json hashmap hash associativearray)
+----------
+dictionary contains keys and values.
+In dictionary , keys are always unique
+key would be either number or string used to identify the value.
+value can be number , string, list, tuple or dictionary or dictionaty of dictionaries
+** indexing is NOT allowd in dictionary ***
+
+syntax:  object = { key:value , key:value , key:value}
+example:  book  = {"chap1":10 , "chap2": 20 ,"chap3":30,1:2}
+          book  = {"chap1":["ram"10] , "chap2": "rita",20]}
+
+
+Index
+------
+chap1 10
+chap2 20
+chap3 30
+chap4 30
+
+
+
+
+set
+----
+set is UNORDERED collection of UNIQUE elements of same type.
+
+aset = {10,10,20,20,30}
+
+
+
+if ( 1 < 2)         
+
+
+{
+
+
+}
+
+
+
+for ( i = 1; i <10 ;i++ )
+
+
+
+
+operators
+----------
+
+arithmetic operators :   +    -  *        %    /
+
+relational operators :   <    <=  >    >=  ==   !=
+
+assignment operators :(++ and -- are NOT allowed in python)
+val = 10
+val = val + 1      or   val+=1     
+
+logical operators :   ( &&   ||     !   are NOT allowed in python)
+and
+or
+not
+
+name = "python"
+if len(name)==6 and name.islower():
+    # do something
+
+
+special operators
+---------------
+in
+as ( exception handling)
++  ( concatenation operator)
+*  ( repetition operator)
+
+
+
+
+
+
+
+
+function | definition | block | subroutine
+---------------------------------------
+- code reusability
+- define once and call it for multiple times.
+
+There are 2 types of functions
+
+1. builtin functions      print(dir(__builtins__)) # builtin exceptions and functions
+2. user defined functions
+
+
+user defined functions
+--------------------
+ways of passing arguments
+----------------
+fixed arguments
+keyword arguments
+default arguments
+varaible length arguments
+
+
+
+task
+-----
+func1 : reading all credentials from json file
+func2 : connect to the database
+func3 : reading all the records from the file
+func4 : insert all the records to the file
+func5:  validating database
+func6: close the functions
+
+
+def read_credentials(_):
+    ###
+
+def connect_db():
+     ##
+def readfile():
+     ###
+
+
+
+
+
+task = core python skills     + solid understanding about libraries + domain expertise
+       ( procedural/object oriented)
