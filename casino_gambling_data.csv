@@ -1,0 +1,1001 @@
+PlayerID,PlayerName,Gender,Age,Country,GamePlayed,MembershipLevel,DeviceUsed,Platform,Location,AmountWagered,AmountWon,SessionCount,PaymentMethod,DatePlayed
+3bb5222c-6354-4a1b-aa99-6372fdd728ed,Amanda Andrews,Non-binary,23,Eritrea,Keno,Bronze,Tablet,Land-based,Singapore,5485.54,1910.46,22,Crypto,2024-10-09
+8c04783d-b3d6-4c4f-b69e-76a512b4850a,Anna Holland,Non-binary,28,Tajikistan,Blackjack,Bronze,Desktop,Online,Online,4388.08,1936.05,30,PayPal,2024-10-16
+702351b2-f1ef-42e6-aa42-73585f4faf76,Yvette Jacobs,Male,36,Saint Martin,Roulette,Bronze,Mobile,Online,Monte Carlo,6944.67,6031.78,50,PayPal,2024-11-15
+398dbbf7-1a67-4de8-a232-2e12b67b25b9,Natasha Martin,Male,19,Mongolia,Keno,Silver,Mobile,Online,Macau,5561.58,3797.92,9,Credit Card,2024-04-23
+84540a84-f5ee-490b-a90b-bfbb6c060223,Jason Morales,Non-binary,34,Burkina Faso,Slot Machine,Silver,Tablet,Land-based,Online,8172.63,5899.12,40,Crypto,2024-09-08
+effdee6d-a916-422a-abcc-59a3a6a10f04,Meagan Wolfe,Male,43,Madagascar,Baccarat,Bronze,Desktop,Land-based,Singapore,7783.35,7249.3,9,Crypto,2024-06-29
+496e5446-a3d8-498c-9be5-4c6b65bafe1b,Patricia Peters,Male,37,Lesotho,Craps,Gold,Desktop,Land-based,Atlantic City,6453.11,660.75,12,Bank Transfer,2024-05-28
+589976fd-d562-44fe-8304-5f5aa246608a,Eric Yang,Non-binary,27,Israel,Keno,Silver,Desktop,Online,Atlantic City,6927.03,3487.84,3,PayPal,2025-01-09
+ab5204e2-be00-46bf-a1d9-087340abb8ff,Michael Hunter III,Female,58,France,Slot Machine,Gold,Tablet,Land-based,Singapore,7570.51,2336.11,26,Bank Transfer,2024-10-10
+57d1e4a5-1463-4d0d-9990-f5cfe93585c5,Samantha Russell,Male,44,Saint Barthelemy,Craps,Platinum,Desktop,Online,Singapore,3869.92,2210.45,11,Credit Card,2024-09-03
+f4565f26-23ab-4b20-9eb8-4ecc1f245c86,Ralph Martin,Non-binary,18,Botswana,Roulette,Bronze,Desktop,Land-based,Singapore,9794.62,803.66,6,PayPal,2024-12-25
+cfe250cd-2c3a-46a7-8b9a-f9e6806ae3db,Alex Taylor,Female,73,Georgia,Baccarat,Gold,Desktop,Online,Macau,8021.82,1188.17,25,Bank Transfer,2024-04-11
+5cd2f0da-6b62-496f-a258-d9c6c46aac02,Brooke Molina,Female,23,Korea,Slot Machine,Gold,Mobile,Online,Singapore,3542.45,2796.35,31,Credit Card,2024-09-27
+bc899172-6623-4ff9-932e-8254827e7693,Kimberly Morris,Male,33,Wallis and Futuna,Keno,Silver,Mobile,Online,Online,7737.24,1719.2,13,Crypto,2024-12-24
+ac7275d4-1a4a-4ea6-8bb9-143c968387e7,Joanna Mcguire,Female,26,Qatar,Craps,Gold,Mobile,Land-based,Macau,6322.95,4353.35,26,PayPal,2024-08-27
+fed69e46-936b-47e6-a2dd-87053c2d39ad,Amy Carlson,Female,58,Saint Lucia,Poker,Bronze,Desktop,Online,Las Vegas,2611.26,2302.86,13,Credit Card,2024-10-27
+a96a7808-e0f1-412d-a3d2-0ad7962ea1bd,Christopher Johnson,Non-binary,23,Eritrea,Keno,Silver,Desktop,Online,Las Vegas,6636.02,4188.08,22,Credit Card,2024-08-23
+ecd66b73-001d-4a63-881b-28bf6775de01,James King,Non-binary,28,Rwanda,Slot Machine,Platinum,Tablet,Land-based,Macau,516.22,181.8,25,PayPal,2024-11-10
+758ccde9-86ff-4c42-b564-371ac24622a0,Megan Myers,Non-binary,49,Uganda,Keno,Platinum,Desktop,Land-based,Monte Carlo,5218.71,3847.3,24,Credit Card,2024-04-10
+b005c161-1d2a-4620-b5c3-fd753f10ffac,Amanda Jones,Male,24,Martinique,Slot Machine,Bronze,Mobile,Online,Online,4171.57,2699.14,29,Bank Transfer,2025-03-22
+38171640-5fab-4288-aaae-99444e4f2fb3,Elizabeth Anderson,Male,64,Trinidad and Tobago,Blackjack,Gold,Mobile,Land-based,Macau,9603.42,1689.22,38,Crypto,2024-05-31
+88272701-dfae-4a8c-aad2-ec419f07953b,Aaron Carlson,Male,65,New Zealand,Keno,Gold,Tablet,Land-based,Macau,8407.25,5436.59,40,PayPal,2024-10-11
+b91bd211-2f11-4e66-9bdd-9af69104f70d,Steven Weber,Female,38,Mayotte,Keno,Platinum,Desktop,Land-based,Macau,2142.83,1812.99,18,Bank Transfer,2025-03-05
+14b4bce7-8d4b-4e27-a4be-00fa0723cd52,Joe Evans,Non-binary,37,Mauritania,Poker,Bronze,Tablet,Land-based,Las Vegas,2406.24,536.31,10,Bank Transfer,2024-07-06
+611d5428-0965-4149-bf91-1d580dee05b7,Henry Bennett,Male,38,Monaco,Roulette,Gold,Tablet,Land-based,Singapore,5907.39,5730.76,39,Crypto,2024-08-19
+e4a79131-1a19-420e-b817-8cef169677aa,Matthew Aguirre,Male,30,Poland,Craps,Silver,Mobile,Online,Online,1137.11,819.84,36,Bank Transfer,2024-10-31
+a0d2b346-3aff-42b7-926d-ae4a967135f5,Terry Pearson,Male,34,Honduras,Poker,Gold,Tablet,Land-based,Singapore,5690.67,4265.31,32,Crypto,2024-05-04
+7a4c4869-0c60-4988-aefa-c0b7215d25ab,April Simpson,Female,56,Montserrat,Poker,Platinum,Tablet,Online,Atlantic City,4049.6,1457.44,7,Credit Card,2024-05-29
+31a59bf0-e4e7-4511-ba8d-f36cfd8c1ec7,Corey Gray,Male,60,Angola,Slot Machine,Platinum,Mobile,Land-based,Macau,269.95,248.77,3,Credit Card,2024-11-09
+0b18dc87-1afc-4a24-b64a-bc6d61898c4d,Mary French,Male,61,Bangladesh,Keno,Bronze,Mobile,Land-based,Atlantic City,864.75,802.94,20,Bank Transfer,2024-07-22
+b831c18c-5ca3-4f67-b59b-3fc7e935725d,Michael Salinas,Non-binary,57,Spain,Slot Machine,Bronze,Desktop,Land-based,Online,5787.29,2183.62,24,Bank Transfer,2024-11-24
+6f387d74-23e0-4671-86b3-9de1d3ab3c21,Heather Shaw,Non-binary,62,Moldova,Baccarat,Gold,Mobile,Online,Monte Carlo,3421.92,2848.27,24,Bank Transfer,2024-06-10
+724c1aa5-f7a9-470a-99ce-dd6b8bbe6970,Tina Mcdaniel,Male,40,Western Sahara,Roulette,Bronze,Desktop,Online,Macau,1387.6,1101.76,22,PayPal,2024-09-22
+78548645-d4cd-43eb-bd31-8bc172fdae20,Lynn Diaz,Male,18,Zambia,Roulette,Platinum,Tablet,Online,Singapore,6279.77,4129.34,27,Crypto,2025-03-26
+d79c4d32-8e92-47e5-a3df-7dbc3c431068,Jessica Castaneda,Male,69,Jersey,Keno,Platinum,Mobile,Land-based,Las Vegas,1421.46,1287.2,43,Crypto,2024-09-11
+afc258c9-dba9-464a-8920-c58748814124,Lucas Bryan,Non-binary,72,Monaco,Baccarat,Silver,Desktop,Online,Atlantic City,1298.82,708.45,27,Credit Card,2024-11-03
+49bfcce4-5d10-4e36-99f6-effa9c9e8916,Jessica Williams,Male,20,Canada,Roulette,Silver,Mobile,Land-based,Singapore,3896.4,689.34,21,Crypto,2024-11-08
+fb43fd1a-d1a1-44e4-bcc2-1a760450d198,James Johnson,Female,28,Cook Islands,Keno,Bronze,Tablet,Land-based,Atlantic City,6757.02,753.7,3,Credit Card,2024-11-22
+365b6213-c596-42d5-a02c-4267e2d0cad9,Stephanie Porter,Non-binary,45,Somalia,Craps,Silver,Tablet,Land-based,Atlantic City,8722.18,5583.01,46,PayPal,2024-06-26
+bc700a96-4534-406c-9a16-0bd450a271a2,Tristan Williams,Male,34,Burundi,Poker,Bronze,Tablet,Land-based,Macau,2739.66,2701.59,4,Credit Card,2024-04-13
+799b26db-83ed-4108-b679-412babbda86d,Nicole Smith,Non-binary,24,Jersey,Craps,Silver,Desktop,Land-based,Monte Carlo,1926.28,1088.69,21,Bank Transfer,2025-01-19
+d55d303c-3bb1-4336-b92e-fa23f759b18b,Kimberly Spencer,Male,25,Turks and Caicos Islands,Keno,Silver,Desktop,Online,Macau,2595.64,2131.15,26,Bank Transfer,2024-11-02
+705695da-1dce-486a-85e6-b1e25e333be9,Emily Mclean,Female,42,Bulgaria,Roulette,Silver,Mobile,Online,Las Vegas,9254.26,5098.09,42,Credit Card,2025-02-22
+80c33f93-3f36-4290-bc08-10d309d88597,Sara Garcia,Female,48,Chad,Craps,Platinum,Mobile,Land-based,Singapore,8588.5,1141.25,46,Crypto,2024-09-08
+cb7e8d21-29ea-45ac-9df8-7eeb401f526a,Richard Jackson,Female,27,Guernsey,Keno,Bronze,Tablet,Land-based,Macau,241.01,140.25,32,Bank Transfer,2025-04-10
+797663af-fa1f-4583-9bf8-639160a509bc,Christine Bowers DDS,Male,70,British Indian Ocean Territory (Chagos Archipelago),Slot Machine,Platinum,Tablet,Online,Atlantic City,3282.07,1992.15,3,Bank Transfer,2024-05-02
+1fca8d11-47e2-4495-b4e3-c78e11d67a01,Michael Jackson,Female,44,Armenia,Blackjack,Platinum,Tablet,Land-based,Monte Carlo,8347.16,4658.49,13,Crypto,2024-07-18
+e6985846-895e-4354-847d-bbea36446e36,Jillian Barry,Male,43,Malaysia,Slot Machine,Bronze,Tablet,Online,Singapore,4095.92,460.12,7,Bank Transfer,2024-11-04
+5468c0f9-6e1f-405d-94c6-03c31af90902,Bryan Lopez,Male,52,Lao People's Democratic Republic,Blackjack,Platinum,Tablet,Land-based,Macau,8895.19,2867.67,35,Crypto,2024-11-21
+f37e52ea-1138-4055-ac2d-10cc9bb79f3a,Ronald Campbell,Non-binary,50,India,Roulette,Gold,Tablet,Online,Online,1348.57,1216.23,49,Bank Transfer,2024-05-22
+95867c71-e79e-4f29-b3e6-ca582151aed1,Matthew Mcguire,Male,33,Montenegro,Blackjack,Bronze,Desktop,Land-based,Atlantic City,4668.93,2558.87,44,Credit Card,2025-01-07
+518e0f88-0055-4fdf-806d-a007b2a8de8b,Evan Riley,Female,54,Yemen,Craps,Platinum,Desktop,Online,Singapore,7760.46,609.13,30,Credit Card,2024-12-27
+a5481a80-3d92-421b-bca1-6e9bb91432ba,Tonya Robinson,Female,47,Finland,Slot Machine,Gold,Mobile,Online,Las Vegas,3584.98,2463.62,1,Bank Transfer,2024-09-01
+581774d5-5338-4a98-bd66-d144a97d40ba,Robert Wilson,Non-binary,68,Cambodia,Poker,Silver,Mobile,Land-based,Singapore,3194.68,227.21,11,PayPal,2024-09-07
+d1be8c7e-5a52-40ac-b12a-f6f71a1dc13e,Gloria Donovan,Non-binary,50,Cape Verde,Roulette,Gold,Tablet,Land-based,Online,6214.13,373.88,9,Credit Card,2025-01-27
+96520fd1-7ca6-4e8a-93bd-30e5813b81e4,Steve Perez,Male,47,Pitcairn Islands,Poker,Silver,Desktop,Land-based,Las Vegas,8685.27,7516.31,47,Bank Transfer,2024-05-01
+9b903de7-54fd-456e-8748-325f1243e320,Darryl Pearson,Male,43,American Samoa,Blackjack,Silver,Desktop,Land-based,Macau,9943.97,9156.58,9,PayPal,2025-01-29
+0b371b01-de3b-4d5e-86fb-88c79377bd9c,Kayla Bryan,Male,21,Mongolia,Baccarat,Platinum,Tablet,Land-based,Atlantic City,3214.61,404.45,47,Bank Transfer,2024-07-29
+7cfb9f98-2f1b-4fa7-bd8c-7ff274fdbdbd,Jill Warren,Male,44,Marshall Islands,Roulette,Platinum,Tablet,Online,Singapore,9658.63,9212.82,50,Credit Card,2024-06-07
+a14c88e5-cb73-4df8-a2eb-e46fbb8a33b4,Elizabeth Frazier,Male,34,Lesotho,Poker,Gold,Mobile,Online,Singapore,2524.75,2260.82,6,Crypto,2024-04-11
+2c69680b-aa36-49b6-957c-6a925add9799,Jennifer Howe,Male,20,Chile,Blackjack,Silver,Mobile,Online,Macau,6325.48,1497.71,46,Crypto,2025-01-19
+eb841cbf-bdab-4f54-bf5a-72f04844b3df,Frances Campos,Male,26,French Southern Territories,Roulette,Gold,Mobile,Land-based,Online,1447.67,325.48,13,PayPal,2024-10-15
+35c0d569-047e-4b3d-9f81-7855441bd0be,Catherine Davila,Non-binary,28,Papua New Guinea,Poker,Bronze,Mobile,Land-based,Atlantic City,7766.08,2675.05,13,PayPal,2025-01-18
+f1708d40-101a-4e20-b6db-959030fb4b46,Gina Hines,Female,72,Solomon Islands,Baccarat,Silver,Mobile,Land-based,Singapore,7604.62,4239.12,47,Crypto,2024-06-12
+67329997-6579-4072-b3f0-16bb3669c34a,Tracey Dominguez,Male,26,Comoros,Roulette,Gold,Tablet,Land-based,Online,5895.8,5517.03,48,Crypto,2025-01-09
+efc637ba-1470-44d4-92bd-a2c356a25105,Mary Sims,Non-binary,26,Austria,Keno,Gold,Mobile,Online,Online,4464.61,3030.66,44,Credit Card,2025-03-04
+f65fe10e-f931-49dd-a583-e50c29eb1a2d,Brianna Bennett,Non-binary,53,Oman,Roulette,Bronze,Desktop,Land-based,Atlantic City,5035.59,4010.78,30,Crypto,2024-08-23
+427708e5-2970-4a56-8c16-cc8a4667ca49,Destiny Davis,Female,31,Czech Republic,Blackjack,Platinum,Tablet,Land-based,Atlantic City,5280.86,769.57,21,PayPal,2025-01-14
+776af113-411a-4c14-b3b5-c46fc5a909ed,Desiree Escobar,Non-binary,18,Hungary,Roulette,Gold,Mobile,Land-based,Singapore,3647.89,3262.01,8,Crypto,2025-01-11
+3698cd17-8838-420f-a783-6a0fe29b664d,Alison Thompson,Female,25,Falkland Islands (Malvinas),Craps,Gold,Mobile,Online,Las Vegas,5124.27,4340.28,8,Crypto,2024-08-14
+a060fc57-af5e-4d51-b4bc-0c96898a0f11,James Dorsey,Male,59,British Indian Ocean Territory (Chagos Archipelago),Roulette,Silver,Tablet,Land-based,Macau,5571.11,3378.14,46,Crypto,2024-06-16
+cfdbcf93-639d-47d3-b354-0c5d96ff0614,Christian Strickland,Non-binary,59,Wallis and Futuna,Baccarat,Silver,Desktop,Online,Singapore,1276.32,895.35,14,PayPal,2024-10-17
+dd53e8ce-2f2b-470a-b002-8a15e601a986,Cassandra Smith,Female,54,Fiji,Poker,Gold,Mobile,Online,Atlantic City,4266.21,1463.66,13,Bank Transfer,2025-01-14
+3330b679-0861-414b-af21-be349a8790e2,Christina Murphy,Male,69,Austria,Blackjack,Gold,Desktop,Online,Macau,7232.03,4703.16,48,Crypto,2024-07-11
+87980c9f-032c-4fa1-be36-cc85d37be2f7,Jordan Cole,Male,20,Malaysia,Keno,Silver,Mobile,Online,Monte Carlo,9988.65,800.54,36,PayPal,2024-10-23
+e008a734-1e10-4cdf-a410-e82f67b548a9,Sarah Walls,Male,75,Saint Barthelemy,Slot Machine,Platinum,Mobile,Online,Singapore,9187.84,9138.69,13,Crypto,2024-12-20
+acff0e46-8642-4bf1-9968-92cce6f8fe0b,James Brown,Non-binary,43,Gabon,Craps,Bronze,Desktop,Land-based,Atlantic City,1406.57,240.78,41,Bank Transfer,2024-07-22
+5599778f-d549-467a-8d2e-fb2b0e996df9,Justin Arnold,Male,31,Zimbabwe,Blackjack,Bronze,Tablet,Online,Las Vegas,3667.36,3207.98,1,Credit Card,2024-07-22
+1d853d5b-6960-418f-9f98-2de6000c90d4,April James,Male,39,Cocos (Keeling) Islands,Slot Machine,Silver,Tablet,Online,Online,1364.05,429.81,23,Crypto,2025-02-11
+b2bb5a98-43e9-45ce-98e3-08244c120e3e,Mark Jones,Male,18,Nauru,Craps,Bronze,Desktop,Land-based,Las Vegas,1497.9,1154.17,22,Bank Transfer,2024-07-30
+8a392410-0273-4db2-ac81-b9d5b946d1a9,Christopher Gray,Male,50,Nauru,Slot Machine,Platinum,Mobile,Online,Atlantic City,3092.34,744.56,1,Credit Card,2024-08-06
+23963e5d-5064-4bf2-bc7c-fd4b0ef89944,Christopher Brown,Non-binary,59,Guadeloupe,Poker,Bronze,Tablet,Online,Monte Carlo,9067.61,967.36,31,Credit Card,2024-10-18
+989f972a-66f5-4cb6-9835-13fb250e9145,Nancy Mayer,Female,42,Hong Kong,Blackjack,Gold,Desktop,Land-based,Monte Carlo,1360.04,449.91,36,Crypto,2024-05-28
+a41a5ab3-7715-42e7-919a-fb5927cb0f5d,Melissa Snow,Male,18,Venezuela,Poker,Silver,Tablet,Online,Macau,9213.91,4337.53,28,Crypto,2024-07-03
+4520635f-5354-4813-9454-1201bcd74eb2,Sharon Jordan,Non-binary,42,United States of America,Poker,Silver,Tablet,Online,Atlantic City,4446.15,1608.12,46,Credit Card,2025-03-28
+86d504b2-a03a-4d15-884b-40e99912d0f3,Alan Callahan,Male,23,Iraq,Keno,Silver,Tablet,Land-based,Online,4173.15,2201.24,38,Credit Card,2025-02-06
+1d0adfc0-26cc-49f1-817d-dcb25d162eda,Randy Henderson,Non-binary,31,Bermuda,Keno,Bronze,Tablet,Online,Singapore,5726.56,3629.45,17,Bank Transfer,2024-06-15
+c5f1a0b2-3045-4cf9-a5ed-f91b0f1c06ab,Stephen Burke,Non-binary,26,Christmas Island,Craps,Silver,Desktop,Land-based,Las Vegas,4524.45,1818.29,44,Crypto,2024-10-17
+314a63a5-21a7-4d05-999c-ff8a0fbb0fde,Jose Chase,Non-binary,31,Libyan Arab Jamahiriya,Craps,Silver,Mobile,Online,Atlantic City,4755.41,3731.3,18,Bank Transfer,2024-12-07
+d9c6f596-d93d-4374-9d40-8e99619fbbc1,Shannon Simpson,Female,71,Djibouti,Poker,Silver,Desktop,Online,Atlantic City,9499.08,6461.35,39,Credit Card,2024-10-19
+bc0866f7-fca7-44ad-9881-26846295955e,Alexandra Johnson,Female,32,Saint Lucia,Slot Machine,Gold,Mobile,Land-based,Online,1482.92,325.85,33,Credit Card,2024-10-19
+37f82a34-8eb7-446e-a1bf-792b3ea41b4e,Rebekah Jensen,Female,29,Sweden,Keno,Bronze,Tablet,Land-based,Singapore,2588.64,112.01,1,Crypto,2024-10-28
+59675a7a-d6a2-4cde-b241-713de7ac9eae,Karen Russo,Female,22,Papua New Guinea,Keno,Platinum,Desktop,Land-based,Monte Carlo,1922.64,1400.73,34,Bank Transfer,2024-10-25
+7f082edc-9cd0-4621-8e23-649779bebc42,Janet Weiss,Non-binary,23,Wallis and Futuna,Keno,Silver,Mobile,Online,Monte Carlo,4652.28,295.85,7,Crypto,2024-07-09
+98beb8a1-1a95-474c-9842-15cb1c98f63d,Nancy Chapman,Female,43,Rwanda,Baccarat,Bronze,Tablet,Land-based,Online,1697.27,708.14,18,Crypto,2024-05-15
+0dd287e9-2a76-4981-8ad5-29f3f4e0e559,Julian Smith,Female,25,South Georgia and the South Sandwich Islands,Roulette,Silver,Tablet,Land-based,Macau,6228.62,756.17,14,Crypto,2024-04-26
+e38176df-cd01-4797-8d01-ca37b9bf14c0,Andrew Williamson,Male,61,Grenada,Poker,Bronze,Tablet,Online,Singapore,1259.21,323.91,13,Credit Card,2024-05-08
+330c361a-1d90-4cc4-9215-c283483f2a0a,Sara Sims,Male,49,Bosnia and Herzegovina,Baccarat,Silver,Desktop,Online,Atlantic City,6794.07,2647.24,14,Bank Transfer,2025-03-07
+d06e3d90-496c-4e82-8be1-5cab2979c65b,Christine Johnson,Female,62,Falkland Islands (Malvinas),Blackjack,Bronze,Mobile,Land-based,Atlantic City,1182.75,753.95,25,Crypto,2025-02-03
+d720bee3-f905-4347-9f4c-9a264b55c4cc,Jennifer Ballard,Non-binary,40,Afghanistan,Craps,Platinum,Desktop,Online,Singapore,2662.91,1116.63,7,PayPal,2024-11-18
+dce2c0bb-a35a-4017-b202-a6b3763ab002,Nathan Miller,Male,37,Guyana,Craps,Gold,Tablet,Land-based,Macau,7779.53,7730.61,6,Credit Card,2025-02-21
+9e6c3811-366f-42cf-96b4-52a945f6ac57,Anita Maxwell,Male,53,Saint Lucia,Baccarat,Platinum,Mobile,Online,Singapore,1968.35,397.57,13,Credit Card,2024-11-22
+f6e91111-362f-4e41-aecf-94a129b0b645,Daniel Lawrence,Male,52,United Kingdom,Baccarat,Platinum,Tablet,Online,Online,3878.07,1504.03,37,Bank Transfer,2024-06-03
+7f2e6628-fe76-423d-b1bc-f5b25cb22e13,Gary Allen,Female,36,Thailand,Baccarat,Platinum,Desktop,Land-based,Online,4485.97,1004.56,24,Credit Card,2024-10-05
+5310d63a-5d06-434b-848d-ffa854b2e7b8,Margaret Mitchell,Male,19,Cyprus,Craps,Silver,Mobile,Land-based,Las Vegas,9050.62,4771.72,40,Credit Card,2024-12-09
+845b0bb4-21c3-4b82-9e84-dde51f127432,Connie Johnson,Male,21,Czech Republic,Blackjack,Gold,Desktop,Online,Atlantic City,1916.98,213.51,43,Bank Transfer,2024-10-01
+33f4ee3c-b3bd-45a0-b35e-8d22560ac5bd,Christopher Wheeler,Male,38,Hungary,Keno,Silver,Desktop,Land-based,Macau,7411.11,5051.12,20,Credit Card,2024-06-30
+8df9a4a7-a2de-4523-a9c6-36b05abd1965,Richard Dawson,Female,55,Azerbaijan,Keno,Silver,Mobile,Online,Atlantic City,916.1,691.36,2,Credit Card,2024-04-21
+3f6085be-07eb-402b-8d7f-b26302770942,Patricia Richardson,Non-binary,27,Seychelles,Poker,Gold,Tablet,Land-based,Singapore,3468.33,2941.28,47,Crypto,2025-01-20
+d7da5a96-8330-488f-b8ce-c4aa7823d4bb,Denise Jones,Female,64,Liechtenstein,Slot Machine,Platinum,Mobile,Land-based,Online,6700.36,3082.7,17,Bank Transfer,2025-02-18
+153fbed6-bc5a-47b6-84ee-c20f4a3f7b1f,Pamela Pitts,Non-binary,32,Georgia,Slot Machine,Gold,Mobile,Online,Singapore,5366.6,497.42,4,Credit Card,2025-01-28
+b4e12b09-9211-4ad9-b1d5-001a48fbfbc9,Heather Carter,Non-binary,52,Dominica,Craps,Platinum,Desktop,Land-based,Online,1783.3,1471.16,46,Bank Transfer,2024-04-26
+c32140bd-0cb0-49c1-8406-51620c6c53fe,Marco Taylor,Female,68,Greenland,Slot Machine,Gold,Desktop,Online,Singapore,1376.21,11.64,9,PayPal,2024-06-20
+59d0ad4d-6fc6-40fc-87af-84a0e705a179,Lisa Osborne,Female,72,Anguilla,Baccarat,Bronze,Tablet,Online,Macau,1878.6,791.53,50,Bank Transfer,2024-08-15
+8b91043c-1d2a-4be5-9a7a-008bb9bbc0f8,Dale Boyle,Non-binary,51,British Indian Ocean Territory (Chagos Archipelago),Craps,Bronze,Mobile,Online,Singapore,1103.2,1091.86,31,Credit Card,2024-11-10
+48cbdc77-74a1-410a-99ff-bec628ea2383,Amber Phelps,Male,34,Tanzania,Roulette,Silver,Tablet,Land-based,Singapore,1614.57,93.09,48,PayPal,2025-03-14
+b0ef7d8b-0449-4c9a-8d73-ee42e8f00d6f,Bryan Wong,Female,30,Chad,Slot Machine,Silver,Tablet,Land-based,Macau,1670.54,189.11,15,Crypto,2025-01-27
+3b53752b-b1b4-420f-b008-1e064e86e040,Raymond Lynn,Male,33,Cook Islands,Keno,Gold,Mobile,Land-based,Singapore,2209.83,1071.35,1,Crypto,2024-07-10
+d35b3bcf-c0f3-4540-ad4a-a76d0ac0f0ae,Dustin Holland,Male,58,Marshall Islands,Slot Machine,Bronze,Desktop,Land-based,Macau,7796.62,4533.22,45,Crypto,2024-10-13
+1670f13a-de42-4692-afbe-50e01696cfed,Jennifer Smith,Female,61,Luxembourg,Blackjack,Gold,Desktop,Land-based,Singapore,6843.9,3901.53,9,PayPal,2024-05-16
+eb722155-b3c9-46d1-9a6b-083d4a7793c4,Jenna Olsen,Female,47,Bhutan,Craps,Platinum,Tablet,Land-based,Las Vegas,8803.59,7743.1,19,Credit Card,2025-04-08
+b058b0c9-d49f-43dd-a061-6cc551663f76,Jennifer Jacobs,Female,49,Burundi,Blackjack,Silver,Mobile,Land-based,Online,4072.48,2617.95,12,PayPal,2024-04-15
+7a8df43a-d5d0-43bb-bcfe-2b40106a28ef,Dr. Stephanie Smith,Non-binary,66,Svalbard & Jan Mayen Islands,Craps,Gold,Mobile,Land-based,Monte Carlo,2890.37,435.67,19,Crypto,2024-09-21
+141f3a6b-75d2-448a-8ece-51dd25ff6757,Charles White,Male,72,Martinique,Roulette,Platinum,Mobile,Land-based,Las Vegas,5666.41,1773.69,7,Crypto,2024-10-11
+47358252-5685-4885-a07d-38b0410cfe70,Dakota Smith,Female,64,Gabon,Roulette,Bronze,Mobile,Land-based,Monte Carlo,8000.07,5450.36,1,Credit Card,2024-09-27
+88cb3fce-827e-4486-8484-c3c0601945ff,Dr. Lynn Lopez,Non-binary,49,Peru,Slot Machine,Platinum,Mobile,Land-based,Online,3997.31,256.42,25,PayPal,2024-08-16
+85b21359-795e-4385-baf3-73ab79c34da8,Valerie Gallegos,Female,53,Antarctica (the territory South of 60 deg S),Roulette,Platinum,Tablet,Online,Las Vegas,2463.83,2279.3,25,Bank Transfer,2024-07-16
+e34bb31c-9bbc-48f5-b560-3a7f1564c52d,Hannah Peterson,Female,40,New Zealand,Roulette,Silver,Desktop,Online,Las Vegas,1062.7,208.26,13,Credit Card,2024-08-31
+d7034a1b-2a8f-4a57-bdb2-2f8296319ed5,Carlos Hayes,Male,40,Burkina Faso,Blackjack,Platinum,Tablet,Online,Monte Carlo,6570.61,282.71,20,PayPal,2024-05-04
+e314bff0-36bc-45ef-83a5-0ab5835abf32,Nathan Davenport,Non-binary,69,Sudan,Blackjack,Bronze,Tablet,Online,Online,3151.85,381.48,15,PayPal,2025-04-03
+aa105a1f-fdd6-4fc4-8c7b-a34e58e49f83,Clarence Smith,Male,42,Netherlands Antilles,Keno,Silver,Tablet,Land-based,Las Vegas,7015.98,6260.78,5,Bank Transfer,2024-08-30
+be19c77c-3aa5-4fa8-94d9-584c50e40aef,Kyle Anderson,Female,57,Guatemala,Baccarat,Gold,Mobile,Online,Atlantic City,3113.17,766.94,8,Bank Transfer,2025-01-27
+2dffd22f-650c-4893-bd72-879b5d7c385d,Theresa Jackson,Non-binary,25,Timor-Leste,Keno,Platinum,Mobile,Online,Online,6619.02,1446.04,18,Credit Card,2024-05-03
+f59a3347-2a4e-4031-8f8b-4d192ff4b905,Rachel Bauer,Female,29,Myanmar,Craps,Silver,Mobile,Land-based,Monte Carlo,7948.64,6497.99,28,Crypto,2025-03-10
+249c24b9-225e-4ee8-b447-f14ba81a6a6c,Jared Diaz,Non-binary,57,French Guiana,Poker,Bronze,Desktop,Land-based,Monte Carlo,1447.17,186.3,14,Bank Transfer,2025-03-14
+e3042435-a0da-43d5-95c4-e51ddc791824,Darlene Jordan,Non-binary,48,Tonga,Slot Machine,Gold,Desktop,Land-based,Singapore,8185.14,2445.34,22,PayPal,2024-09-16
+74bb3a23-0bbd-45e5-84c8-629235f809a1,Donna Ryan,Female,36,Thailand,Keno,Bronze,Tablet,Online,Online,6710.61,4089.35,46,Crypto,2024-05-04
+971ac8ff-6486-4d27-bcf6-15f16adf00b0,Jeffrey Padilla,Non-binary,54,French Guiana,Blackjack,Bronze,Desktop,Land-based,Online,4365.16,3046.14,12,Crypto,2024-04-14
+d8c21269-219d-491b-aa28-ef7898b282d3,Antonio Gonzalez,Female,55,Libyan Arab Jamahiriya,Baccarat,Platinum,Desktop,Online,Atlantic City,4201.98,3637.75,44,PayPal,2024-11-24
+2b1eb023-894c-411c-8c7e-11d71d440aca,Adam Richardson,Non-binary,24,Trinidad and Tobago,Baccarat,Platinum,Tablet,Land-based,Online,2407.99,1854.88,42,PayPal,2024-11-03
+9430ddbc-90f2-4bf0-bee1-09e9bbffcd76,Evan Hall,Female,70,El Salvador,Craps,Platinum,Desktop,Online,Las Vegas,3451.48,1926.68,19,Crypto,2024-10-05
+b66f2de0-71ec-4ba3-827c-f1c73df2ab58,Jennifer Baldwin,Female,44,Faroe Islands,Craps,Gold,Mobile,Land-based,Singapore,8015.42,5681.04,38,PayPal,2024-11-19
+ec528455-bb10-48aa-b149-637f5c1cb60f,Dawn Preston,Non-binary,35,Norfolk Island,Baccarat,Gold,Mobile,Land-based,Monte Carlo,6231.58,5032.82,14,Crypto,2024-09-16
+2eec7654-bc38-4799-a33a-b92f17fa19af,Martin Frazier,Non-binary,22,Hong Kong,Poker,Gold,Mobile,Land-based,Singapore,4550.34,3208.09,10,Crypto,2024-09-23
+2b4308e5-4a7f-48f9-af3b-59d4d10cfe6b,Felicia Jacobs,Female,44,Rwanda,Keno,Platinum,Tablet,Land-based,Online,4883.13,1553.41,17,Crypto,2024-05-13
+77564107-7f47-4f96-b4d2-1901e8fce728,Kayla Johnson,Non-binary,73,Peru,Craps,Silver,Mobile,Land-based,Las Vegas,8251.7,962.71,17,Credit Card,2024-04-22
+95876931-56bf-4e1f-b13c-9f871354926e,Jeff Williams,Male,21,Bouvet Island (Bouvetoya),Keno,Bronze,Mobile,Online,Las Vegas,8550.38,6572.49,47,PayPal,2025-02-19
+d39dcb65-3fea-46ef-bdeb-619bff45d603,Laura Erickson,Female,29,Cayman Islands,Craps,Bronze,Tablet,Online,Online,7794.35,422.07,13,PayPal,2024-07-19
+32145a85-ddbd-4f53-b455-dacc4ca33f28,Mark Moore,Male,34,Ecuador,Roulette,Platinum,Desktop,Land-based,Las Vegas,1268.48,337.57,34,PayPal,2025-01-17
+989973cd-05dc-4433-8adf-1929a3925ec6,Miss Janice Thomas,Male,33,Malawi,Roulette,Gold,Desktop,Land-based,Online,7778.45,6184.84,45,PayPal,2024-05-31
+36708dad-6cac-4cc7-805a-f092611c9c02,Edward English,Male,36,India,Poker,Silver,Desktop,Online,Online,7261.23,3826.93,16,Credit Card,2024-04-28
+e4259e0c-abfc-43c2-90a4-417382d21cc5,Angela Thompson,Male,33,Jersey,Poker,Silver,Mobile,Online,Monte Carlo,3118.06,2635.94,44,PayPal,2024-06-10
+5c571ec1-fc98-4083-a0c8-2f868914b970,Tanner Gill,Male,22,United States of America,Blackjack,Silver,Tablet,Online,Atlantic City,3338.4,1144.11,37,Bank Transfer,2025-01-16
+35c81d27-fea0-4dc2-99c9-d6b2b09d8989,Peter Chandler,Female,69,Brunei Darussalam,Baccarat,Platinum,Desktop,Online,Singapore,286.86,113.07,6,Credit Card,2024-08-15
+d498ae94-40e7-4116-b18b-95f5b9f0b818,Kevin Patton,Female,50,Botswana,Poker,Platinum,Mobile,Online,Las Vegas,8738.78,3191.56,45,Crypto,2024-08-10
+3f771f3e-d5e2-4b08-b318-cdbc0c868547,Kathleen Faulkner,Female,74,Macedonia,Poker,Gold,Desktop,Online,Singapore,8769.45,7258.93,22,Bank Transfer,2024-04-26
+ecb2b29d-7c7e-4246-9806-9d41e60fb6a7,Charles Lopez,Female,67,Libyan Arab Jamahiriya,Baccarat,Bronze,Desktop,Land-based,Atlantic City,7257.09,1547.48,12,Bank Transfer,2025-03-29
+7831f979-4fe4-4394-ba3a-ad2fe09fad8c,Tyler Cook,Female,42,French Guiana,Craps,Gold,Desktop,Online,Las Vegas,3070.61,1437.73,19,Crypto,2024-11-09
+502db7b7-1012-48d2-878b-93ddafc1fb77,Sandra Anderson,Female,58,Seychelles,Craps,Bronze,Mobile,Online,Online,8544.66,579.0,19,Crypto,2024-12-20
+98a7b4bf-fb87-46cb-8489-511749e8bde2,Lori Johnson,Non-binary,74,Barbados,Craps,Gold,Tablet,Land-based,Atlantic City,5551.58,4604.3,47,Crypto,2024-11-27
+011b867a-6443-4750-bd23-a38c4725f6c3,Johnathan Reynolds,Female,45,French Southern Territories,Poker,Platinum,Mobile,Online,Online,8150.51,6197.76,1,Crypto,2024-06-12
+71bee214-0c68-40b0-8147-77083c74f828,Erika Anderson,Male,49,Malawi,Poker,Platinum,Mobile,Land-based,Online,6549.58,2561.19,8,PayPal,2024-07-19
+64920455-6714-4ae4-99bb-496db7ebf0be,Aimee Ramos,Non-binary,71,Cocos (Keeling) Islands,Slot Machine,Silver,Mobile,Land-based,Monte Carlo,9485.75,6642.16,12,PayPal,2024-10-01
+6a00c064-ec3d-4665-b34a-1d62361197a7,Samantha Mcdonald,Female,23,Lao People's Democratic Republic,Blackjack,Platinum,Desktop,Land-based,Atlantic City,5519.14,552.96,43,Crypto,2024-05-24
+3afdc11d-3a4b-4c90-b76b-869462427f12,Sharon Pham,Male,47,Algeria,Keno,Silver,Mobile,Land-based,Atlantic City,729.34,46.3,18,Bank Transfer,2024-05-21
+e732235a-726e-4b12-9349-8f52b983e937,Carrie Taylor,Male,42,Argentina,Poker,Silver,Mobile,Land-based,Online,7754.43,1064.88,46,Crypto,2024-08-27
+9741c324-bae5-4a2a-b9c9-9dbb2cd07fa1,Jeremy Williams,Male,40,Sierra Leone,Slot Machine,Bronze,Tablet,Land-based,Las Vegas,7479.59,1650.4,47,PayPal,2025-01-01
+ae295e97-2a05-42b2-8470-675b25bdc0ed,Joseph Powell,Female,27,Russian Federation,Keno,Bronze,Tablet,Land-based,Macau,7088.02,3364.1,40,Bank Transfer,2025-01-03
+a22e43f8-06b7-4982-a1c9-73fce889370d,Duane Johnson,Non-binary,23,Nepal,Craps,Silver,Mobile,Land-based,Monte Carlo,8310.24,2947.18,5,Crypto,2024-08-05
+695ef28d-8749-47f1-b463-fc2fc4fa18c9,Ana Silva,Female,36,Namibia,Baccarat,Gold,Mobile,Online,Las Vegas,8325.91,5054.57,44,Credit Card,2024-11-04
+8014cacb-b8f7-4125-9468-3e2d084b057a,Luis Jones,Non-binary,33,Liberia,Baccarat,Platinum,Mobile,Land-based,Atlantic City,5461.11,2681.68,42,Crypto,2024-05-14
+f06cc836-a52f-4af9-80a0-ccbd03d8bdce,William Allen,Male,43,Guam,Baccarat,Bronze,Mobile,Land-based,Atlantic City,6859.76,1910.53,6,PayPal,2024-10-29
+d3854abd-46b1-4295-a224-7ef8983f9f44,George Black,Female,35,Isle of Man,Slot Machine,Gold,Desktop,Land-based,Las Vegas,3485.18,7.59,42,Credit Card,2024-05-05
+9e069ab5-ff37-4a9e-b9f1-35035b028648,Michele Middleton,Male,56,United States Virgin Islands,Slot Machine,Bronze,Desktop,Land-based,Atlantic City,3079.48,2136.59,8,Crypto,2025-02-21
+0c31f90a-a576-4057-9d00-ca151d39277a,Sara Pitts,Non-binary,49,Wallis and Futuna,Craps,Silver,Desktop,Land-based,Online,5840.81,5119.56,24,Credit Card,2024-08-25
+2bf19b27-cb80-4999-a5d2-3f1e9691f6a9,Leah Howard,Non-binary,49,Mayotte,Blackjack,Gold,Mobile,Land-based,Monte Carlo,146.63,145.96,30,Bank Transfer,2024-09-07
+97a488a0-15a4-4204-b693-2305a9e9c683,David Smith,Non-binary,26,Equatorial Guinea,Blackjack,Gold,Mobile,Online,Macau,9062.9,7083.71,42,Credit Card,2025-01-24
+af82e6c7-eadf-405a-89a9-4e083d075717,Eric Collier,Male,66,Guadeloupe,Poker,Silver,Desktop,Online,Singapore,5965.07,5014.04,18,PayPal,2024-11-25
+6eebecf9-8110-4c59-8687-14a4d32546ad,Jacob Beltran,Female,65,American Samoa,Craps,Silver,Tablet,Online,Macau,3619.31,3291.64,22,Bank Transfer,2024-05-18
+c89435bc-e085-4ca4-8d1d-dfab281d397d,Mark Ward,Non-binary,38,Georgia,Roulette,Bronze,Mobile,Online,Macau,8306.1,970.31,31,Credit Card,2024-05-01
+71a190c8-c9ea-42d1-8ca3-14836300ecc6,Shelby Ray,Male,73,Canada,Blackjack,Gold,Desktop,Online,Atlantic City,5184.09,5093.16,11,Bank Transfer,2024-06-12
+d702a85d-e36f-4d34-862c-ce6d4b710211,Joseph Bryant,Non-binary,28,Botswana,Keno,Platinum,Mobile,Land-based,Las Vegas,8607.61,6305.84,31,Bank Transfer,2024-11-05
+6e6d57e6-20fd-4706-9710-2863e7b39538,Diane Boyer,Female,45,Moldova,Baccarat,Gold,Desktop,Online,Singapore,3290.81,686.34,6,Credit Card,2024-04-25
+3cd6eacd-246a-401f-bab2-46553e7e1ecb,Stephen Parker,Non-binary,44,Lesotho,Slot Machine,Platinum,Desktop,Land-based,Atlantic City,6879.53,1015.7,42,Bank Transfer,2024-12-17
+28f576d1-c53d-4696-b7bb-81ddefe03997,David Lewis,Non-binary,26,Iceland,Slot Machine,Platinum,Desktop,Land-based,Monte Carlo,9522.26,5895.36,48,PayPal,2024-04-29
+684fe081-4f71-47f9-ad19-f3b83624d1bf,Judy Fleming,Male,49,Christmas Island,Blackjack,Gold,Mobile,Online,Singapore,6346.64,4175.8,13,PayPal,2024-07-08
+7ef1d538-f47f-4333-8cf2-b01f19675c43,Evan Gomez,Non-binary,58,Macedonia,Blackjack,Silver,Mobile,Online,Macau,3292.37,1749.44,31,Credit Card,2024-10-29
+0b38ece2-f7d4-4eea-a201-880954a518df,Matthew Jones,Non-binary,44,Andorra,Roulette,Platinum,Desktop,Online,Macau,2242.87,1750.78,21,Credit Card,2024-09-16
+697e5eff-03b3-4142-b8ed-dab100a619ea,Jennifer Thomas,Male,66,China,Roulette,Silver,Desktop,Online,Monte Carlo,593.9,270.51,3,Credit Card,2024-07-11
+6f20e62d-8a22-4b1a-8c61-2ddd2ab32843,Ashley Dickerson,Male,56,Gambia,Keno,Platinum,Mobile,Online,Online,2722.9,991.37,24,Credit Card,2025-01-31
+af3b80f6-2eef-4b3c-9ada-3f9851e0f842,Ashley Boone,Female,34,Korea,Baccarat,Gold,Mobile,Online,Atlantic City,5.19,3.19,45,Bank Transfer,2024-06-21
+41ba4b43-6290-4fd8-8442-256783cb4822,Joshua Glenn,Male,23,Algeria,Blackjack,Gold,Tablet,Online,Macau,7255.64,4344.35,27,PayPal,2025-03-08
+7ccc637e-c5e1-496b-8e74-48338dd1eff9,Jennifer Sanchez,Male,74,Greenland,Slot Machine,Platinum,Tablet,Online,Las Vegas,183.17,46.65,2,PayPal,2024-07-12
+73ba4247-e285-4656-a1e6-115c6a2e9cb0,Suzanne Hill,Female,22,Angola,Craps,Bronze,Tablet,Land-based,Las Vegas,511.8,438.43,2,Bank Transfer,2024-10-20
+bbe5275d-7884-4869-b2e2-e4b9142bab10,Natalie Thompson,Female,20,Bulgaria,Slot Machine,Platinum,Mobile,Land-based,Las Vegas,7023.49,2852.38,38,Crypto,2024-07-15
+30743cf0-6d1f-4e7d-8f27-860e36666db7,Tyler Robinson,Non-binary,39,Georgia,Roulette,Platinum,Tablet,Online,Singapore,255.85,120.39,23,PayPal,2024-10-08
+6db8b23f-96ad-4ee8-8a62-a54474ef7756,Lori Hughes,Female,49,Italy,Roulette,Platinum,Mobile,Online,Singapore,1877.56,1241.96,8,PayPal,2025-01-14
+8ac95df0-7297-4709-a2d5-5e1c4d9884a3,Travis Freeman,Female,68,Zimbabwe,Keno,Platinum,Tablet,Land-based,Monte Carlo,8055.89,1571.01,22,Crypto,2024-07-06
+c77f3760-45e4-4952-ab0d-baf4bb0ce231,Ethan Krueger,Male,18,Gabon,Poker,Gold,Desktop,Online,Singapore,5906.42,590.18,15,Crypto,2024-10-10
+5de93aae-57a6-4bb7-a52f-210031c412fd,Kurt Franklin,Non-binary,27,Malta,Keno,Gold,Desktop,Online,Online,9368.21,3873.97,13,Bank Transfer,2024-11-13
+2be491d4-59a5-4231-bad6-e9e4380fa3c1,Brittany Johnson,Female,74,Antigua and Barbuda,Craps,Bronze,Tablet,Land-based,Online,5157.72,3238.93,32,PayPal,2024-12-31
+8acc343b-f527-4a01-9b1a-67c05d5c7781,Nathan Lee,Male,38,Cote d'Ivoire,Keno,Bronze,Mobile,Online,Online,1171.71,76.34,43,Crypto,2024-07-03
+13c26dfc-90f2-41f7-9ebc-0c87ad64c5cb,James Adams,Male,60,Azerbaijan,Blackjack,Silver,Mobile,Land-based,Singapore,4506.45,2450.62,19,Crypto,2024-08-19
+d4f80561-17f4-46d5-93fd-fc86e4eb2951,Amy Ho MD,Non-binary,55,Croatia,Blackjack,Gold,Desktop,Online,Atlantic City,9036.17,5894.44,38,Crypto,2024-08-02
+c37a6628-c8f1-4161-8da7-1ae33d9c6f54,Kathy Sims,Non-binary,20,Slovakia (Slovak Republic),Craps,Silver,Desktop,Online,Macau,2403.7,1703.34,28,Bank Transfer,2025-04-04
+489bea9d-2eaf-441e-a89a-3dc813a7f305,Timothy Roberts,Non-binary,56,Denmark,Baccarat,Platinum,Tablet,Land-based,Macau,1007.98,39.06,23,Crypto,2024-07-16
+3c7e488a-fb48-49c0-bb93-8ce3f26c9214,Judith Simpson,Non-binary,21,Ethiopia,Keno,Silver,Mobile,Online,Macau,8106.05,6471.15,49,Crypto,2025-04-06
+8804ef5a-6cbb-4f2d-8520-4eefc1926d25,Alan Oliver,Female,34,Belgium,Roulette,Bronze,Desktop,Land-based,Singapore,6483.89,2711.7,16,Bank Transfer,2024-09-23
+dc2e5ec8-a49a-42a5-abbf-297cd00ba8b0,Jill Hamilton,Non-binary,19,Vietnam,Poker,Silver,Desktop,Land-based,Singapore,9404.24,8556.55,50,Bank Transfer,2024-12-25
+63f37b4e-4d2f-453e-8792-5da454dc6c1e,Ashley Ware,Female,54,Seychelles,Keno,Gold,Desktop,Land-based,Atlantic City,1356.42,948.08,23,PayPal,2024-11-20
+afe59a48-ad56-49ea-a7ac-4373f99b3354,John Bonilla,Female,33,Malta,Slot Machine,Bronze,Mobile,Land-based,Singapore,3616.8,809.26,49,Credit Card,2024-06-11
+61bf2bd7-0500-43be-a7c4-788c335f64df,Monica Gross,Male,73,Australia,Poker,Silver,Tablet,Online,Macau,8004.74,1678.56,6,Crypto,2024-10-18
+77068613-1179-4707-b9b5-0abde5386bc5,Benjamin Perez MD,Non-binary,23,Pakistan,Slot Machine,Silver,Tablet,Online,Macau,7712.28,18.97,14,Credit Card,2024-06-01
+57b40311-149b-4cc1-b215-a8063f172705,Brandon Walsh,Male,73,Martinique,Baccarat,Platinum,Tablet,Land-based,Monte Carlo,359.32,5.02,26,Crypto,2024-09-07
+d596e2b3-486f-4068-b525-bbac5df062c6,Jeremy Williams,Female,26,Morocco,Baccarat,Platinum,Desktop,Land-based,Singapore,6790.92,3825.82,43,Crypto,2024-09-10
+e2fc4894-9842-45de-bed4-c4a9479a1bb1,Tony Ramos PhD,Non-binary,64,Lithuania,Craps,Silver,Mobile,Land-based,Monte Carlo,7185.27,169.25,34,Crypto,2024-04-26
+cc3c0130-0788-4f8b-a84c-9f5a8c7252eb,Andrew Macdonald,Non-binary,39,Swaziland,Craps,Silver,Desktop,Online,Online,9233.88,2976.54,4,Crypto,2024-11-30
+994d7b1f-9c65-46bc-bdfa-44d28cdb5580,Pamela Thomas MD,Non-binary,69,Finland,Blackjack,Silver,Desktop,Land-based,Atlantic City,6657.41,2509.15,45,Bank Transfer,2025-01-06
+f37fe4fb-6858-47c0-b363-51c381204ca9,Leroy Lynch,Female,22,Svalbard & Jan Mayen Islands,Keno,Platinum,Mobile,Land-based,Online,4009.54,433.12,11,PayPal,2024-05-17
+a8a0cb51-3cc3-474f-85e4-9c78fcbf7097,Amber Ramirez,Female,64,Bosnia and Herzegovina,Slot Machine,Silver,Mobile,Land-based,Atlantic City,8307.09,3282.06,50,PayPal,2024-06-28
+c73c5b86-c54a-4fde-a680-5ce30355271b,Dr. Andrew Mcdonald PhD,Non-binary,35,Hong Kong,Craps,Platinum,Tablet,Online,Singapore,764.28,597.03,16,Bank Transfer,2024-11-03
+28e90258-3975-47a1-a4be-7c638bd92097,Michelle Suarez,Male,27,Ethiopia,Keno,Platinum,Desktop,Online,Singapore,5280.38,2235.27,19,PayPal,2024-05-13
+30dc29ee-d139-40ac-a376-45979e65b25a,Christine Cohen,Male,64,Haiti,Craps,Platinum,Desktop,Land-based,Monte Carlo,9879.78,7862.12,47,Credit Card,2024-06-26
+c84a4873-c297-4793-8908-7e226591c0c3,Henry Blair,Male,52,Palau,Slot Machine,Platinum,Tablet,Land-based,Atlantic City,971.78,716.23,42,PayPal,2025-03-18
+ebf67570-bed1-4014-97b7-f4c413822921,Dawn Collins,Non-binary,36,Nauru,Craps,Platinum,Desktop,Land-based,Online,416.7,38.0,13,PayPal,2024-04-22
+9ffa7642-a4d3-45ab-acc3-60887af7496b,Jordan Johnson MD,Male,30,Congo,Poker,Gold,Tablet,Online,Singapore,7353.41,6521.7,29,Bank Transfer,2025-01-07
+4e0ba2b8-f971-4a8e-bb1a-bea03bf8fdbb,Victoria Williams,Female,23,Anguilla,Baccarat,Platinum,Desktop,Online,Atlantic City,8680.24,4839.42,4,Bank Transfer,2025-03-29
+f4460e99-77c8-4454-9d88-3ccabc65ea82,Amy Day,Male,64,Sierra Leone,Baccarat,Bronze,Mobile,Land-based,Singapore,2082.11,545.27,44,Credit Card,2024-11-30
+3fca7528-0fd3-4fb9-b2d2-52d1ffc4699a,Mark Martin,Male,24,Falkland Islands (Malvinas),Keno,Platinum,Mobile,Online,Las Vegas,6715.24,1004.81,3,PayPal,2025-02-08
+8ed30205-da4b-43f5-935e-524b71339fd1,Crystal Howard,Male,51,Finland,Craps,Platinum,Mobile,Online,Atlantic City,9627.27,6137.73,2,Crypto,2024-09-05
+fd8917b1-e983-485b-98a9-8438be3fb642,Scott Wise,Male,50,Malawi,Craps,Silver,Tablet,Land-based,Singapore,6371.17,5458.23,23,Crypto,2024-04-22
+b2d2d769-6b59-474d-86ac-311a8961df5d,Hannah Jefferson,Female,43,New Caledonia,Poker,Platinum,Mobile,Online,Macau,9296.03,7220.38,33,Bank Transfer,2024-06-08
+44a2ef3a-a5b5-4b11-9577-16d156edca68,Dennis Hood,Male,19,Mauritius,Craps,Gold,Tablet,Online,Singapore,7712.52,7374.87,44,Bank Transfer,2025-01-24
+25614679-56c9-4f17-99ca-fb153722d8a7,Gordon Porter,Female,40,Tunisia,Blackjack,Gold,Mobile,Land-based,Singapore,8630.15,6586.45,48,Credit Card,2024-12-03
+dfb6af8e-ea03-4aa2-acf5-71a69618b40a,Sharon Cohen,Non-binary,51,Niue,Slot Machine,Platinum,Mobile,Online,Online,7291.84,2300.54,11,Bank Transfer,2024-09-02
+aabfc131-cc5a-40d9-9594-87c7807a6595,Kenneth Campbell,Male,66,Djibouti,Slot Machine,Gold,Desktop,Online,Atlantic City,5098.58,2347.28,29,Crypto,2024-06-03
+3a0eda15-e677-4547-9264-dbfc0c208d1d,Yesenia Blair DVM,Female,22,Kenya,Slot Machine,Platinum,Desktop,Land-based,Las Vegas,3300.13,816.35,17,Crypto,2024-08-03
+42a829d7-6ae6-49bd-ba61-d95fdced483c,Leslie Parker,Female,75,Senegal,Slot Machine,Bronze,Tablet,Online,Singapore,883.13,408.33,3,Bank Transfer,2024-10-25
+470aa14e-8564-46bd-8c94-601ce50016cd,Shawn Ramos,Male,63,Micronesia,Roulette,Bronze,Tablet,Online,Singapore,3951.8,1781.4,16,PayPal,2024-09-20
+c79a7275-a312-44ff-aeb9-d6696a477a69,Jessica Wagner,Male,55,Canada,Craps,Gold,Tablet,Land-based,Singapore,7492.86,3308.76,10,Crypto,2024-07-31
+30309154-26a6-4709-a0e7-6ff4604cd2c2,Kenneth Martin,Non-binary,40,Paraguay,Craps,Gold,Desktop,Online,Singapore,7282.16,5354.51,20,Credit Card,2024-09-28
+e166e3eb-c7ee-456d-afeb-704803b0ddc5,David Barry,Male,27,Togo,Poker,Bronze,Mobile,Online,Macau,7264.92,7262.93,23,Crypto,2024-08-07
+60e1d77c-69bc-4b12-b7d1-ca8f186a0974,Allison Small,Male,43,Mexico,Poker,Silver,Desktop,Online,Monte Carlo,3809.63,974.59,23,PayPal,2024-10-07
+5a65b657-6439-43e7-ae89-faae0edadc7f,Richard Williams,Female,22,Bolivia,Roulette,Silver,Tablet,Land-based,Atlantic City,2643.62,2458.88,45,Credit Card,2024-09-30
+d1dd5c25-f5f4-4975-93d6-f505cf3510fb,Michelle Anderson,Male,41,Cocos (Keeling) Islands,Blackjack,Bronze,Mobile,Online,Macau,713.47,48.07,17,Credit Card,2024-12-18
+e2b08d82-24a8-4aef-9420-9e7674a0565c,Luis Smith,Male,26,Micronesia,Roulette,Gold,Desktop,Online,Atlantic City,3131.99,2609.31,21,Bank Transfer,2024-12-03
+d982c630-9240-4108-b06f-681da4201e74,Regina Barajas,Non-binary,54,Central African Republic,Baccarat,Bronze,Desktop,Land-based,Atlantic City,8090.08,7039.32,39,Credit Card,2024-07-02
+d165b94e-2630-43cb-a6cc-5430d58e9d0b,Alan Ramsey,Female,27,Palestinian Territory,Craps,Gold,Desktop,Land-based,Macau,3559.1,264.22,19,Crypto,2024-09-23
+180f250a-f51d-4fe9-9696-596609935982,Laura Dawson,Male,64,Libyan Arab Jamahiriya,Roulette,Bronze,Tablet,Online,Online,1673.8,1041.69,42,Crypto,2024-07-09
+603c8526-55d6-4a51-85d4-80727c048b43,Jonathan Hernandez,Female,22,Croatia,Slot Machine,Gold,Mobile,Land-based,Monte Carlo,1596.16,283.39,39,Bank Transfer,2024-08-15
+43a36f18-3c5a-4a4b-a9c7-2eee2d04d379,Cory Graham,Female,29,Saint Helena,Keno,Platinum,Desktop,Online,Online,815.67,268.82,36,Credit Card,2025-01-21
+9e20b82a-341b-462c-be29-8d6dd46a42df,Aaron Garcia Jr.,Male,55,Faroe Islands,Blackjack,Silver,Mobile,Online,Atlantic City,8942.35,2092.28,32,Crypto,2024-06-08
+32626ab7-1cfa-4604-86e5-19f402257285,Bobby Jones,Non-binary,69,Afghanistan,Roulette,Bronze,Mobile,Land-based,Macau,1607.32,212.22,42,Credit Card,2024-05-17
+20bafc6f-d762-42ca-a0eb-29d46506dd74,Amanda Warren,Male,41,Bangladesh,Baccarat,Silver,Mobile,Online,Singapore,2075.82,691.05,42,Credit Card,2024-12-21
+ba092ff9-f178-487c-859f-094d1a8ffcfa,Stephen Marks,Female,71,French Southern Territories,Roulette,Bronze,Desktop,Online,Monte Carlo,2495.43,805.98,30,PayPal,2024-05-24
+140d63d0-1c5f-44c9-90af-77b8cfb1c676,Raymond Wolfe,Non-binary,58,Pitcairn Islands,Slot Machine,Platinum,Desktop,Land-based,Online,1376.92,171.06,18,Credit Card,2024-10-28
+0ace290c-21f9-4f65-8b45-7815239d4226,Alison Brown,Male,32,Slovenia,Roulette,Platinum,Desktop,Land-based,Singapore,7194.83,900.8,49,Bank Transfer,2025-01-26
+d40b9f9e-7bec-4fb9-9ee1-2495350a2498,Lisa Gay,Non-binary,23,Oman,Roulette,Gold,Tablet,Land-based,Las Vegas,6207.47,3189.49,4,Credit Card,2024-10-08
+787b7e27-d48e-476f-9b80-fd68cecd5d53,David Mcintosh,Female,22,British Virgin Islands,Slot Machine,Gold,Tablet,Online,Monte Carlo,4145.1,3545.46,8,PayPal,2024-07-08
+e9eca84f-817c-43f3-85db-1b2849f7236c,Katie Stein,Female,62,Japan,Poker,Bronze,Mobile,Land-based,Atlantic City,5560.95,52.7,7,Bank Transfer,2024-05-10
+102287fe-1ff1-4ddb-8f7b-c4cf427823d5,Larry Eaton,Non-binary,65,Japan,Slot Machine,Silver,Mobile,Land-based,Monte Carlo,8926.62,6970.61,25,Bank Transfer,2024-10-28
+2200d146-889f-4fcc-b64e-90b4a96db738,Chloe Smith,Female,74,Jamaica,Slot Machine,Silver,Mobile,Land-based,Singapore,8571.69,2887.35,37,Bank Transfer,2024-08-21
+86867d1a-d28a-4f75-a7b8-13835b038b9d,Michael Rodriguez,Non-binary,60,Israel,Poker,Bronze,Mobile,Land-based,Las Vegas,4712.87,2118.7,39,Crypto,2024-05-04
+73477b8b-888c-4257-b1ce-3625f535d502,Angela Ellison,Non-binary,36,Antigua and Barbuda,Poker,Platinum,Mobile,Online,Singapore,493.99,143.36,26,PayPal,2024-09-20
+4166553a-4743-4697-afcf-3a37aed51b86,Heather Taylor,Female,67,Burundi,Slot Machine,Platinum,Mobile,Land-based,Monte Carlo,9690.21,1686.47,46,Crypto,2024-10-01
+61826308-6985-419b-99e2-2097cac9d81d,Angela Huerta,Non-binary,71,Macedonia,Blackjack,Bronze,Tablet,Land-based,Atlantic City,4979.56,4148.21,28,Crypto,2024-11-06
+3d0f0aed-f328-41f1-9bfe-c4ae7323220d,Christine Berry,Female,74,Angola,Slot Machine,Bronze,Mobile,Land-based,Macau,6563.75,4833.18,27,Bank Transfer,2025-01-20
+1a449ba8-239d-464e-bdf6-c5d768801c56,Paul Taylor,Male,20,Cook Islands,Baccarat,Bronze,Desktop,Online,Singapore,2490.58,1597.02,14,Credit Card,2025-03-15
+39c0ef1e-84d6-4c8c-88eb-3fd7a3c119ee,Lauren Harris,Male,62,Tokelau,Roulette,Silver,Mobile,Land-based,Las Vegas,516.41,239.27,48,Bank Transfer,2024-05-30
+fec47503-887a-4f6b-8b9c-03c7b554fcaa,Joseph Berg,Non-binary,40,Uzbekistan,Roulette,Platinum,Mobile,Online,Online,8736.79,1920.02,24,Crypto,2025-03-15
+fa508336-9c6d-4d4c-a3b1-06c957c8e22e,James Torres,Female,32,Israel,Roulette,Gold,Mobile,Land-based,Las Vegas,3793.65,635.97,44,Crypto,2024-07-28
+c81e226b-9adc-4e9b-8138-c5f1c87e78a2,Ryan Perez,Male,52,Bolivia,Roulette,Silver,Mobile,Online,Monte Carlo,2482.2,2263.74,19,Crypto,2024-10-27
+027e1254-e8d1-461b-95eb-e2aa40669ae9,Brandon Sanchez,Non-binary,29,Antarctica (the territory South of 60 deg S),Baccarat,Platinum,Mobile,Land-based,Monte Carlo,1004.81,669.89,45,Credit Card,2024-11-24
+5f05e0f9-4a26-4e1f-8450-cfb9817953df,Zachary Young,Female,69,Austria,Blackjack,Silver,Desktop,Land-based,Las Vegas,4262.27,2073.74,31,Bank Transfer,2024-12-04
+615b95f2-6426-445f-919d-dc66f5fe84e5,Kelly Harrison,Male,27,Iraq,Keno,Silver,Tablet,Online,Singapore,8240.86,3145.1,31,Crypto,2025-04-07
+ca22d00f-b9d4-45ad-9625-29f4a0e7a5b2,Ronald Hayden,Male,53,Moldova,Keno,Gold,Tablet,Online,Atlantic City,206.94,165.71,18,Bank Transfer,2024-04-26
+24d43758-c54a-4717-983d-b4cf2038a14c,Jennifer Harris,Non-binary,53,Belize,Baccarat,Silver,Mobile,Land-based,Las Vegas,8232.05,2101.79,19,Crypto,2024-06-20
+d2c7180e-ec44-48f9-8b8a-902dda6fe0ca,Kristina Vargas,Non-binary,45,Guam,Keno,Silver,Mobile,Online,Online,646.78,80.43,7,Crypto,2024-07-09
+bbe3c9f5-984d-445d-92a0-a23915ef6f13,Melissa Winters,Non-binary,35,Singapore,Slot Machine,Silver,Mobile,Land-based,Las Vegas,1402.11,698.22,25,Credit Card,2024-07-14
+ea3673d7-d791-4d1a-88c3-e1c7e865fc9a,Linda Smith,Non-binary,53,Norfolk Island,Slot Machine,Bronze,Tablet,Land-based,Macau,2380.08,1421.08,49,PayPal,2024-12-16
+146a7af2-19ab-4014-b35a-fcc1877bdf46,Ronnie Fleming,Male,75,Georgia,Blackjack,Silver,Mobile,Land-based,Las Vegas,8107.93,7975.85,12,Crypto,2024-05-15
+e6be9649-cc2d-4a31-83b7-deda362a5773,Michael Tran,Non-binary,34,Sierra Leone,Blackjack,Silver,Desktop,Land-based,Atlantic City,2184.91,1084.83,17,Credit Card,2024-09-19
+ad0bda89-7557-4e6d-a17a-5084b4348556,Daniel Olson,Female,68,Denmark,Slot Machine,Bronze,Desktop,Online,Online,705.36,227.35,12,Crypto,2025-04-04
+327091ea-68a2-462e-8673-481b7718983c,David Hensley,Female,73,Poland,Roulette,Silver,Mobile,Land-based,Las Vegas,9390.72,7204.67,31,Crypto,2024-05-31
+c4930390-0fcb-4256-9cc7-536522a019cb,Darius Roberts,Non-binary,32,British Indian Ocean Territory (Chagos Archipelago),Slot Machine,Bronze,Desktop,Land-based,Macau,2576.29,2262.16,16,Crypto,2024-10-03
+42d9abea-771e-430d-b477-bdd790011dca,Benjamin Williams,Non-binary,56,Oman,Poker,Gold,Desktop,Online,Monte Carlo,8828.37,2397.21,22,PayPal,2024-12-07
+e2fdedd8-362f-49bf-a2dc-35c1d0c6eff6,Rebekah Ross,Female,22,Turks and Caicos Islands,Baccarat,Gold,Tablet,Online,Online,7992.5,3192.59,17,PayPal,2025-01-04
+442a5ef0-3d40-43c4-9d9d-5c8b8484b33c,Charles Ward,Non-binary,40,Vanuatu,Blackjack,Platinum,Tablet,Online,Macau,552.5,529.83,3,Bank Transfer,2024-04-14
+0ecacc3c-60b6-4942-8d3a-0e9674d83b49,Leslie Kelley,Non-binary,34,Gibraltar,Keno,Silver,Desktop,Land-based,Online,3758.9,767.63,26,Crypto,2024-09-07
+f52cee1c-7ed4-4ef2-ba89-3b956851738c,Alejandro Ward,Female,53,Hong Kong,Poker,Gold,Tablet,Online,Las Vegas,2973.86,2504.84,34,Bank Transfer,2024-10-16
+186c541e-947b-4755-8886-4827bf5beb86,Jesse Wilson,Non-binary,46,Brazil,Slot Machine,Silver,Mobile,Online,Atlantic City,1092.76,571.71,46,PayPal,2025-01-01
+e2e09c4f-4156-46c9-aa4e-797072877452,Mark Martinez,Male,58,Tuvalu,Poker,Gold,Mobile,Online,Online,4827.73,1015.05,6,PayPal,2024-06-09
+b3940165-b5da-4af1-aaff-fb5369d51da3,Stephanie Sparks,Female,23,Andorra,Keno,Bronze,Tablet,Online,Monte Carlo,8019.96,4350.35,2,Credit Card,2025-01-05
+2219dddf-2d77-4e16-95a5-e6fa9961d91e,Amanda Orr,Non-binary,56,Dominica,Slot Machine,Gold,Desktop,Online,Monte Carlo,6137.13,4163.75,33,PayPal,2024-09-27
+9d1ac6b3-7182-4c3c-b1d5-d156c8cbfc0b,Ann Williams,Non-binary,44,Spain,Craps,Gold,Desktop,Online,Monte Carlo,5947.96,1826.05,48,Credit Card,2024-11-27
+44b2a82e-eb44-4cfa-ae03-e9f6ddf892f5,Nathan Mason,Female,68,Central African Republic,Baccarat,Bronze,Mobile,Online,Atlantic City,1437.65,1219.73,42,Crypto,2024-12-06
+a054f910-05de-41d0-a38c-9bc3a3bda7f7,Mrs. Susan Roberts,Non-binary,26,Zambia,Poker,Bronze,Tablet,Land-based,Atlantic City,7175.46,5582.28,14,Credit Card,2024-07-25
+8d473233-c20f-416b-a65c-bdd71ccbb451,Malik Watts,Female,36,Anguilla,Blackjack,Gold,Tablet,Online,Las Vegas,222.82,176.89,35,Crypto,2024-07-04
+1a2d4b78-ffb5-4e99-998b-9ba9e9204506,Victoria Ward,Non-binary,22,Egypt,Craps,Silver,Mobile,Land-based,Las Vegas,8608.3,2714.57,50,Bank Transfer,2024-08-07
+53345866-e60a-4a3b-8c09-d335c23df9d2,Samantha Lowe,Female,36,Botswana,Baccarat,Gold,Mobile,Online,Atlantic City,7833.93,3107.13,22,Crypto,2024-10-31
+3267691e-236d-4478-878d-9840bb98445a,Kenneth Harrington,Non-binary,67,Tokelau,Baccarat,Platinum,Mobile,Online,Macau,2268.09,1946.95,34,Credit Card,2025-03-11
+865565e7-cd32-45ec-a256-90c982d11adc,Heather Zamora,Female,64,Brazil,Baccarat,Bronze,Mobile,Online,Las Vegas,2458.17,987.9,41,Crypto,2024-08-11
+31feca18-5906-47e1-85f0-0ea82add0d7e,Kelli Pace,Male,36,Benin,Slot Machine,Platinum,Desktop,Online,Singapore,1183.6,29.4,1,Crypto,2024-04-29
+1080d23b-348f-4b77-91db-542b1c888453,Mrs. Karen Pierce,Male,73,Tonga,Craps,Gold,Tablet,Online,Las Vegas,6395.42,2945.21,9,Bank Transfer,2024-07-02
+512be1d8-13a8-4e1f-b436-1fed5287c8e2,Madison Townsend,Female,32,Mali,Craps,Gold,Mobile,Online,Macau,6360.72,2091.41,32,PayPal,2024-11-10
+b28b1e12-ee80-430b-8803-7669dd8f3fbc,Kim White,Non-binary,57,Vanuatu,Craps,Bronze,Mobile,Online,Atlantic City,8149.48,3420.88,4,Bank Transfer,2024-10-12
+27eb317b-4b75-4123-9606-d36514881e02,Paul Fletcher,Non-binary,72,Antigua and Barbuda,Poker,Platinum,Desktop,Online,Atlantic City,5359.09,570.51,43,Bank Transfer,2024-05-21
+e6bc8fde-1484-494e-a8a9-31538c6fc45d,Justin Fletcher,Non-binary,52,Gabon,Slot Machine,Bronze,Desktop,Land-based,Singapore,2592.86,965.68,25,Crypto,2024-09-25
+71ef1177-bcf2-46be-a078-339f66629dca,Rachel Ferguson,Non-binary,63,Poland,Roulette,Platinum,Desktop,Online,Macau,8307.84,6823.35,31,PayPal,2024-05-01
+686981b1-86fe-40e9-9a3f-8bb508b5959a,Allison Miller,Male,39,Honduras,Baccarat,Bronze,Tablet,Online,Atlantic City,1653.78,964.56,35,Credit Card,2024-06-24
+3ad9e7db-316d-44e0-af99-48947c1fca21,Joe Lowe,Male,63,Peru,Blackjack,Silver,Desktop,Land-based,Las Vegas,1647.15,1014.17,43,Credit Card,2024-10-15
+9069bc61-aebf-4cd6-8771-0699ed44ce31,Brian Russell,Female,68,Qatar,Baccarat,Silver,Mobile,Land-based,Las Vegas,3912.01,1079.8,26,Bank Transfer,2024-07-04
+2c2346c0-77d1-45e4-a3c3-dbc8dde89cb3,Elizabeth Jackson,Male,65,British Indian Ocean Territory (Chagos Archipelago),Roulette,Platinum,Tablet,Online,Monte Carlo,3385.09,951.25,14,Bank Transfer,2025-01-29
+0a1f9a78-c175-425c-b57f-49c213390ade,Alexis Gould,Non-binary,42,Macao,Craps,Silver,Mobile,Online,Online,1358.08,733.44,3,Crypto,2024-10-15
+d8dc8d66-0ad0-4de5-9271-c33833bcd265,John Diaz,Female,32,Georgia,Slot Machine,Bronze,Tablet,Land-based,Macau,9260.99,3724.28,23,Crypto,2025-04-08
+69df0e5a-2e47-4529-9597-440618aa0efa,Grant Lester,Female,36,Sri Lanka,Keno,Bronze,Mobile,Land-based,Las Vegas,6988.38,6510.64,31,Bank Transfer,2024-08-03
+4e62f19c-3c32-4848-984f-f398fb847e31,Ronald Leonard,Male,70,Bolivia,Craps,Bronze,Mobile,Online,Atlantic City,2297.5,292.14,33,Crypto,2024-09-11
+7b17a4c9-7c0c-4ee4-90bc-10aa6cc93ce8,Christopher Grant,Female,27,Bolivia,Keno,Platinum,Desktop,Land-based,Monte Carlo,5798.57,4300.39,12,Bank Transfer,2024-08-10
+4a973bd9-73bf-4d75-8467-d601ae06b5e3,Daniel Saunders,Female,58,New Caledonia,Baccarat,Bronze,Desktop,Land-based,Macau,3171.85,696.03,34,Credit Card,2025-01-18
+140ff176-3deb-4d5b-9b5e-876df9cdbb9d,Jamie Miles,Female,52,Greece,Baccarat,Silver,Tablet,Online,Atlantic City,8309.72,4448.29,46,Crypto,2024-11-05
+d35aebaf-af8e-4ff2-a4b6-5da95f3b7720,Richard Brady,Non-binary,74,United States Virgin Islands,Slot Machine,Silver,Mobile,Online,Las Vegas,189.79,135.84,24,PayPal,2024-11-16
+887c662d-0b92-4b6a-ac37-c6ddc8eb8505,Ronald Anderson,Non-binary,30,Pitcairn Islands,Keno,Bronze,Mobile,Online,Las Vegas,9256.32,519.79,6,Bank Transfer,2025-02-03
+ab2dd903-ca41-4935-bb18-292d3de4bedc,Grace Williams,Non-binary,42,Tanzania,Slot Machine,Gold,Mobile,Land-based,Monte Carlo,5021.65,3138.49,11,Credit Card,2025-04-06
+e7e895ca-b4b8-4bd5-a2c4-e949a039f190,Andrew Wilson,Male,74,Bosnia and Herzegovina,Poker,Platinum,Desktop,Online,Atlantic City,3566.16,2962.15,39,Credit Card,2024-11-04
+da65a774-0e50-4474-8328-b93532161a2a,Eric Cunningham,Male,64,Maldives,Baccarat,Gold,Mobile,Online,Singapore,9956.71,7054.55,43,Credit Card,2025-01-02
+97412e53-9014-48d7-b63a-ca3b0c28e040,Sarah Murphy,Male,23,Andorra,Craps,Silver,Desktop,Online,Monte Carlo,8958.34,5944.43,9,PayPal,2024-06-06
+7804d057-fa48-4e42-a8d1-61342e0708e9,Samuel Hutchinson,Non-binary,42,Czech Republic,Blackjack,Silver,Tablet,Land-based,Online,9304.62,2317.15,15,Bank Transfer,2025-02-04
+34d63c84-598d-4002-84bb-c97e0631d1d6,Jessica Owens,Non-binary,46,Malaysia,Craps,Gold,Desktop,Online,Online,7800.41,2779.88,22,Crypto,2024-10-14
+49455073-09fb-4566-a4c2-ae8d22f39615,Mrs. Michelle Deleon,Non-binary,22,Portugal,Keno,Silver,Tablet,Land-based,Singapore,3436.11,229.18,26,Bank Transfer,2024-07-22
+08e73c59-d94e-475d-b101-736e6eef3c0c,Sharon Lyons,Male,22,Ecuador,Keno,Gold,Desktop,Land-based,Online,8543.65,8291.76,38,Bank Transfer,2024-09-12
+0921dcef-987c-4857-8496-ae8dffdd6424,Amber Hudson,Female,65,Philippines,Blackjack,Platinum,Tablet,Online,Singapore,2963.54,1339.0,20,Crypto,2024-09-06
+4b9d6214-adbc-4963-a406-66c494d6a8be,Jamie Rodriguez,Non-binary,22,Guinea-Bissau,Roulette,Bronze,Mobile,Online,Las Vegas,3738.21,800.94,39,PayPal,2024-06-17
+93ccfd7c-f527-487e-b0b1-9887572af005,Scott Green,Female,36,Saint Helena,Roulette,Bronze,Mobile,Online,Las Vegas,9040.43,2131.21,32,Crypto,2024-12-01
+c8b96d63-aa15-45f0-908e-1e35461b4a38,Ashley White,Non-binary,37,Sweden,Poker,Gold,Mobile,Online,Online,9516.84,4531.9,27,Credit Card,2024-04-17
+49838e39-e141-4156-85c9-2bae93c2c997,David Johnson,Male,45,Croatia,Poker,Platinum,Desktop,Land-based,Online,641.34,396.1,2,PayPal,2025-04-06
+1f12ebb4-5776-4fba-aad5-93c38c96f204,Jennifer Bennett,Female,39,Djibouti,Slot Machine,Gold,Mobile,Land-based,Monte Carlo,3225.14,2300.54,45,Crypto,2024-05-01
+f3b7c7d9-5afe-45c6-aeb9-c89086ee1888,Denise Reyes,Male,55,Libyan Arab Jamahiriya,Blackjack,Silver,Tablet,Online,Atlantic City,2332.49,2176.08,17,PayPal,2025-01-08
+c73239b2-7d1c-4296-b58a-b78e75df8d6e,James Bell PhD,Male,44,Seychelles,Poker,Gold,Tablet,Online,Atlantic City,5176.98,1607.42,24,PayPal,2024-08-21
+970f43b7-345a-445d-9d40-83048fb1bbdc,Christine Clark,Non-binary,31,Libyan Arab Jamahiriya,Blackjack,Silver,Mobile,Online,Singapore,8109.65,3676.93,6,Crypto,2024-07-28
+7dcbfcd9-531e-4a5d-a86f-ddf0e7821524,Molly Pham,Non-binary,42,Trinidad and Tobago,Poker,Bronze,Tablet,Land-based,Singapore,8713.2,4077.71,6,PayPal,2025-03-04
+a435305b-ead3-494c-a1a0-1f24a7d7747e,Mckenzie Frye,Non-binary,18,Myanmar,Keno,Bronze,Desktop,Online,Online,1141.21,1077.51,39,PayPal,2024-11-19
+18b1c6b4-c55f-4e74-91b3-cc0886fe6ddb,Anne Lloyd,Male,66,Puerto Rico,Slot Machine,Silver,Desktop,Online,Macau,7938.16,1894.04,4,PayPal,2024-09-12
+dede759f-0090-4cc4-833e-e0e3ed575871,Amanda Jones,Male,35,Eritrea,Blackjack,Platinum,Tablet,Online,Online,5097.11,886.43,48,PayPal,2025-04-09
+c5c10060-b4e2-4c1d-88ca-7e07d2d294d5,Christopher Weeks,Female,45,Saint Lucia,Blackjack,Gold,Desktop,Land-based,Online,8257.66,7339.84,48,Credit Card,2025-02-16
+c293e598-7370-4797-8ac6-9533a81a3e91,Sharon Walters,Non-binary,41,Uzbekistan,Baccarat,Gold,Mobile,Land-based,Online,8447.59,1077.82,11,Bank Transfer,2025-02-22
+e586ba27-ded7-4871-8368-e3199e91df8c,Diane Williams,Non-binary,58,Guyana,Baccarat,Platinum,Tablet,Land-based,Macau,8182.32,2375.19,3,Crypto,2024-08-21
+66849895-9ec3-45a4-b339-13ab67e9d659,Jennifer Hunt,Non-binary,48,India,Blackjack,Silver,Desktop,Land-based,Singapore,6277.54,6177.84,11,Credit Card,2024-11-28
+66a82576-3f43-45a0-a7dc-8d4964b79cb2,Erica Stone,Non-binary,71,Zimbabwe,Keno,Platinum,Tablet,Land-based,Singapore,7175.5,6061.24,3,PayPal,2024-09-19
+48120f19-7455-4444-9c6d-d41d9d8a3185,Thomas Phillips,Female,18,Western Sahara,Craps,Gold,Desktop,Online,Singapore,3221.62,1371.89,36,Crypto,2024-05-16
+567ec4ce-41ad-4d9b-9223-11f055ff0520,Stacey Rodriguez,Male,64,Bermuda,Keno,Bronze,Mobile,Online,Atlantic City,1358.35,47.02,33,Crypto,2024-12-27
+9286a91d-c252-470f-b164-5d06fbedce3a,Bryan Salinas,Male,45,Macao,Blackjack,Platinum,Mobile,Online,Monte Carlo,1467.64,838.17,49,PayPal,2024-08-03
+385facec-764d-4914-867d-31959793b176,Melissa Wilson,Non-binary,22,Bolivia,Roulette,Gold,Desktop,Land-based,Las Vegas,4465.99,1789.31,44,Credit Card,2024-07-01
+882cce94-0680-4e4e-ab50-ea311fb8bd81,Amber Phillips,Non-binary,59,Afghanistan,Blackjack,Silver,Desktop,Online,Singapore,1084.97,300.79,20,Crypto,2024-07-13
+93fea69c-1b36-4e7a-bb83-5881343f1ccf,Jeffrey Brown,Non-binary,70,Romania,Keno,Platinum,Mobile,Online,Online,5257.52,1331.59,23,Bank Transfer,2024-08-09
+2ee2ecfc-7cdd-42f7-9ea5-6f95d4e83f60,Cheryl Brown,Male,61,Indonesia,Craps,Gold,Tablet,Online,Las Vegas,7891.25,3798.81,10,Bank Transfer,2024-07-15
+e7a04e43-37ad-4689-b9f3-d07dadfcf42f,Jonathan Ferguson,Non-binary,47,Martinique,Keno,Platinum,Desktop,Land-based,Online,6741.6,127.99,32,Bank Transfer,2024-08-26
+695dd902-f61f-42ac-b3f2-52b45ab70b00,Dale Archer,Male,71,Timor-Leste,Baccarat,Silver,Desktop,Online,Las Vegas,6682.05,3507.34,26,Crypto,2024-11-09
+97bb40a1-c706-463b-811a-f909e383b172,Jeffrey Duarte,Male,48,Liechtenstein,Roulette,Silver,Tablet,Online,Macau,4194.54,345.76,36,Bank Transfer,2025-01-19
+f3476238-ed94-46a0-a789-03b54c4f9ae3,Natalie Avery,Non-binary,38,Tajikistan,Roulette,Platinum,Tablet,Online,Online,9532.94,7624.44,25,Credit Card,2024-10-12
+d16dc473-d61e-4af5-9123-609efd915f7c,Charles Olsen Jr.,Female,34,Israel,Blackjack,Bronze,Tablet,Online,Las Vegas,1613.82,554.0,12,Credit Card,2025-02-16
+d0bfd74e-4325-4e52-a844-78ffcc4fb7fe,Jacob Hernandez,Female,44,Guam,Poker,Gold,Desktop,Online,Macau,3236.96,3050.87,23,Crypto,2024-06-14
+637e371d-3a24-47ba-8dfa-afb3c7fa3400,Nicholas Roberts,Female,24,Uzbekistan,Baccarat,Gold,Desktop,Land-based,Las Vegas,2086.6,1144.15,20,Crypto,2025-03-26
+2126d914-054e-447d-84b6-d544a4b83b1d,James Hammond,Non-binary,58,Somalia,Roulette,Bronze,Tablet,Land-based,Macau,9852.71,9061.49,11,Crypto,2024-04-26
+332d2953-ec5f-44cc-a36e-00def4032a06,Elizabeth Wilson,Female,20,Belarus,Keno,Gold,Desktop,Land-based,Monte Carlo,2710.52,1833.49,37,Crypto,2025-02-01
+116f6718-4ecd-41a5-aac4-0be5daf55ed8,Jamie Gordon,Non-binary,27,Lithuania,Craps,Platinum,Tablet,Land-based,Singapore,3133.26,1486.49,1,Credit Card,2024-09-05
+4c3151bb-3cc5-4653-8c5b-d25829f28e80,Travis Brewer,Female,27,Italy,Slot Machine,Platinum,Desktop,Land-based,Las Vegas,2205.51,929.67,27,Crypto,2024-10-08
+04739f0a-1e70-4e07-a834-cec26c1a5023,Kyle Rice,Female,66,New Caledonia,Blackjack,Platinum,Desktop,Land-based,Online,7355.57,329.74,31,Crypto,2024-09-25
+390bc2dc-9306-41d0-84fb-6b88a219e24d,Chad Johnson,Female,43,Cote d'Ivoire,Craps,Bronze,Tablet,Land-based,Atlantic City,6103.92,3154.79,39,Crypto,2024-12-27
+53247cf1-81c2-488e-911d-043280ba7126,Kristi Mclaughlin MD,Non-binary,67,Sri Lanka,Craps,Platinum,Tablet,Land-based,Singapore,400.21,397.54,11,Crypto,2024-06-07
+7b21cbd2-3914-4940-829f-49feb2681036,Ross Stanton,Female,52,Saint Helena,Roulette,Gold,Tablet,Land-based,Atlantic City,9027.29,1416.1,5,Crypto,2024-08-22
+0785fa18-855e-48ec-bcd2-1c0f38bdc32b,Jennifer Jones,Male,74,Iceland,Baccarat,Silver,Mobile,Online,Macau,4380.07,1557.63,22,Bank Transfer,2024-04-13
+32c59c9e-ce82-4334-918d-cfd474661a89,Lori Ford,Non-binary,27,Kuwait,Slot Machine,Gold,Desktop,Land-based,Singapore,5411.33,1335.84,44,Credit Card,2024-11-03
+a84bad15-4908-4bf1-970d-96b3300a627b,Jason Grimes,Female,23,Croatia,Poker,Gold,Mobile,Online,Online,29.75,16.51,16,PayPal,2024-05-21
+61db602c-458c-4adb-9e3f-a1aafa9fd49f,Kristen Murray,Female,59,Norway,Roulette,Silver,Mobile,Online,Las Vegas,8795.47,872.5,41,Crypto,2024-12-24
+ab6c84af-3dbd-4291-a2e2-acb8ccbe33fc,Steven Oliver,Non-binary,22,American Samoa,Roulette,Platinum,Mobile,Land-based,Macau,2821.52,2116.57,28,Credit Card,2025-02-19
+bc38ad88-1010-4e4f-b035-301c34c9f834,Jeffrey Mullins,Female,57,United States Minor Outlying Islands,Baccarat,Platinum,Mobile,Land-based,Singapore,3059.45,2458.85,23,Bank Transfer,2024-09-19
+f3b7b825-4da3-48f8-9953-461d297bca45,Wendy Edwards,Non-binary,51,Gabon,Craps,Bronze,Desktop,Online,Monte Carlo,8736.75,3503.86,40,Crypto,2025-01-05
+29528f19-05ed-48f8-9619-2b9f4c3aef55,Brenda Williams,Non-binary,37,Cocos (Keeling) Islands,Poker,Platinum,Desktop,Online,Las Vegas,9232.33,7593.77,20,Bank Transfer,2025-03-08
+862618c1-b458-406c-8fc8-f902a50071c8,Tammy Franco,Non-binary,55,Saint Martin,Blackjack,Bronze,Mobile,Land-based,Macau,4301.5,512.71,8,PayPal,2024-12-24
+16b8a9aa-bd02-4251-8dfe-333c19dad2e5,Charles Coleman,Non-binary,19,Namibia,Roulette,Platinum,Mobile,Land-based,Singapore,6458.95,2572.04,8,Crypto,2024-04-20
+da2b5dca-9776-4b1e-9eb9-b1740654d6c5,Erin Hill,Male,56,Zimbabwe,Baccarat,Bronze,Tablet,Land-based,Singapore,9951.16,65.18,24,Crypto,2024-11-21
+a419a7b0-3aa0-4207-bdd7-8ae2bbb74d63,Bryan Jones,Female,27,Tonga,Slot Machine,Gold,Tablet,Land-based,Monte Carlo,2064.53,610.14,5,Credit Card,2025-02-12
+900892bb-e49d-42bc-8562-ca16c23c2f3e,Samuel Mcgee,Female,60,Paraguay,Baccarat,Bronze,Mobile,Land-based,Monte Carlo,3999.77,2076.04,47,Crypto,2024-09-10
+1402826c-2cb8-4f26-b91e-4f971bdfcd21,Jennifer Farmer,Male,26,Mozambique,Roulette,Gold,Tablet,Land-based,Las Vegas,304.86,171.61,12,PayPal,2024-08-23
+f70c4c27-314d-44a3-ae5b-03814407bfb9,David Howard,Female,26,Hungary,Roulette,Platinum,Desktop,Online,Singapore,3729.91,3097.98,30,Credit Card,2025-03-23
+8db88c8d-00ee-4b15-ad55-a06c493c6769,Mary Hampton,Male,24,Azerbaijan,Blackjack,Platinum,Tablet,Land-based,Online,7994.69,1347.57,40,Crypto,2024-05-10
+30bdbe92-49ae-4141-ba0e-ca956faecc48,Michael Brown,Female,18,Macedonia,Keno,Platinum,Tablet,Online,Macau,1616.87,1043.81,43,Crypto,2024-09-21
+a98c522e-a77a-4090-8a08-fadd4f60834b,Richard Schultz,Male,45,Suriname,Slot Machine,Silver,Tablet,Land-based,Las Vegas,9066.06,7485.22,46,PayPal,2024-10-02
+c0f5be1f-5e2b-4b4f-8bff-f65dd37a0d88,Charles Peters,Non-binary,25,Reunion,Keno,Platinum,Tablet,Land-based,Macau,7863.97,4894.97,25,Crypto,2024-05-10
+c594a9cd-28ec-4545-8dd9-8caeb995c2e4,Jessica Lyons,Non-binary,39,Syrian Arab Republic,Blackjack,Platinum,Tablet,Online,Online,6160.34,4201.4,25,Crypto,2024-08-04
+3cce9391-9fa2-47bb-a2d2-b173f57efc65,David Petty,Female,34,Gibraltar,Blackjack,Gold,Desktop,Land-based,Monte Carlo,9576.78,4614.64,8,Credit Card,2025-03-07
+57bb9e71-638b-407e-a924-3c028b5c38e6,Jerome Harrington,Female,55,Papua New Guinea,Blackjack,Silver,Mobile,Land-based,Macau,7321.86,7080.05,4,Bank Transfer,2025-03-26
+31be0773-ac26-403c-9d32-b9f45af24789,Kyle Anderson,Non-binary,74,Svalbard & Jan Mayen Islands,Roulette,Bronze,Desktop,Land-based,Singapore,7561.55,5737.7,17,Bank Transfer,2025-03-20
+e0bb7d69-48c1-419f-a6bc-75fb66c492a3,Edgar Ortiz,Male,21,Armenia,Slot Machine,Bronze,Tablet,Land-based,Atlantic City,5487.88,1125.7,12,Crypto,2024-07-25
+2facf679-c7e1-4b0e-abd9-4eed77fa10de,Carly Frye,Male,50,South Africa,Keno,Gold,Mobile,Online,Monte Carlo,6692.79,628.93,27,Bank Transfer,2025-03-08
+3d916b7e-355f-4614-8f4a-5bb8e6f3d3ce,Anna Park,Female,43,Korea,Roulette,Gold,Mobile,Land-based,Monte Carlo,3195.19,2617.52,47,Crypto,2025-01-23
+64b437ca-d91e-469c-84b7-a53df219a45b,Eric Brooks DDS,Non-binary,18,Svalbard & Jan Mayen Islands,Poker,Gold,Mobile,Land-based,Monte Carlo,1693.17,1299.29,49,Crypto,2024-10-21
+f98c98c0-bb72-4f77-b49e-65b95b92c71a,Aaron Thomas,Female,25,Brunei Darussalam,Poker,Silver,Tablet,Land-based,Macau,8908.96,7162.64,5,Crypto,2025-02-22
+9252f00f-81a4-4450-9d48-273efabbfbae,Katherine Burke,Male,53,Saint Martin,Baccarat,Platinum,Mobile,Land-based,Monte Carlo,1831.19,1742.73,46,Credit Card,2024-08-06
+903466ca-9300-4cd3-b089-3df4cca97e36,Catherine Lopez,Male,50,Ethiopia,Slot Machine,Gold,Mobile,Online,Singapore,9626.76,8180.44,7,Credit Card,2024-11-14
+4d0f161a-1a0b-41fe-89e8-f307b41c3627,Michele Lamb,Non-binary,42,Seychelles,Roulette,Silver,Tablet,Land-based,Monte Carlo,1659.63,74.74,21,Bank Transfer,2025-01-29
+fe03c9ae-a6b2-4e75-9583-024c92a4ac09,Jennifer Perez,Non-binary,30,Namibia,Blackjack,Platinum,Desktop,Online,Online,6662.19,196.19,10,Credit Card,2024-06-24
+fbfd0aaf-4832-40ac-9d9c-a74bd9e5ae64,Benjamin Franklin,Male,64,Norfolk Island,Poker,Platinum,Tablet,Online,Monte Carlo,7015.6,296.33,50,Credit Card,2025-01-24
+1a324a78-cde4-49aa-aae7-d261ba633d92,Carl Torres,Non-binary,48,Denmark,Blackjack,Gold,Tablet,Land-based,Macau,3862.9,2142.42,22,Crypto,2025-02-26
+257fdb38-f985-40ac-8d95-b59aa0ccffeb,David Owen,Male,52,Zambia,Roulette,Gold,Mobile,Land-based,Online,448.07,341.33,18,PayPal,2024-04-13
+f69a29f9-3b7e-4a46-b3a0-e3fad134506e,Andrea Moore,Non-binary,50,Kenya,Baccarat,Bronze,Mobile,Online,Atlantic City,4341.46,2260.36,2,Crypto,2024-08-17
+120093e1-97eb-43ee-b02e-5dc7d02ff95a,John Wilson,Non-binary,31,Azerbaijan,Roulette,Silver,Tablet,Online,Singapore,3340.93,3209.9,5,Bank Transfer,2024-09-06
+cc086ba8-f8eb-4e37-814c-bb669412eb03,Daniel Morris,Non-binary,31,Kiribati,Blackjack,Silver,Mobile,Online,Online,7.81,6.37,8,Credit Card,2024-10-09
+9e9d6a0d-4894-4a3c-bd0c-e76dc8cfb45d,Madison Davis,Female,47,Finland,Poker,Gold,Desktop,Online,Las Vegas,6360.71,4860.58,28,Credit Card,2024-11-13
+2a8183c6-d3a1-4938-b751-d07f52de6d87,Samantha Richardson,Male,42,Gibraltar,Slot Machine,Bronze,Mobile,Land-based,Monte Carlo,2334.92,1696.12,33,Bank Transfer,2024-09-26
+e6b70e42-49dd-4764-835d-c5f5344384a3,Jessica Taylor,Non-binary,53,Russian Federation,Slot Machine,Platinum,Desktop,Land-based,Singapore,9827.98,2644.21,18,Bank Transfer,2024-07-27
+ce63db4f-5d50-4359-90f2-f966aa090db7,Michelle Jones,Non-binary,30,Hong Kong,Blackjack,Platinum,Desktop,Land-based,Monte Carlo,3370.93,3111.55,49,PayPal,2024-12-21
+fd8400c9-ca81-4924-9f92-c50c7fad1dd9,Jean Marshall,Male,44,Italy,Blackjack,Platinum,Mobile,Land-based,Online,5189.21,128.35,36,Bank Transfer,2024-07-19
+87dbb3f8-769e-4aef-9d98-b8f8eee794df,Jacob Lopez,Male,32,Mexico,Roulette,Platinum,Tablet,Land-based,Online,2607.41,1820.65,15,PayPal,2024-06-02
+68077aab-6f6f-43f6-9d90-d7985da130ad,Tammy Vaughan,Male,32,Bulgaria,Roulette,Bronze,Mobile,Online,Monte Carlo,5565.54,666.03,40,Crypto,2025-01-01
+9ad00dd3-3322-4d15-bcfc-4df16afbd89f,Bryan Cain,Male,45,Niger,Blackjack,Gold,Desktop,Online,Macau,7978.45,2288.22,16,Crypto,2025-04-10
+f439c2d8-20dc-4c02-b5ff-22a517de3a36,Emily Zimmerman,Male,33,Palestinian Territory,Roulette,Gold,Tablet,Online,Online,2452.62,2178.72,39,PayPal,2025-02-26
+fe0e6cc7-539a-481c-bd02-b52df93bd184,Mark Gilbert,Female,19,United States Virgin Islands,Blackjack,Gold,Mobile,Land-based,Macau,7587.68,3286.6,20,Bank Transfer,2025-01-13
+cfb4d389-2d34-40b8-b29d-85208e0c1c1b,Gina Heath,Non-binary,61,Reunion,Poker,Platinum,Tablet,Land-based,Atlantic City,9806.09,2295.3,14,PayPal,2025-03-28
+70cc4134-cab2-4f54-a197-162018d510ae,Kayla Jackson,Male,39,Malawi,Poker,Silver,Desktop,Online,Online,8172.11,452.24,40,Credit Card,2024-12-30
+60f7088e-099e-4965-9633-cdc180dc391d,Felicia Collins,Non-binary,35,Timor-Leste,Roulette,Silver,Mobile,Online,Atlantic City,4227.46,2110.02,8,Credit Card,2024-09-18
+c9842a59-cee7-4738-ab62-b56682b471a2,Tyler Kim,Non-binary,73,Dominican Republic,Roulette,Gold,Mobile,Land-based,Singapore,8639.26,2557.19,48,Bank Transfer,2024-10-30
+197ee7b4-c15b-4092-82c2-ad26f8553e21,Danielle Ramos,Male,23,Niger,Slot Machine,Platinum,Tablet,Land-based,Macau,705.48,321.1,23,Crypto,2024-05-13
+3745e385-2a40-4179-be5d-a2b51a09e092,Katrina Benson,Female,53,Luxembourg,Baccarat,Platinum,Mobile,Online,Atlantic City,1258.74,1175.06,39,Bank Transfer,2024-08-26
+544eef0c-f974-4373-a533-3534643dc2c1,Felicia Barnes,Female,36,Northern Mariana Islands,Keno,Platinum,Desktop,Land-based,Atlantic City,9984.05,8686.05,5,Bank Transfer,2024-11-01
+db76a146-404e-4527-88aa-27efeedaa209,Stephanie Dalton,Non-binary,73,Austria,Blackjack,Bronze,Desktop,Online,Atlantic City,3026.99,200.99,18,Credit Card,2024-08-14
+12c47b46-d15c-4f6d-b405-0a73bd982e3b,Margaret Mason,Non-binary,51,Denmark,Slot Machine,Bronze,Desktop,Online,Macau,9188.85,3879.51,37,Crypto,2024-08-16
+4ea025f6-50a5-4842-9d4b-83200b71b224,Mandy Todd,Non-binary,41,Gabon,Slot Machine,Bronze,Tablet,Land-based,Singapore,8171.88,6371.4,30,Credit Card,2025-03-21
+fe98ed4a-c587-4937-a947-bf20fa622959,Kendra Cook,Female,74,New Zealand,Craps,Bronze,Tablet,Online,Singapore,8068.66,4878.06,24,PayPal,2024-11-26
+c0a0f3b7-5dac-42f3-b6e6-85e59dabdddf,Edward Davenport,Non-binary,45,Comoros,Craps,Bronze,Tablet,Land-based,Atlantic City,1436.01,361.45,49,Credit Card,2024-08-04
+c98fc9fd-2933-4fdc-bcdf-1db8091c46ad,Amanda Kirk,Female,67,Equatorial Guinea,Roulette,Platinum,Desktop,Online,Singapore,3639.56,1237.59,7,Crypto,2024-12-16
+c173862f-ea9b-4c67-a3af-30610b0021a7,Lisa Walsh,Male,68,Gambia,Baccarat,Bronze,Desktop,Land-based,Macau,9750.07,9601.62,26,Credit Card,2025-02-03
+6ca2917d-908f-410f-8f9f-7d431c9d9187,Leslie Reed,Non-binary,29,Monaco,Keno,Gold,Desktop,Land-based,Singapore,4719.11,4174.98,7,Crypto,2024-08-28
+9cc21047-de45-4503-abb1-ff1c41bfe37d,Christopher Navarro,Female,55,Belgium,Roulette,Bronze,Tablet,Land-based,Las Vegas,7355.21,4466.65,12,Bank Transfer,2024-04-27
+6f071a03-9caa-4a39-b813-68b7d0dc7f5d,Justin Marquez,Female,53,Micronesia,Baccarat,Silver,Mobile,Land-based,Atlantic City,1596.25,869.19,26,PayPal,2025-02-02
+8f869e83-4e55-423c-934b-3d197bca15e9,Dr. Barbara Smith,Male,36,French Guiana,Roulette,Platinum,Desktop,Land-based,Atlantic City,6773.98,4208.17,9,Crypto,2025-02-21
+3c48a1f8-2710-4069-810e-0fcc024f801b,Jose Walker,Non-binary,54,Ghana,Keno,Silver,Desktop,Land-based,Online,1424.94,303.33,27,Crypto,2025-03-13
+fb567c98-6ef7-45b2-b409-9ba13d95e9b7,Jason Robertson V,Female,49,Korea,Slot Machine,Platinum,Tablet,Land-based,Online,1379.44,972.08,9,PayPal,2024-06-24
+0119140a-056d-474c-ba16-4e9ac9094d48,Catherine Estes,Female,60,Luxembourg,Keno,Silver,Mobile,Land-based,Monte Carlo,1572.89,1358.59,40,PayPal,2024-06-22
+34ac93b5-b876-45b0-847c-9e4841198485,Julie Shannon,Male,39,Northern Mariana Islands,Blackjack,Gold,Mobile,Online,Singapore,300.51,58.96,49,PayPal,2025-02-05
+cf8d5783-bf43-4232-8359-d8a1d6472634,Nathan Roman,Male,42,Somalia,Keno,Gold,Desktop,Land-based,Las Vegas,7779.01,7040.0,46,Credit Card,2025-03-25
+bc2b7a82-fbae-474b-a994-2571559dcd91,Brenda Khan,Female,40,Norfolk Island,Poker,Gold,Tablet,Online,Monte Carlo,3871.42,28.6,28,Crypto,2024-05-02
+45b89fe6-ba13-4ce5-b103-2c5d7a59bd63,Ashley Rowe,Female,18,Vanuatu,Craps,Gold,Tablet,Online,Singapore,1815.7,821.19,18,Bank Transfer,2025-04-07
+2915063d-af9b-45ae-bb70-a6c8fde95c1c,Anthony Austin,Female,31,Honduras,Roulette,Gold,Desktop,Online,Atlantic City,7762.33,133.02,18,Crypto,2024-05-13
+cd9b3411-2e35-42ee-90ed-8dda92968e17,Christopher Wood,Female,44,Austria,Keno,Bronze,Desktop,Land-based,Singapore,1441.78,1232.14,49,Credit Card,2024-06-21
+294bfcfc-7635-43db-8caa-ebd74eeb56ba,Jennifer Robinson,Male,66,Finland,Baccarat,Silver,Desktop,Land-based,Monte Carlo,2241.45,2217.87,6,PayPal,2025-03-16
+2196282e-53c8-4ac7-8966-9f1ef3591cbc,Robert Jefferson,Non-binary,32,Central African Republic,Roulette,Gold,Desktop,Online,Monte Carlo,2556.37,328.12,6,Credit Card,2024-06-13
+325a0f80-90ac-4876-8526-f3f03122f1d3,Benjamin Finley,Female,21,Iceland,Poker,Silver,Mobile,Land-based,Las Vegas,3672.8,2478.86,12,Credit Card,2024-07-22
+34eaead0-03e4-4404-8d62-abcfff670da5,Dr. Dennis Walsh,Male,47,Isle of Man,Craps,Gold,Desktop,Land-based,Macau,424.46,20.56,16,PayPal,2024-05-13
+99fed5e0-0832-4514-ab23-ff460380f5dc,Ellen Smith,Non-binary,62,Falkland Islands (Malvinas),Keno,Gold,Desktop,Online,Singapore,1610.83,1042.76,49,Bank Transfer,2024-08-18
+c273e6f5-bbf2-426d-9722-fc73f195969a,Joshua Clark,Male,35,Madagascar,Keno,Bronze,Mobile,Land-based,Atlantic City,786.88,436.53,49,Crypto,2024-05-20
+36fcdb61-7617-40d4-9248-cf790decf6c0,Erin Evans,Female,18,Chad,Slot Machine,Platinum,Desktop,Online,Singapore,6721.34,4260.94,21,Bank Transfer,2025-02-21
+bd5ab117-b5a0-4897-b94a-97eb8b4ad34e,Rachel Bond,Non-binary,32,French Southern Territories,Poker,Bronze,Tablet,Land-based,Atlantic City,8606.56,225.95,47,PayPal,2024-11-26
+d6a72e4c-2241-4e09-8f2a-dff6b8a96c2b,Anne Allen,Non-binary,69,Sao Tome and Principe,Baccarat,Gold,Desktop,Land-based,Macau,2855.49,486.74,25,PayPal,2025-04-04
+c03001ab-9451-425c-a463-d9885c1d5776,Eric Hogan,Male,49,Christmas Island,Craps,Silver,Desktop,Land-based,Monte Carlo,8851.68,8651.64,30,Bank Transfer,2024-05-15
+bb96fb70-4b90-46b1-8367-7f4ba2299ccf,James Jones,Female,62,Bosnia and Herzegovina,Poker,Gold,Mobile,Online,Monte Carlo,6636.51,4403.47,35,Credit Card,2024-09-19
+bc2c0470-527d-44f3-a63f-1821f0656b14,Matthew Davis,Male,64,British Virgin Islands,Keno,Bronze,Mobile,Land-based,Online,7559.87,3124.79,43,Credit Card,2024-10-03
+cf31aafc-159b-4a58-8d5c-03172a1db330,Christopher Garza,Male,63,Iran,Poker,Gold,Mobile,Land-based,Singapore,4581.77,2348.42,15,Crypto,2025-01-14
+46062e05-81a4-4202-93c1-a495e5f52194,Christopher Ellis,Male,33,Zambia,Poker,Gold,Mobile,Online,Online,4770.94,317.78,40,PayPal,2024-07-01
+80adb9da-9928-4cb4-9de6-bfc24a96066f,Dawn Brown,Female,59,Madagascar,Baccarat,Silver,Mobile,Online,Online,5417.65,1493.16,37,Credit Card,2025-03-29
+6d2541e1-785c-4402-936b-16290bd7bea9,Kimberly Miller,Male,21,United Arab Emirates,Slot Machine,Platinum,Tablet,Online,Macau,265.0,203.32,47,PayPal,2024-06-30
+8747a0f6-7b78-4b68-9367-86eecadb51d8,Gary Douglas,Male,42,Uganda,Keno,Gold,Tablet,Land-based,Atlantic City,6162.78,3518.19,32,Crypto,2024-05-15
+6684d0e9-36fb-4930-a60b-e440e663883e,Becky Obrien,Female,69,Andorra,Slot Machine,Gold,Desktop,Land-based,Las Vegas,7839.57,5212.12,45,Credit Card,2025-02-16
+239bd9e7-a0d6-4285-90d3-2bd16e479a54,Deborah Horton,Male,34,Saint Barthelemy,Keno,Gold,Mobile,Online,Online,4376.34,1273.4,47,Credit Card,2024-11-24
+ebc89f3a-1999-4d23-9814-8c4689c71c00,Peter Edwards,Male,65,Albania,Baccarat,Gold,Desktop,Land-based,Singapore,1245.35,1240.81,23,Crypto,2024-05-08
+c765a505-b0f0-4b22-8acd-68d71f3cb989,Jorge Lee,Male,58,Montserrat,Baccarat,Bronze,Mobile,Land-based,Singapore,4118.3,3788.4,34,PayPal,2025-03-30
+e31ed07d-b97e-4ccf-b6d0-f5ab301b4b10,Melanie Schultz,Non-binary,57,Tunisia,Poker,Gold,Tablet,Online,Macau,9894.73,2661.46,21,PayPal,2024-10-24
+d1f66d26-7da7-469e-93f9-267b09b628d5,Cindy Taylor,Female,26,Norway,Roulette,Platinum,Tablet,Land-based,Monte Carlo,7241.62,3413.86,24,Crypto,2024-10-28
+7fe24800-cbcc-451a-9665-75e4d37aa993,Dale Shields,Female,45,Belize,Baccarat,Gold,Mobile,Online,Atlantic City,6240.38,219.09,28,PayPal,2024-07-20
+10f6afc9-75e9-4359-87ca-36af7b339bff,Joseph Wells,Non-binary,75,Micronesia,Blackjack,Bronze,Mobile,Online,Las Vegas,7582.42,6807.42,14,Crypto,2024-08-30
+30cc9678-caac-4217-848e-46b641f361ea,Gail Rodriguez,Female,35,Sri Lanka,Roulette,Platinum,Tablet,Online,Atlantic City,5709.41,4698.92,12,Bank Transfer,2024-06-18
+e8be1b9a-2ee0-409f-8684-704b7962eb30,Lisa Rodriguez,Male,25,Svalbard & Jan Mayen Islands,Poker,Platinum,Mobile,Online,Online,8495.33,6640.62,23,Bank Transfer,2024-05-20
+f3cb7bc1-135e-4824-abc5-8066b079c808,Michael Berger,Non-binary,44,Christmas Island,Roulette,Bronze,Desktop,Online,Monte Carlo,7548.28,4650.11,16,Crypto,2024-12-08
+54373834-3411-4d4f-9c11-d0a187e18ee3,Kevin Harris,Female,28,Timor-Leste,Keno,Platinum,Tablet,Online,Macau,5587.38,4543.91,24,Credit Card,2024-04-30
+ac7d8991-f11d-41e1-b2da-6f321ea864f7,Jamie Kelly,Non-binary,53,Nigeria,Craps,Silver,Tablet,Online,Atlantic City,2507.93,1585.76,31,Credit Card,2024-09-19
+9479589c-26bd-4f7c-b8ac-7a258d281f41,Cynthia Torres,Female,48,Bhutan,Blackjack,Gold,Tablet,Land-based,Monte Carlo,2846.1,1470.42,13,PayPal,2024-08-27
+579def39-72b5-4458-93c5-c663c6319fad,Linda Robles,Female,51,Sri Lanka,Roulette,Bronze,Tablet,Land-based,Atlantic City,1034.51,966.42,8,Bank Transfer,2025-01-27
+a1be8936-025c-43d2-9748-dd6fcce281f4,April Pruitt,Male,24,Solomon Islands,Slot Machine,Platinum,Tablet,Land-based,Las Vegas,4749.86,3675.77,50,Credit Card,2024-12-25
+8d5ecf20-733f-4923-8601-7c0d60929d69,Kristina Valenzuela,Non-binary,66,Bouvet Island (Bouvetoya),Keno,Gold,Desktop,Online,Monte Carlo,6225.11,3592.64,15,Credit Card,2024-09-04
+a3105669-f585-449c-802b-d44b2e1b2e39,Gregory Flores,Female,69,Azerbaijan,Craps,Platinum,Desktop,Land-based,Las Vegas,9376.93,8939.01,7,Bank Transfer,2024-09-29
+97e0e766-2cda-4d33-ad55-3e887e92bbd0,Eric Evans,Male,58,Isle of Man,Baccarat,Platinum,Mobile,Online,Singapore,1081.54,887.0,25,Crypto,2024-06-24
+149e2e8a-56c9-4756-9c5a-fe6a50fd12cb,Bryan Walsh,Female,28,Pitcairn Islands,Poker,Silver,Mobile,Land-based,Monte Carlo,7848.44,234.5,41,PayPal,2025-04-04
+30b504cc-1aca-41da-a1ed-0b3cfadd528c,John Schwartz,Non-binary,27,Nicaragua,Keno,Bronze,Desktop,Land-based,Las Vegas,3284.85,2371.46,48,Crypto,2024-05-01
+35a2a6d6-a18c-45b2-8839-0b48191c8916,Mathew Tyler,Male,31,Mali,Craps,Gold,Mobile,Land-based,Atlantic City,9661.43,5904.67,7,Crypto,2024-08-29
+038755f0-2dd4-4d14-af35-7d9907f449ff,Keith Park,Female,37,Heard Island and McDonald Islands,Roulette,Silver,Tablet,Land-based,Macau,5231.83,3968.01,17,Crypto,2024-09-11
+fa8c884b-fa7e-4861-a648-8e2ff9db1c71,Fred Clements,Non-binary,36,Dominica,Blackjack,Silver,Desktop,Online,Atlantic City,9740.92,4.85,43,Bank Transfer,2025-01-14
+74166662-124a-4dcc-9d4a-19f9ae2120d7,Shawn Burns,Non-binary,44,Qatar,Poker,Bronze,Mobile,Online,Las Vegas,6296.12,4516.57,31,PayPal,2025-03-01
+e719f908-26aa-4562-9bcb-13b8c249ad8f,Julia Williams,Female,38,Tunisia,Roulette,Gold,Tablet,Online,Las Vegas,2003.8,1262.36,16,Credit Card,2024-10-29
+83e95557-54ad-4e9b-a079-6d7bb2e76e57,Alexander Richardson,Female,72,Bulgaria,Keno,Silver,Desktop,Land-based,Monte Carlo,6180.53,3288.56,37,Credit Card,2024-08-22
+82ae63c3-e5e4-484d-89d0-a8d63b77b8ee,Jermaine Mcguire,Female,69,Thailand,Slot Machine,Silver,Mobile,Online,Singapore,9734.59,3714.89,7,Credit Card,2024-08-19
+1edd3c25-620c-4292-b69a-07c8d82a9aea,Scott Fields,Female,72,Northern Mariana Islands,Blackjack,Gold,Tablet,Online,Monte Carlo,8905.05,6974.1,11,Crypto,2024-12-18
+d71f7400-6387-4fe3-b195-6f5cde516303,William Dunlap,Non-binary,44,British Indian Ocean Territory (Chagos Archipelago),Baccarat,Platinum,Mobile,Online,Online,8722.06,1618.13,10,Crypto,2024-09-23
+e6943e0c-2aac-48b5-a69e-f64cf028ffe8,John Marks MD,Male,40,Svalbard & Jan Mayen Islands,Slot Machine,Platinum,Tablet,Online,Atlantic City,2565.96,2425.35,16,Bank Transfer,2024-10-16
+5d8f800c-50fc-45bb-94ff-f8c1f73d7143,David Hawkins,Male,49,El Salvador,Craps,Silver,Desktop,Land-based,Macau,9169.56,3557.81,37,Credit Card,2025-03-19
+0d8afde1-6bec-4a32-919e-1beac315edf7,Matthew Taylor,Non-binary,59,Reunion,Blackjack,Gold,Desktop,Online,Singapore,522.06,25.2,25,Credit Card,2024-08-23
+026d9842-fb9b-45a6-847a-f5ac80da3b0d,Natasha Tyler,Male,42,Chad,Craps,Bronze,Tablet,Land-based,Monte Carlo,5361.26,2132.43,2,Credit Card,2024-07-01
+3f1f9cc8-8bd0-4858-92d2-3813d7a855fa,Thomas Pierce,Female,24,Belgium,Poker,Gold,Tablet,Online,Atlantic City,3042.75,411.89,34,Bank Transfer,2025-01-31
+2560c436-2cc4-41fe-b966-b3140921841f,Albert Alvarado,Female,42,Ghana,Craps,Gold,Desktop,Online,Singapore,257.43,18.11,36,Bank Transfer,2025-01-21
+d6ef6038-4d20-4f9a-8532-9948a9cbeb13,Breanna Diaz,Female,26,Germany,Craps,Bronze,Tablet,Land-based,Singapore,7622.28,2682.15,6,Crypto,2024-05-19
+1f3826a9-1b7d-4fbd-b3ad-2c1a696e1911,Bailey Peterson,Non-binary,48,United States Minor Outlying Islands,Slot Machine,Gold,Desktop,Land-based,Singapore,5941.79,2523.43,48,PayPal,2025-03-26
+98e9ad43-061b-4ed2-af8e-7feb2d1bda72,Jenny Simmons,Non-binary,28,El Salvador,Roulette,Gold,Mobile,Land-based,Las Vegas,2822.96,2586.36,34,PayPal,2024-10-09
+2e9a5058-4778-4e76-b8da-ede5e658cec4,Lisa Shah,Female,29,Bermuda,Roulette,Bronze,Mobile,Land-based,Monte Carlo,7782.95,2947.16,20,Crypto,2025-03-27
+2ef13988-36b3-409c-a112-2881f4a1800f,Laura Cook,Non-binary,29,Kazakhstan,Slot Machine,Silver,Mobile,Land-based,Online,5688.13,5057.47,32,Bank Transfer,2024-09-28
+9b6efbad-8c4e-49ad-a3c4-1be87fbe2653,Lisa Williams,Female,52,Liechtenstein,Poker,Silver,Desktop,Online,Singapore,3948.77,2688.59,16,Credit Card,2024-11-27
+a0455e70-6488-4f1c-a5c2-58a8a0b5dbbe,Bryan Mays,Female,67,Trinidad and Tobago,Roulette,Gold,Desktop,Online,Monte Carlo,7856.58,4296.06,6,Bank Transfer,2024-10-08
+56015aeb-a4f4-4734-9413-cbbf20faadcc,Kathy Gomez,Female,67,French Guiana,Slot Machine,Bronze,Mobile,Online,Online,6789.67,4409.5,28,PayPal,2024-10-29
+743c3f48-d561-40cc-a25b-0f426e03cc4c,Kenneth Robinson,Male,71,United States Virgin Islands,Poker,Bronze,Desktop,Online,Monte Carlo,9967.19,352.39,7,Bank Transfer,2025-01-22
+dbb4ef7b-75ad-4d73-be6a-cfda0c7aba66,Steven Garcia,Male,56,Sao Tome and Principe,Baccarat,Platinum,Tablet,Land-based,Macau,908.13,547.59,11,Crypto,2024-09-10
+8af644e9-3c66-47ed-91a1-9576a51742ba,Richard Byrd,Male,19,Uruguay,Poker,Platinum,Tablet,Online,Online,4489.25,4478.95,46,Credit Card,2024-04-24
+a4dec21d-43b8-4eb8-b542-a4204af093e0,Andrea Hamilton,Non-binary,42,Holy See (Vatican City State),Slot Machine,Gold,Mobile,Land-based,Macau,3728.29,3613.85,1,PayPal,2024-07-30
+265a3b97-341f-443d-af50-aba9d6ce010e,Lauren Harper,Non-binary,59,Sao Tome and Principe,Poker,Platinum,Desktop,Online,Macau,1022.43,27.04,7,Crypto,2024-09-24
+f87f21c0-4424-4c3a-8311-ef56734b1a90,Krystal Obrien,Male,38,French Polynesia,Keno,Silver,Desktop,Online,Monte Carlo,2070.41,1759.41,16,Bank Transfer,2025-03-26
+9abfad6f-d135-42f9-b020-7033c273ad6c,Dustin Matthews,Female,40,South Georgia and the South Sandwich Islands,Keno,Gold,Tablet,Online,Las Vegas,6974.14,6675.64,11,Crypto,2024-07-03
+57b7070e-a737-4a8e-b6db-240022173f18,Jeffery Powers,Female,22,Eritrea,Slot Machine,Silver,Tablet,Online,Macau,8648.54,7593.45,25,Credit Card,2024-08-27
+e193341e-9537-4885-8050-a2f96aeba021,Teresa Mitchell,Non-binary,58,Timor-Leste,Roulette,Gold,Mobile,Online,Online,1201.25,472.72,23,Bank Transfer,2025-03-10
+c50c4d8a-aa2e-4c15-b177-23daaf93854b,James Roberts,Male,74,Svalbard & Jan Mayen Islands,Poker,Platinum,Desktop,Online,Atlantic City,6959.86,1579.57,13,Bank Transfer,2024-12-04
+b4eaf99c-b9e5-4da1-a87c-af647e7e69f6,Daniel Daniels,Male,29,Philippines,Blackjack,Gold,Tablet,Land-based,Singapore,828.18,819.29,43,Credit Card,2025-02-11
+f155bc46-4b62-4bd3-be8a-5016758c2dec,Lauren King,Female,67,Liechtenstein,Slot Machine,Platinum,Desktop,Online,Macau,6441.01,6000.83,13,PayPal,2024-08-24
+b5ec50db-9fe6-4848-b24f-7d958bce9c44,Michelle Robinson,Non-binary,45,Italy,Poker,Bronze,Desktop,Land-based,Monte Carlo,1862.22,854.25,43,PayPal,2025-02-09
+83a171b7-a74e-4b66-9281-77a0741ad8d7,Ashley Allen,Female,41,Monaco,Poker,Gold,Mobile,Land-based,Online,6235.72,4455.81,42,Credit Card,2024-10-11
+93fb3b41-ba5f-42e8-bf19-6c425f07cbdb,Jamie Greene,Female,21,Sudan,Slot Machine,Silver,Desktop,Online,Macau,3950.81,2271.43,31,PayPal,2025-01-30
+d22d02f2-273b-4330-b351-9037b19c9a68,Michael Li,Male,28,Yemen,Baccarat,Silver,Desktop,Online,Online,8556.5,350.05,49,Crypto,2025-02-20
+36561ad0-c957-47e8-aa52-a75bc0550134,Alicia Owens,Female,61,Malta,Poker,Gold,Tablet,Online,Las Vegas,1431.9,708.98,24,Credit Card,2024-06-12
+37942c5a-84ea-4008-8131-4e737de81d8b,Christopher Casey,Non-binary,60,Saint Martin,Baccarat,Platinum,Tablet,Land-based,Atlantic City,2229.17,1079.47,50,Crypto,2025-02-05
+42534aba-76ed-4deb-a74b-b84e109878af,Joseph Duffy,Female,42,Uruguay,Baccarat,Silver,Desktop,Online,Atlantic City,7508.47,4165.42,29,Bank Transfer,2024-11-14
+16330009-aebb-4032-98f1-ca91ede06c29,Alan Martin,Male,73,Kenya,Keno,Silver,Mobile,Land-based,Las Vegas,897.38,792.79,35,Credit Card,2025-04-10
+2cbb95c9-70fb-43f2-a63a-477187af3a33,Jacob Gregory,Female,63,Reunion,Baccarat,Silver,Tablet,Online,Atlantic City,4845.67,4529.11,10,Crypto,2024-05-28
+af5ce7ec-8e2b-4514-9785-81b6d7326e24,Denise Lewis,Female,69,United Kingdom,Keno,Gold,Mobile,Online,Macau,5187.09,5169.59,14,Credit Card,2024-11-12
+3461c50d-292c-4ca0-a546-b3a0df853902,Tasha Compton,Non-binary,53,Uruguay,Craps,Gold,Mobile,Online,Monte Carlo,460.67,154.05,47,Credit Card,2024-07-29
+b78f4fa1-4361-4b82-9af5-fc1a4731c02e,Anne Hunter,Non-binary,57,Greece,Craps,Silver,Mobile,Land-based,Las Vegas,6057.06,4327.81,16,Bank Transfer,2024-05-28
+b82c5bb1-3693-4372-809d-208b49b93431,Greg Daniel,Male,64,Holy See (Vatican City State),Poker,Platinum,Mobile,Online,Las Vegas,7235.16,3175.53,4,Credit Card,2025-02-21
+10218c06-cba2-4969-905a-6fee3af89c94,Tanner Hall,Male,49,Bosnia and Herzegovina,Craps,Silver,Tablet,Land-based,Las Vegas,3478.29,1245.32,17,Credit Card,2024-10-09
+19ab06b0-48d0-4b78-9035-697d2fefa510,Ronald Hall,Female,61,Chad,Slot Machine,Bronze,Mobile,Online,Macau,7963.63,7386.2,3,Credit Card,2025-01-18
+74a59704-75bf-42d2-8579-8d8288d67626,James Mitchell,Non-binary,74,San Marino,Poker,Platinum,Desktop,Land-based,Macau,5045.06,14.1,46,PayPal,2025-01-09
+09923a1b-2ee2-46ce-94c0-a02931af2044,Michael Richardson,Female,63,Iceland,Roulette,Silver,Tablet,Land-based,Online,6059.18,5704.03,18,Crypto,2024-07-01
+66938741-4c6f-47b7-9737-578272ddeedb,John Cox,Non-binary,34,Guinea-Bissau,Craps,Silver,Tablet,Online,Online,5922.49,4609.66,31,Crypto,2024-06-21
+526cacae-d0af-421e-b99d-47d627fa5f4e,Christian Johnson,Non-binary,19,Australia,Craps,Bronze,Tablet,Online,Macau,8053.44,3189.8,29,Bank Transfer,2024-06-16
+6f1cbff5-1282-4bb2-bef8-43ae83e06a2e,Emma Reyes,Non-binary,68,Barbados,Blackjack,Silver,Tablet,Land-based,Las Vegas,1504.86,1094.86,11,Bank Transfer,2025-02-18
+aca5591f-2f66-41db-a3db-93661a074fc3,Felicia Morris,Female,57,Mozambique,Keno,Silver,Tablet,Land-based,Macau,493.65,26.52,46,Credit Card,2024-09-24
+61918000-4cfa-48b2-b10b-2f8cd1206f8d,Matthew Burnett,Female,57,Saint Kitts and Nevis,Blackjack,Gold,Mobile,Online,Las Vegas,8532.26,8245.36,43,Crypto,2024-12-09
+2fd712c3-63c7-47d3-9035-87c0962e9e07,George Jefferson,Male,28,Sweden,Blackjack,Bronze,Tablet,Online,Las Vegas,1326.72,836.99,15,Credit Card,2025-01-14
+68040e3f-a058-4c74-89fb-3d6366c05b35,Eric Jordan,Male,45,French Southern Territories,Slot Machine,Gold,Mobile,Online,Online,5224.82,2087.51,22,PayPal,2025-04-06
+ec93d6cd-24a3-41df-85e9-11ccc6412776,Kimberly Gutierrez,Female,48,Canada,Slot Machine,Gold,Desktop,Land-based,Monte Carlo,3538.66,2154.19,38,Credit Card,2024-11-18
+fd5e4be1-e28f-4d91-b614-c4d6f7343ae9,Kathleen Jacobs,Male,64,Bosnia and Herzegovina,Slot Machine,Platinum,Desktop,Online,Singapore,1929.29,961.07,46,Crypto,2024-12-24
+4c333536-fa58-417b-beff-55028e8a424c,Krista Burgess,Male,53,Iraq,Roulette,Bronze,Tablet,Online,Online,3271.31,3193.97,8,PayPal,2024-12-29
+8c6e5f71-7a94-479a-a71c-2e0ee40bec2e,Caroline Norris,Non-binary,49,Iran,Baccarat,Platinum,Mobile,Online,Atlantic City,4151.95,94.05,35,PayPal,2024-04-24
+97906b56-24e4-4864-8b78-db4f9747a3f4,Daniel Zimmerman,Female,70,Grenada,Craps,Platinum,Desktop,Land-based,Singapore,364.12,355.85,10,PayPal,2025-01-07
+d475556c-761e-4f3e-be9b-8385374c61b0,Erica Owen,Male,38,Eritrea,Poker,Gold,Tablet,Online,Macau,3788.38,1065.59,6,PayPal,2024-11-13
+89243603-23ff-4bfc-b094-212a586778b2,John Johnson,Male,26,Kuwait,Craps,Bronze,Desktop,Online,Online,2919.05,406.12,9,PayPal,2024-06-19
+54bd829b-5547-41d3-9514-497fa15cf0d6,Tammy Fernandez,Male,73,Heard Island and McDonald Islands,Craps,Platinum,Desktop,Online,Atlantic City,9378.88,7211.37,2,Bank Transfer,2025-02-28
+166d3ab3-427e-44a7-a14b-304581087c37,Kyle Reese,Male,57,Guatemala,Slot Machine,Bronze,Desktop,Online,Monte Carlo,9311.12,8071.56,25,PayPal,2025-03-21
+3216ee80-ce16-4532-89d5-2ea850a07871,Linda Thomas,Non-binary,32,Jordan,Blackjack,Gold,Mobile,Land-based,Atlantic City,5566.85,972.69,37,Crypto,2025-02-22
+e0f540d6-67b1-4c18-9aa6-a3d737a7a63c,Tammy Ellison,Non-binary,57,Uruguay,Blackjack,Silver,Tablet,Online,Online,7442.41,6284.55,49,Credit Card,2025-03-03
+efc787e0-a389-4782-9128-74a21cef84d3,Connor Reed,Female,22,Uganda,Keno,Platinum,Desktop,Land-based,Las Vegas,1801.35,1379.61,45,Credit Card,2024-07-28
+9a9a411f-ba01-4082-85d3-e22b666eeb2e,Jason Mccormick,Male,70,Guatemala,Roulette,Platinum,Mobile,Online,Monte Carlo,3923.35,2035.25,39,PayPal,2024-12-22
+e22e987d-54b1-4fb2-83ab-52ae218cec0a,Michelle Cochran,Non-binary,50,Poland,Roulette,Bronze,Mobile,Land-based,Monte Carlo,5168.36,4725.4,27,Bank Transfer,2025-02-28
+fdfd0824-7e92-45c1-83e9-5c185a24ce45,Meghan Wright,Male,47,Croatia,Blackjack,Silver,Mobile,Online,Singapore,8903.1,3003.75,34,Crypto,2024-07-09
+a748f2c9-3564-4d20-8f8c-528378da31a7,Jennifer Rodriguez,Male,35,Croatia,Baccarat,Gold,Mobile,Online,Online,8884.99,5143.32,17,Bank Transfer,2024-10-18
+5661139e-2b4f-4b78-8a81-d1d06b4f2430,Kelsey Williams,Female,30,Bolivia,Roulette,Silver,Tablet,Online,Atlantic City,1223.44,108.38,38,Crypto,2025-01-13
+bc90b341-c893-434e-8188-a8cb7d156466,James Washington,Male,20,Congo,Slot Machine,Gold,Tablet,Land-based,Macau,1967.11,1743.49,25,Crypto,2024-11-19
+be521a39-5f9f-4606-8c90-abd5c9de000d,Susan Hernandez,Male,23,Saint Lucia,Poker,Bronze,Tablet,Land-based,Monte Carlo,9213.1,2998.87,3,Bank Transfer,2024-08-15
+083846af-5dfc-4e2a-84f4-5e65dc302661,Gregory Baird,Female,45,French Polynesia,Craps,Platinum,Tablet,Online,Online,9352.15,4260.54,47,Crypto,2025-04-09
+3b145af2-afea-49b1-81a9-d4ed763fb14b,Deborah Cox,Male,38,Saint Martin,Poker,Silver,Tablet,Land-based,Singapore,3380.09,2908.71,47,Bank Transfer,2024-04-20
+90f4dfd5-8b23-4e6e-93ee-a1746ae22246,Erin Moore,Male,26,Poland,Craps,Gold,Mobile,Online,Macau,2023.71,1880.92,13,PayPal,2024-05-20
+d13086dc-2119-45fb-a977-17d5a8fb5c62,John Russo,Male,23,Guadeloupe,Craps,Silver,Mobile,Land-based,Las Vegas,5131.76,3165.34,12,Credit Card,2025-03-03
+097b0466-b9b8-4ca9-902c-3eb89bf77f97,Hayley Mathis DVM,Non-binary,68,Luxembourg,Keno,Gold,Mobile,Online,Atlantic City,3678.76,3362.07,25,Credit Card,2024-06-24
+282f2deb-6acf-4737-8ea3-f65db3be6852,Craig Medina,Female,66,San Marino,Poker,Gold,Mobile,Online,Singapore,9741.44,7562.46,50,Bank Transfer,2024-05-14
+395a9ced-0f8b-4eec-be4d-c869c93aa8d4,Bruce Hale,Non-binary,73,Zimbabwe,Baccarat,Platinum,Tablet,Land-based,Online,6023.77,5292.16,10,Credit Card,2024-11-10
+4a35eb26-2404-488b-a9d9-c8461a176086,Jennifer Leon,Female,59,Christmas Island,Craps,Silver,Tablet,Online,Atlantic City,5474.8,2452.59,37,Credit Card,2024-12-09
+f9f924c1-3e2b-407b-943f-c023fb220e7b,Melissa Garrett,Non-binary,33,Bouvet Island (Bouvetoya),Slot Machine,Silver,Tablet,Online,Atlantic City,7838.74,2608.24,29,Crypto,2024-10-07
+634faf6d-32c2-42b9-b175-865009d717a8,Dr. Tyler Turner,Non-binary,48,Kuwait,Poker,Silver,Tablet,Online,Macau,4075.94,1995.92,36,Credit Card,2024-10-01
+904cbd65-323a-4829-955b-ea51f61bdb9f,Jeremy Thompson,Non-binary,54,Pakistan,Keno,Platinum,Desktop,Land-based,Online,5386.07,5274.52,43,Crypto,2024-10-26
+ca8d1890-7ee7-4009-8f52-4c055fbc079f,Michelle Ruiz,Female,75,Jordan,Roulette,Bronze,Tablet,Land-based,Online,6468.26,4077.62,1,Credit Card,2024-12-14
+9f974413-df3e-4968-b441-d6c4fa40d3af,David Lopez,Non-binary,51,Cote d'Ivoire,Roulette,Silver,Mobile,Online,Atlantic City,1536.11,1213.06,9,Credit Card,2024-09-26
+7a86da99-5f1f-4ce8-9fb7-2946433e371d,Katherine Payne,Female,46,Burkina Faso,Slot Machine,Platinum,Mobile,Online,Online,5994.97,568.43,29,Credit Card,2024-06-22
+0667dbf6-788f-43bd-b6ba-f8ec2208fcc3,David Lopez,Non-binary,30,French Polynesia,Blackjack,Bronze,Tablet,Land-based,Online,9134.29,1152.07,11,Bank Transfer,2025-03-24
+309cb013-7681-4162-98f4-47fa92d62945,Kimberly Moreno,Female,38,Benin,Roulette,Platinum,Mobile,Online,Online,6734.41,2450.09,50,Bank Transfer,2024-09-26
+0cf16092-9651-4b65-8fa2-8acca8cc124d,Allen Solis,Female,65,Greece,Keno,Gold,Desktop,Land-based,Singapore,1381.76,1149.65,19,Crypto,2024-05-02
+c1025fbc-596c-4c61-92b7-0334fa90e9e8,Joe Hawkins,Male,43,South Georgia and the South Sandwich Islands,Roulette,Platinum,Tablet,Land-based,Macau,3837.13,317.95,39,Crypto,2025-03-28
+5fdd9328-2e80-4354-b533-188e6ac300a3,Gerald Rivera,Male,64,Korea,Slot Machine,Gold,Tablet,Land-based,Atlantic City,9261.64,8422.32,23,Credit Card,2024-10-07
+ead43017-5ed9-4067-b551-a0fd54e7733f,Brianna Garcia,Female,72,Congo,Slot Machine,Platinum,Mobile,Land-based,Las Vegas,2103.67,990.88,7,Crypto,2024-08-15
+b639eeba-ce59-424f-b60e-73c45232135f,Beth Hernandez,Female,59,Ethiopia,Roulette,Bronze,Tablet,Online,Singapore,691.7,141.63,34,Credit Card,2025-01-17
+a74dddc3-1458-454a-bd25-ba83ecbc99ae,Lisa Murphy,Non-binary,50,Cuba,Blackjack,Bronze,Mobile,Online,Atlantic City,389.22,27.75,33,Bank Transfer,2024-04-29
+3341d4f1-6aa3-458c-a7da-c51f40a68607,Todd Robinson PhD,Female,41,Canada,Baccarat,Gold,Tablet,Land-based,Online,8125.99,1460.94,11,Crypto,2024-11-13
+b9fe3de4-7033-408b-b473-104271dc9987,Angel Cuevas,Non-binary,40,Gambia,Poker,Bronze,Tablet,Land-based,Online,7221.63,3924.45,49,Credit Card,2025-03-03
+941bdb14-1a22-4d5e-9040-1e01b8291357,Sandra Roman,Male,50,Palau,Keno,Gold,Desktop,Land-based,Macau,9971.78,7248.68,15,Crypto,2024-12-16
+4df29e60-ff15-4fed-ac28-85272c4256eb,John Gonzalez,Non-binary,54,Netherlands Antilles,Keno,Platinum,Desktop,Land-based,Macau,2777.51,1293.74,11,Credit Card,2024-08-08
+609df062-294e-4449-ad8f-a48721090df0,Tamara Cole,Female,51,Kenya,Roulette,Silver,Tablet,Online,Singapore,2199.14,536.12,4,Credit Card,2024-12-08
+6c0a2ba0-9c70-4460-9df5-4b6f0baaea49,Nathan Pitts,Non-binary,70,Yemen,Slot Machine,Platinum,Tablet,Land-based,Las Vegas,3410.31,2261.77,21,Crypto,2024-07-19
+bafb882c-5b41-41a2-a9fc-5b73d7fbb7b2,Jessica Conner,Female,31,Comoros,Blackjack,Platinum,Mobile,Online,Macau,2336.56,1392.83,28,Credit Card,2024-11-25
+7e1532f9-c216-4c5c-92b6-f6df8bd3f52d,Curtis Keller,Non-binary,58,Ireland,Poker,Gold,Desktop,Land-based,Online,7482.97,5002.86,35,Crypto,2024-08-30
+0197f61b-41e0-405e-b1da-39759ea26451,Martha Morales,Non-binary,36,Comoros,Craps,Bronze,Desktop,Online,Las Vegas,6434.39,1517.67,31,Crypto,2024-06-13
+2d978a92-6bcb-43fe-8e7a-97b93b0b93c7,Ronald Gutierrez,Female,29,Suriname,Poker,Bronze,Tablet,Land-based,Macau,4031.76,3435.44,8,PayPal,2024-07-07
+a730dcdc-9d0a-4f4a-bb74-b357d79050ea,Donald Bartlett,Female,66,Portugal,Roulette,Platinum,Desktop,Online,Singapore,2144.28,896.39,49,Bank Transfer,2024-09-30
+a0e503d7-b14b-42cb-9328-ed87443de2cd,Madison Jacobs,Male,60,Taiwan,Roulette,Platinum,Desktop,Land-based,Las Vegas,6959.42,6038.81,7,Crypto,2024-05-03
+20367649-2a6d-44a8-9a78-89d4f05ff226,Penny Mckay,Male,56,Tokelau,Craps,Silver,Mobile,Online,Online,3425.82,16.55,29,Bank Transfer,2024-10-28
+7927febe-86c8-42a8-8077-82e8dfa54370,April Wheeler,Male,51,Suriname,Keno,Gold,Mobile,Online,Monte Carlo,9484.97,5148.29,21,PayPal,2024-11-25
+7a650974-2983-41ce-bd8d-0da87b5487cf,Christopher Brown,Male,52,Vietnam,Slot Machine,Bronze,Tablet,Land-based,Atlantic City,8123.38,4187.61,20,Credit Card,2024-10-08
+b1c399fa-b395-4585-bbf0-15b211c8898e,Gary Hardy,Male,65,Pakistan,Baccarat,Gold,Tablet,Land-based,Monte Carlo,5426.64,2444.97,50,Crypto,2025-01-01
+0f3179ee-16b9-4884-a94c-c186d50a0a56,Paul Roberts,Non-binary,20,Brazil,Keno,Gold,Tablet,Online,Singapore,9348.61,4705.53,34,Crypto,2025-03-26
+4944466f-1120-437d-9505-7ddd32069b01,Meghan Bray,Female,35,Macedonia,Roulette,Bronze,Mobile,Online,Macau,2669.93,299.13,35,Bank Transfer,2024-09-05
+41fa026e-f91a-4c8f-9ee0-2e67bd53d575,Cheryl Hammond,Non-binary,68,Tajikistan,Roulette,Platinum,Tablet,Online,Online,1917.25,365.47,4,Bank Transfer,2025-02-06
+4a1f2825-73bf-42a9-9cc2-4a12953b6047,Nancy Brown,Male,74,Thailand,Baccarat,Platinum,Tablet,Land-based,Macau,9519.12,4728.82,18,PayPal,2024-08-11
+d183eac4-df8f-4c6a-80e0-620caf85b36c,Alexander Brown,Female,71,Palau,Roulette,Gold,Desktop,Online,Online,1897.17,1759.11,37,Bank Transfer,2024-08-01
+5f29db2a-51b0-4129-b3f5-995179589ed7,Jeff Torres,Non-binary,51,Papua New Guinea,Keno,Gold,Mobile,Land-based,Online,7053.3,789.79,25,PayPal,2024-10-01
+748413ca-b811-464c-83e9-f115e87f1bac,Mary Barnes,Non-binary,64,Kazakhstan,Slot Machine,Platinum,Mobile,Land-based,Singapore,2098.79,707.93,49,Bank Transfer,2024-05-13
+d8a930d2-e5e2-4d69-a0dd-86a129bc3598,Matthew Anderson,Male,42,Niue,Poker,Silver,Desktop,Land-based,Singapore,8458.93,4517.68,38,Bank Transfer,2025-01-22
+0283ec96-7e28-4935-a42f-ddc741142f7a,Cody Harris,Male,48,Christmas Island,Keno,Gold,Desktop,Land-based,Singapore,7834.05,2359.71,45,PayPal,2024-05-12
+d5cb0da2-64a8-44f0-8a34-56cde0eca819,Sean Bowen,Female,39,Latvia,Poker,Silver,Desktop,Online,Monte Carlo,5924.9,737.18,4,PayPal,2024-06-17
+9cb3821a-5779-4a13-ab5d-49754b8ede1f,Sarah Graham,Male,19,Tanzania,Baccarat,Platinum,Tablet,Online,Las Vegas,9731.45,8819.03,41,Crypto,2025-03-07
+9b91b5fa-66c4-4a07-986b-42ff5f947126,Rebecca Paul,Non-binary,57,Finland,Slot Machine,Gold,Tablet,Online,Atlantic City,7710.44,1802.41,50,Credit Card,2024-06-27
+0ca1dd1a-8d95-4260-9966-09a392c67e4d,Lori Baker,Male,29,United States of America,Roulette,Platinum,Tablet,Land-based,Atlantic City,6234.78,4234.13,44,PayPal,2025-01-22
+5bdc529e-0091-45dd-ae5e-458e3cf0ee7d,Sarah Hardy,Female,56,Malawi,Blackjack,Silver,Desktop,Online,Singapore,3466.27,1506.19,49,Credit Card,2024-08-03
+5601906c-5ca8-42b8-a368-57c3aa061bbd,Nicole Hammond,Non-binary,66,Angola,Keno,Silver,Mobile,Online,Singapore,809.98,670.0,17,Credit Card,2025-03-27
+a2ae05e8-a9ec-413f-99b1-51df0cf4f46c,Paul Olson,Female,21,Samoa,Slot Machine,Platinum,Tablet,Online,Monte Carlo,2144.82,1150.72,3,Crypto,2024-05-16
+cac24fda-6a56-4a6a-bf86-9d9de67f76ea,Christina Burns,Non-binary,61,Barbados,Slot Machine,Silver,Desktop,Online,Singapore,410.42,101.38,21,Bank Transfer,2025-02-06
+27a51c5e-2fe2-4df5-9e04-b2e5cb3b3d9c,Victor Alexander,Female,30,Denmark,Roulette,Platinum,Desktop,Land-based,Las Vegas,2558.62,1603.05,37,Crypto,2025-02-04
+7e571470-35ff-4cec-bc85-2703ab1b5704,Christine Griffith,Female,75,Micronesia,Blackjack,Bronze,Mobile,Land-based,Atlantic City,1125.8,807.34,39,Bank Transfer,2024-08-27
+812f36d5-dbcd-4795-bd4e-891a1e81cec1,Theodore Brown,Female,46,San Marino,Poker,Bronze,Desktop,Online,Las Vegas,2382.23,1294.26,33,Credit Card,2024-06-08
+77f723bf-f079-4363-bcb6-d131f6fd928d,Anthony Rodriguez,Male,52,Jordan,Poker,Bronze,Tablet,Online,Las Vegas,6333.04,4259.7,30,Bank Transfer,2024-12-11
+fda52f38-36a3-47d4-bd7d-29816eaaf341,Ryan Berry,Female,36,Gabon,Craps,Gold,Mobile,Land-based,Monte Carlo,8180.93,2311.48,42,Credit Card,2024-06-16
+1f3682c6-db32-409d-b3cc-f7240650cab2,Susan Brady,Non-binary,57,Myanmar,Keno,Silver,Mobile,Online,Macau,9783.41,1258.76,38,Bank Transfer,2024-08-28
+5a6c8b9b-d811-4599-ba4b-6c292a06878f,Tammy Bradshaw,Female,23,Haiti,Roulette,Platinum,Mobile,Land-based,Las Vegas,7697.93,6351.67,25,Credit Card,2025-02-15
+9ec9a63a-2431-4d9e-9a50-a714ca5f3344,Victoria Brock,Female,69,Ghana,Slot Machine,Silver,Mobile,Online,Atlantic City,9459.96,7802.24,11,PayPal,2024-07-21
+649bc2bd-aeed-4510-9119-19ac15feb64f,Mr. Brian Copeland,Male,73,Uruguay,Roulette,Platinum,Desktop,Online,Macau,2875.2,20.76,2,Credit Card,2025-03-13
+1714a390-1162-46cf-ade5-6b9e5567896d,Miranda White,Non-binary,57,San Marino,Blackjack,Silver,Mobile,Land-based,Singapore,4409.22,2691.34,28,Crypto,2025-01-24
+140885dd-ed09-4387-a2c5-fd0706867bbe,Michael Wheeler,Male,35,Saint Lucia,Slot Machine,Gold,Desktop,Land-based,Singapore,6905.39,3143.07,28,Bank Transfer,2024-07-03
+eff539a5-3bd9-4733-a890-1216de72fc94,Spencer Gibson,Non-binary,65,Guernsey,Blackjack,Silver,Mobile,Land-based,Monte Carlo,7502.96,6993.23,21,PayPal,2024-07-07
+14a2796d-04c1-48aa-ba1c-6bd1cf7c3125,Stephanie Griffin,Male,21,Libyan Arab Jamahiriya,Keno,Bronze,Mobile,Online,Macau,3732.47,674.32,5,PayPal,2024-07-10
+91a2f05c-59a0-478a-b163-a9859fa1af79,Angela Morris,Non-binary,56,Palau,Baccarat,Bronze,Desktop,Land-based,Atlantic City,4420.64,1085.03,9,Bank Transfer,2024-09-17
+d13ba410-84ae-481e-b76e-0fba9005d8c5,James Moyer,Non-binary,50,Seychelles,Baccarat,Platinum,Tablet,Online,Singapore,4558.71,432.73,41,Bank Transfer,2024-06-25
+d1115772-accb-418d-b667-6ef487c8c8f8,Tanner Smith,Male,44,Bahamas,Blackjack,Bronze,Mobile,Online,Macau,3037.27,2709.44,22,Bank Transfer,2024-07-24
+3d2f39ce-2d4f-44a1-a538-1c2d9b3167d3,Christy Hamilton,Male,62,Zimbabwe,Poker,Bronze,Tablet,Land-based,Singapore,4048.18,2806.5,12,PayPal,2024-08-06
+5adb0004-8ad6-4246-a971-16c575f186b6,Rachel Fuentes,Female,72,Uganda,Baccarat,Platinum,Mobile,Online,Singapore,7993.16,3663.48,23,Bank Transfer,2024-06-17
+cf2bf244-90b1-43e2-96a8-e13e8660bd6b,Jessica Rodriguez,Male,18,Dominica,Craps,Silver,Mobile,Online,Macau,8692.73,8203.92,31,Credit Card,2024-04-19
+dc33e26c-e2fa-485e-a499-197c776c3356,John Lewis,Non-binary,69,Bangladesh,Keno,Platinum,Tablet,Land-based,Singapore,7417.75,563.2,42,Crypto,2025-02-05
+585d6456-0f34-4775-9bd0-967a31b67a82,James Wells,Female,69,Guadeloupe,Craps,Platinum,Desktop,Online,Macau,7365.43,7354.05,24,Credit Card,2025-01-08
+7947aab0-45a0-49c2-9a88-2845d90da058,Lisa Howard,Male,40,Morocco,Baccarat,Gold,Tablet,Online,Singapore,8008.49,6725.48,49,Credit Card,2024-05-22
+f44d7f17-b27f-489b-9fda-21f7ef6638b1,John Fisher,Male,42,Ghana,Poker,Platinum,Tablet,Land-based,Las Vegas,6726.42,3858.84,18,PayPal,2024-07-27
+025abb50-5ea8-4c93-b49d-85f3118b4022,Michelle Weaver MD,Non-binary,19,Guatemala,Keno,Gold,Mobile,Land-based,Online,7033.32,4890.8,11,Crypto,2025-02-19
+60c59050-c553-45bb-8f04-fd7e77198ca6,Robert Ali,Male,36,Nauru,Blackjack,Gold,Mobile,Online,Macau,3038.19,1020.76,5,Credit Card,2025-02-19
+a2ffd486-ccbd-4819-a811-f02416b64c9a,Steven Maddox,Female,39,Belarus,Slot Machine,Bronze,Mobile,Land-based,Singapore,7753.42,1558.32,7,Bank Transfer,2024-11-18
+75247ae2-3313-4248-a235-ffcf51ea7676,Kara May,Female,58,Niger,Blackjack,Gold,Mobile,Online,Singapore,6781.1,2642.37,50,Crypto,2024-12-03
+ede1f50c-d3c5-4e33-9f3e-4841a3f0ad54,Tammy Rangel,Female,58,Cote d'Ivoire,Craps,Silver,Desktop,Land-based,Monte Carlo,1990.84,1029.58,21,PayPal,2024-08-15
+1557131a-2949-4286-a034-d43ab9af037b,Eric Collins,Male,41,Burundi,Roulette,Silver,Tablet,Land-based,Las Vegas,8214.08,5110.88,25,PayPal,2024-04-17
+b1f8fd93-ef0b-47d1-8344-ca2497be610c,Lindsey Rowe,Non-binary,27,Cape Verde,Roulette,Platinum,Mobile,Land-based,Macau,3482.03,1368.86,26,Credit Card,2024-06-28
+50b4e894-4718-48dd-8acb-d2c7a8455582,David Saunders,Male,49,Rwanda,Keno,Platinum,Tablet,Land-based,Las Vegas,3410.76,2167.8,33,Credit Card,2024-07-09
+988d543f-894d-4325-90a6-eabc21d5f418,Jackson Medina,Male,75,Philippines,Roulette,Bronze,Desktop,Land-based,Singapore,8770.96,3504.2,21,PayPal,2024-04-23
+4fc17922-74c2-41fa-96ac-a619b7c14352,Danielle Brown,Non-binary,53,Paraguay,Roulette,Gold,Desktop,Land-based,Las Vegas,8504.17,7179.75,22,PayPal,2025-01-27
+f3f59e78-2174-48a1-b818-bae42b5f5514,James Lee,Non-binary,38,Venezuela,Baccarat,Gold,Mobile,Land-based,Las Vegas,1083.8,192.54,19,Bank Transfer,2024-12-24
+6b924257-a4ea-465c-8294-c5684e72f913,Paul Lawrence,Male,59,Guam,Slot Machine,Bronze,Desktop,Land-based,Atlantic City,1147.75,1129.61,15,Credit Card,2024-11-27
+6c16f652-c67d-4f95-a4ae-c1ee24941c85,Julie Gordon,Non-binary,36,Bahamas,Baccarat,Gold,Desktop,Online,Macau,2288.28,898.6,48,PayPal,2024-06-24
+ace55073-2bc3-42a7-b0a6-0ba2f0178521,Zachary Jackson,Non-binary,44,Kuwait,Blackjack,Silver,Mobile,Online,Monte Carlo,865.14,847.86,48,Credit Card,2024-12-01
+07f2cac2-3319-4b92-9337-ba89bf938c14,Brandon James,Female,64,Japan,Keno,Bronze,Desktop,Land-based,Atlantic City,7205.71,5946.25,40,Crypto,2024-08-01
+b8b8ee4f-8831-4160-8870-68168e25e0cb,Kevin Macias,Female,22,Nepal,Baccarat,Bronze,Desktop,Online,Online,2743.22,2165.94,18,Credit Card,2024-11-11
+34aa70ab-9c15-49f0-88d8-00ed70dceb36,Joseph Alvarez,Female,38,Malaysia,Poker,Bronze,Desktop,Online,Online,2088.7,1685.22,9,PayPal,2024-04-29
+cb2094e8-1924-4ae8-bdf9-dc6903dda9ed,Douglas Nichols,Male,55,Malaysia,Slot Machine,Gold,Desktop,Online,Atlantic City,5290.82,180.82,50,Bank Transfer,2024-10-30
+1ca3ff8d-6f95-489e-8954-0c26e3071f9f,Dr. Patrick Baker,Female,29,Gibraltar,Poker,Gold,Desktop,Land-based,Macau,7848.65,1333.4,50,Crypto,2025-04-07
+a158d49c-d7dd-47fc-ada5-4ffee5255745,Sarah Montgomery,Non-binary,20,Moldova,Baccarat,Gold,Tablet,Online,Singapore,8284.44,3680.95,17,Credit Card,2024-05-12
+781def67-1539-4be0-a014-d21905ef19df,Maria Gomez,Female,75,Mayotte,Baccarat,Bronze,Mobile,Land-based,Monte Carlo,3488.48,1262.78,27,Crypto,2024-06-21
+a707bf05-0aac-4961-957b-ff7c063503d0,Becky Underwood,Non-binary,64,Turkey,Baccarat,Platinum,Mobile,Online,Online,9982.12,583.97,9,Credit Card,2024-12-21
+efd1999e-0888-49d0-8061-137111fcf9d4,Kristin Barton,Male,32,Iceland,Keno,Platinum,Desktop,Land-based,Las Vegas,3399.46,3059.91,41,Crypto,2024-04-12
+80ac33c3-6b2b-4672-8ec8-131fc3a2724c,Scott Schaefer,Male,30,Lesotho,Roulette,Silver,Tablet,Online,Singapore,3246.28,1245.68,31,Bank Transfer,2024-06-09
+429ca0df-cf03-49eb-840e-20432d0ffc19,Kendra Lopez,Non-binary,57,Bosnia and Herzegovina,Blackjack,Bronze,Tablet,Online,Las Vegas,5442.49,2647.28,14,Bank Transfer,2025-03-06
+cce6d34e-3a1f-4efd-bdc8-ff4b2caee29d,Maria Massey,Female,42,Tanzania,Baccarat,Platinum,Mobile,Online,Online,5904.27,4853.29,34,PayPal,2025-03-05
+b4a7b6d3-2528-47f2-bb2e-0ea3a1faeb26,Eric Vang,Non-binary,18,Gabon,Roulette,Silver,Tablet,Land-based,Monte Carlo,8947.5,8802.15,44,Crypto,2024-07-31
+afdb74bf-d290-48b6-b146-85fa1c73e358,Beth Rush,Non-binary,48,Malta,Craps,Platinum,Mobile,Land-based,Macau,1839.95,1722.44,10,Crypto,2024-10-25
+7a0d466e-f504-4001-a6a7-e77e92e49b22,Jessica Norris,Non-binary,34,Oman,Slot Machine,Platinum,Desktop,Land-based,Online,5497.98,4422.82,4,Crypto,2025-03-28
+ffbd575f-45b8-41c4-ace5-5333b56a4f68,Jeremiah Weeks,Male,52,Turkey,Blackjack,Silver,Mobile,Online,Online,3912.42,2460.53,4,Crypto,2024-11-19
+e4d5e361-5433-4555-b926-14e1649897a8,Brian Ramirez,Non-binary,48,Mauritania,Blackjack,Bronze,Mobile,Land-based,Las Vegas,5067.04,3139.15,19,Crypto,2024-04-20
+6e60a142-8bd0-4143-9b91-0be34cdda3ed,Ronald Allen,Female,62,Togo,Keno,Gold,Mobile,Land-based,Atlantic City,533.68,524.86,5,Bank Transfer,2025-02-21
+68a3ebed-79b0-42e7-bbc0-fa19d9e77d1b,Philip Hayes,Female,18,French Southern Territories,Blackjack,Gold,Mobile,Online,Macau,6568.18,4813.32,41,Crypto,2024-05-05
+d1f24d12-c6f1-4def-8208-16c4a857ab03,Jason Ayala,Female,21,Congo,Keno,Platinum,Tablet,Land-based,Atlantic City,9463.41,5731.93,4,Bank Transfer,2024-07-21
+efa603fe-60fd-44e5-837b-8dbdab45710a,Jessica Perez,Male,24,Gibraltar,Blackjack,Platinum,Tablet,Land-based,Online,2714.07,2441.63,31,PayPal,2024-12-30
+9ec9e176-e5f2-44f9-8e44-c15d50c8c63b,Taylor Padilla,Male,56,Maldives,Poker,Platinum,Mobile,Online,Singapore,5256.93,3633.67,29,Bank Transfer,2024-10-11
+62f40d1a-03a5-41e6-87ec-e3c13fd075ad,Jessica Reid,Male,37,Norway,Baccarat,Gold,Tablet,Land-based,Macau,8259.5,7720.21,26,Crypto,2024-07-16
+3b545c31-8bb4-46f5-b28a-567663964737,Sierra Brown,Female,60,Cook Islands,Blackjack,Silver,Tablet,Land-based,Atlantic City,5438.53,1647.85,45,Bank Transfer,2024-08-15
+466ccd1e-0ae0-41fa-9d0b-3dbafe48d333,Carla Hess,Female,70,Gambia,Craps,Bronze,Mobile,Land-based,Macau,1405.43,837.36,21,PayPal,2024-04-18
+987be492-e78f-46ce-8840-382958d3f0d0,Caitlyn Wilson,Female,63,Malawi,Roulette,Silver,Desktop,Land-based,Online,8049.78,4425.75,17,Credit Card,2024-06-04
+c2179f96-12a1-4b5c-acb5-28a80ac5a988,Melissa Hernandez,Male,29,Tuvalu,Craps,Silver,Tablet,Land-based,Monte Carlo,7396.75,2615.45,47,Credit Card,2025-02-09
+7040d158-552c-4179-bba2-186c9b53f6dd,Jennifer Obrien,Non-binary,54,Italy,Slot Machine,Gold,Mobile,Online,Atlantic City,1758.76,734.54,29,Credit Card,2025-02-17
+1c5475ff-ff91-4cb4-90ef-17bc616a9151,Steven Murray,Male,29,Gabon,Poker,Silver,Mobile,Land-based,Macau,5395.86,1567.89,23,PayPal,2025-04-01
+787030b5-135f-4f90-bc36-7ab76c91d851,David Farley,Non-binary,65,Iraq,Blackjack,Silver,Desktop,Online,Online,9576.83,3478.14,4,Credit Card,2024-04-23
+a3b794aa-6648-4dad-a041-ce6b89c6dad8,Veronica Webb,Female,44,Cyprus,Poker,Silver,Mobile,Online,Macau,6662.76,3329.74,35,Bank Transfer,2024-08-25
+0e754239-a2ce-41f1-b68b-f7eda9c9ec6c,Amanda Crawford,Male,67,Hong Kong,Blackjack,Bronze,Tablet,Land-based,Online,1554.42,1053.29,22,Bank Transfer,2025-03-21
+a76963f3-1ecd-4e64-b9b6-e269a2df8ac0,Aaron Washington,Male,46,Wallis and Futuna,Blackjack,Gold,Mobile,Land-based,Macau,5074.14,1147.12,10,PayPal,2025-02-17
+2f5d795e-3bbe-4fb6-9899-3b8fcc6b3783,Adrian Miller,Female,29,Saint Helena,Slot Machine,Silver,Desktop,Online,Macau,1149.7,594.71,32,PayPal,2024-06-09
+84e2df2e-59bf-432c-85c9-7ebb6f163669,Katrina Boyd,Non-binary,63,Portugal,Poker,Platinum,Desktop,Online,Las Vegas,4626.06,359.1,15,Bank Transfer,2024-09-14
+68952a09-ac28-4fab-9bee-e263b207409a,Shirley Rice,Male,68,Cyprus,Craps,Gold,Desktop,Online,Singapore,860.95,380.13,47,Crypto,2025-02-21
+ce227a83-a1c7-4480-86d5-5071a75e3c65,Joseph Bush,Non-binary,50,Colombia,Blackjack,Silver,Tablet,Online,Macau,3140.08,82.81,27,Bank Transfer,2025-03-20
+86a62a68-4c2a-4810-b9f8-aaa5c4e07470,Teresa Chung,Non-binary,31,Greece,Baccarat,Gold,Desktop,Land-based,Singapore,9300.37,6871.8,28,Crypto,2024-08-05
+ddca87af-1a93-488e-b645-42862be7c90a,Scott Williams,Male,42,Saint Helena,Craps,Silver,Tablet,Online,Monte Carlo,6724.19,1400.15,24,Credit Card,2024-12-13
+403eae43-9717-4651-ad6b-796583a062e0,Christopher Moran,Male,42,Gabon,Poker,Platinum,Desktop,Online,Singapore,3859.17,1356.22,38,Crypto,2024-11-26
+e93fcfcf-3be6-4077-b647-cf901b429763,Mr. Kevin Miller,Male,49,Chad,Keno,Gold,Tablet,Land-based,Singapore,5905.48,961.78,19,Crypto,2024-08-21
+1ad5d553-c60d-43d1-a791-20f6e6d8da8d,Sharon Edwards,Female,45,Italy,Keno,Platinum,Mobile,Land-based,Online,7226.62,5279.49,39,Crypto,2025-04-03
+bd397201-355f-4d6f-a238-334d2733254f,Regina Payne,Non-binary,69,Benin,Baccarat,Gold,Tablet,Land-based,Atlantic City,7368.04,6793.66,35,Credit Card,2024-11-03
+e6a2f350-1325-4f1a-b1cb-cba5afae9e32,Michele Logan,Non-binary,21,Cameroon,Craps,Platinum,Tablet,Land-based,Monte Carlo,1383.59,1106.74,18,Bank Transfer,2024-10-27
+de9e58f0-9eff-43e3-87ee-1af0ba44df7f,Shelby Roth,Non-binary,33,Georgia,Baccarat,Silver,Desktop,Online,Las Vegas,4399.88,3542.85,21,Bank Transfer,2024-08-26
+c71038b0-7297-4965-be54-ee938e8031ac,Shelia Martinez,Non-binary,33,Solomon Islands,Keno,Silver,Tablet,Online,Las Vegas,9164.43,4870.78,42,Bank Transfer,2024-08-24
+81676ecb-d154-451a-98f0-37b02811558d,Kelly Garcia,Non-binary,57,Guam,Baccarat,Platinum,Mobile,Online,Macau,5290.62,305.42,39,Crypto,2025-03-12
+98a5cb0b-ac9f-4588-829a-5bbe4e451c5d,Cheyenne Armstrong,Male,60,Denmark,Roulette,Silver,Desktop,Online,Atlantic City,7190.07,1344.39,4,Crypto,2024-12-07
+5dce7326-5e67-4a81-a2e4-5347c1ce3573,Adrian Woods,Non-binary,18,Switzerland,Craps,Gold,Mobile,Land-based,Online,8387.13,6729.3,13,Credit Card,2024-09-28
+e55775d6-5ba6-49f1-af32-6bd2a39b910b,Denise Rivera,Non-binary,45,Comoros,Slot Machine,Silver,Mobile,Land-based,Las Vegas,1863.93,1417.92,10,Bank Transfer,2024-12-16
+250819c0-0275-4c02-b6f2-e0f8a3a6ffce,Justin Carroll,Male,47,Saint Helena,Baccarat,Bronze,Mobile,Online,Singapore,8010.31,6511.68,4,PayPal,2025-04-10
+a0ce8d05-c9cf-489d-a730-57ca91820f86,Mrs. Amy Osborne,Female,28,Saint Vincent and the Grenadines,Poker,Platinum,Mobile,Online,Macau,7369.4,240.12,39,PayPal,2024-07-31
+4e87a77d-1f3c-42fa-8a2b-d860b1259214,Shannon Turner MD,Female,50,Central African Republic,Keno,Silver,Mobile,Online,Online,7833.24,731.61,7,Crypto,2024-06-16
+32f2f6aa-2539-4b00-8231-8b72e66f2883,April Bird,Female,61,Svalbard & Jan Mayen Islands,Baccarat,Gold,Desktop,Online,Singapore,7083.11,3745.05,8,Bank Transfer,2025-04-03
+f68eeac7-e4e7-4312-91e6-c502c2f84ddd,Alexandra Lynch,Female,64,Saint Lucia,Blackjack,Platinum,Desktop,Land-based,Online,5040.4,2213.7,7,Crypto,2024-07-29
+5771cb36-15eb-49a7-8665-8c3ac5ed5a68,Jamie Jones,Male,43,Burkina Faso,Blackjack,Gold,Tablet,Online,Online,777.87,265.25,37,Credit Card,2025-04-03
+c7bc2a61-954c-469f-ad81-c9fae5672d91,Michelle Kelly,Female,45,Austria,Slot Machine,Platinum,Tablet,Online,Macau,9128.32,6840.59,25,PayPal,2024-10-03
+c5b7f612-8a61-47c7-b78b-09a77181ff57,Joshua Thompson,Non-binary,61,Namibia,Craps,Gold,Tablet,Land-based,Monte Carlo,3845.83,1044.18,31,Credit Card,2024-07-17
+4bdae330-bfc5-4b79-8c11-08e1df8ac38c,Daniel Schultz DVM,Non-binary,25,Niue,Slot Machine,Silver,Tablet,Land-based,Singapore,158.74,40.1,29,Credit Card,2024-07-13
+120fbc1c-4cf6-4fcb-a8dd-64b74c45fc12,Andrew Anderson,Non-binary,35,Iceland,Baccarat,Gold,Desktop,Online,Singapore,8275.22,2690.76,45,Crypto,2025-02-11
+c419b866-136a-44b1-ab02-e74acfd42b73,Alexander Nicholson,Male,44,Portugal,Poker,Gold,Desktop,Online,Singapore,9076.09,1561.77,3,Bank Transfer,2024-07-01
+e8cc57f0-32da-4922-807a-3b1be4b48bb9,Kristin Ferrell,Non-binary,64,Puerto Rico,Poker,Platinum,Tablet,Land-based,Singapore,5213.62,2137.59,28,Bank Transfer,2024-05-25
+0a7eef32-0e8f-4827-89f5-610731e898a4,David Chapman,Female,38,Finland,Poker,Bronze,Mobile,Online,Monte Carlo,9309.7,8243.38,3,PayPal,2024-07-09
+20173348-bb1c-4bb5-9f18-a4b6893fde3a,Michael Moreno,Non-binary,32,Angola,Poker,Platinum,Tablet,Land-based,Online,9659.06,8077.4,22,Bank Transfer,2024-07-17
+1698c2a7-5c99-47a3-8477-8bf82ffaedcf,Amber Davenport,Female,73,United States Virgin Islands,Slot Machine,Platinum,Tablet,Land-based,Monte Carlo,369.53,327.24,11,Crypto,2024-11-05
+e04f6406-9dc5-4daf-9ec8-181b64be1d05,Mr. Joseph English,Female,23,Chad,Baccarat,Gold,Tablet,Online,Atlantic City,4592.91,1242.11,50,Credit Card,2025-01-19
+0887c548-cc06-4ae3-8fb3-7d698553b42c,Christine King,Non-binary,66,Trinidad and Tobago,Baccarat,Bronze,Tablet,Land-based,Online,910.87,279.58,11,PayPal,2024-06-26
+c7dbc84f-b985-4d0e-8d72-748ddeeab4b4,David Hurst,Non-binary,38,Bolivia,Roulette,Silver,Tablet,Land-based,Monte Carlo,6601.5,5928.37,4,PayPal,2025-02-27
+60d2a78b-b7f0-4bbb-ac18-c2cfa0ace1ba,Michele Miller,Non-binary,57,Malta,Roulette,Gold,Mobile,Land-based,Online,725.41,185.26,30,Credit Card,2024-12-05
+c3ff2212-68a8-4403-bdc2-29f97cfdb584,Elizabeth Dunn,Female,39,Albania,Slot Machine,Bronze,Tablet,Land-based,Online,1723.62,194.57,11,PayPal,2024-06-21
+117e02d1-8c75-4c0f-998f-262241ef8027,Brittany Bonilla,Female,29,Brunei Darussalam,Craps,Bronze,Mobile,Land-based,Singapore,958.19,821.21,33,PayPal,2025-03-22
+0a9cc718-4124-40e5-840f-7a2b31254aa6,Christopher Ward,Male,26,Cote d'Ivoire,Baccarat,Gold,Mobile,Land-based,Monte Carlo,1609.1,1093.65,29,Bank Transfer,2024-06-08
+041f383b-9584-46da-bdc3-c96e16a0b4ae,Robin Barber,Non-binary,61,Nigeria,Craps,Silver,Tablet,Land-based,Online,878.43,522.7,24,Credit Card,2024-06-26
+34b8140f-1a8c-489c-8d08-b8428e501742,Chad Mcguire,Non-binary,63,Serbia,Poker,Gold,Tablet,Online,Monte Carlo,9955.81,4174.52,14,Crypto,2025-02-16
+f8be4db7-dd39-4176-8dd0-1144e874eaf1,Jeffery Williams,Male,33,Kiribati,Craps,Silver,Mobile,Online,Monte Carlo,731.27,169.85,17,Credit Card,2025-02-09
+eb4045a1-81d9-4fb8-9e89-97a328f429eb,Anthony Romero,Male,62,Bangladesh,Baccarat,Silver,Tablet,Land-based,Monte Carlo,8444.7,1847.44,30,Credit Card,2024-10-18
+45c924bb-815b-4963-a85f-5bb4ebe30853,Miranda York PhD,Male,69,Uruguay,Roulette,Bronze,Mobile,Land-based,Online,2272.18,880.63,14,PayPal,2024-06-19
+9882f8a7-e6a1-411c-956b-08ea218d527c,Michael Hooper,Non-binary,69,Saint Martin,Baccarat,Platinum,Tablet,Land-based,Online,5065.38,1764.08,19,PayPal,2025-03-12
+ad16c89d-38cc-4357-8bd0-ce279dad3ce6,Rebecca Suarez,Female,62,Costa Rica,Keno,Gold,Mobile,Land-based,Macau,4552.52,1351.83,18,Bank Transfer,2024-10-07
+b4ec91f7-2101-493c-b85f-ffa2f6bd35d5,Carol Walters,Non-binary,63,Saint Pierre and Miquelon,Slot Machine,Bronze,Desktop,Online,Monte Carlo,9480.96,2112.03,45,PayPal,2024-09-07
+f03d80de-6df7-4d71-90df-ffaedfc526df,Nancy Hill,Non-binary,46,British Virgin Islands,Poker,Gold,Desktop,Online,Atlantic City,1638.05,771.71,18,Credit Card,2024-05-18
+4efc0439-66c4-4305-b77b-d0e73dd5cd64,Robert Lawrence,Male,72,Cote d'Ivoire,Poker,Gold,Tablet,Land-based,Macau,4486.23,2426.13,5,Credit Card,2025-02-14
+4ee721e4-8987-44a6-bcf8-cca00b4930f6,Carla Cook,Non-binary,26,Pakistan,Keno,Platinum,Tablet,Land-based,Macau,8739.38,6661.98,48,Credit Card,2024-12-13
+5c64e069-4aea-4722-9925-75a737119cfa,Heather Morales,Non-binary,65,Hong Kong,Blackjack,Bronze,Tablet,Land-based,Las Vegas,3407.91,783.46,9,Credit Card,2024-05-27
+58c816d2-de74-4f28-8b46-74ced9894075,Daniel Rich,Female,32,Venezuela,Craps,Bronze,Desktop,Land-based,Atlantic City,535.55,356.52,2,Credit Card,2024-07-23
+6479c51c-94ae-478b-b74a-e26702ca6384,Bonnie Johnson,Female,52,Seychelles,Baccarat,Bronze,Tablet,Land-based,Las Vegas,7530.26,6345.62,4,Credit Card,2024-06-28
+adaa7897-96df-4793-8a73-7ffda9e56e0f,Nichole Garrett MD,Non-binary,72,Bolivia,Poker,Silver,Tablet,Online,Online,1877.32,1059.12,30,Bank Transfer,2024-05-28
+a86f2ce5-8d4a-4acf-801a-3685b3d59f86,Matthew Powers,Male,47,British Virgin Islands,Baccarat,Platinum,Mobile,Land-based,Online,3760.12,1230.5,31,PayPal,2024-09-09
+fdc41e7a-99f0-4c9a-9810-88a7ffcacaa7,Brian Valentine,Female,45,Malawi,Blackjack,Bronze,Mobile,Online,Singapore,5704.81,140.63,45,Credit Card,2025-03-18
+34979fe9-7440-4e18-8f7c-a616ad3c8be7,Brian Phillips,Male,32,Saint Helena,Blackjack,Bronze,Desktop,Online,Singapore,6556.2,4281.6,13,PayPal,2024-11-14
+dff8da0b-72ae-49c7-bc15-f4988f1770d2,Beverly White,Non-binary,18,Wallis and Futuna,Poker,Gold,Mobile,Online,Online,5681.91,3032.15,23,PayPal,2024-07-21
+f930b3d0-a05f-4fa3-880b-4cbbb359e045,Joseph Kelley,Male,71,Afghanistan,Blackjack,Gold,Mobile,Land-based,Macau,2415.93,60.12,35,Credit Card,2025-01-23
+abadf456-7b3a-42fd-8dd2-6ba512ccd1da,Erin Jenkins MD,Non-binary,55,El Salvador,Craps,Gold,Mobile,Online,Atlantic City,6605.01,1809.77,17,Credit Card,2025-03-13
+ebf8a57c-c53c-4dcd-b53a-a0fe5037723a,Molly Griffin,Female,72,Suriname,Keno,Gold,Mobile,Land-based,Online,8144.87,7202.92,3,Bank Transfer,2024-10-11
+e2fcfa17-e1c8-44e8-a581-720069b81784,Jennifer Suarez,Female,33,Reunion,Keno,Bronze,Desktop,Online,Singapore,1737.72,1732.24,21,PayPal,2024-11-19
+fd5bb08e-9adf-4c98-a8f3-403b048e30be,Joshua Jones,Female,74,Malaysia,Baccarat,Silver,Desktop,Land-based,Online,6124.98,3452.51,36,Credit Card,2025-01-20
+24b42749-2580-43fe-a083-ee2acd5914e6,Heidi Orr,Female,56,Swaziland,Slot Machine,Bronze,Desktop,Online,Macau,8203.37,7769.67,48,Crypto,2025-03-23
+5182d6a2-61e7-4a67-8bdf-f0e50e422169,Sean Everett,Non-binary,75,Libyan Arab Jamahiriya,Poker,Silver,Tablet,Land-based,Las Vegas,9873.93,953.4,25,Credit Card,2024-05-20
+416b5a6e-b20d-4251-930d-b810fd5ca5bb,Sandra Webb,Non-binary,42,Lithuania,Roulette,Bronze,Desktop,Land-based,Singapore,201.94,127.67,11,Crypto,2024-09-27
+5eb4ad57-c3bc-497e-bb25-8df7b3782a9d,Russell Stewart,Female,74,Hong Kong,Roulette,Gold,Tablet,Online,Atlantic City,5092.91,40.78,48,Bank Transfer,2024-08-22
+b41ddc37-afa2-4eb0-9745-8930fb9d927c,Patrick Adams,Female,36,Bouvet Island (Bouvetoya),Roulette,Gold,Desktop,Land-based,Atlantic City,6125.05,1316.58,3,Crypto,2024-09-01
+192fa555-3de1-4441-b866-3d8714aa6d20,Melody Evans,Non-binary,61,Saint Vincent and the Grenadines,Keno,Bronze,Desktop,Land-based,Macau,8058.76,5216.29,18,Bank Transfer,2024-05-27
+609461ec-d409-4832-b49a-d7db71256a45,Paul Callahan,Male,19,British Virgin Islands,Craps,Gold,Mobile,Online,Macau,4005.7,770.17,40,Credit Card,2024-09-07
+42b34632-cbab-463c-acdf-c1d37cf470b1,Elizabeth Lopez,Male,66,Afghanistan,Roulette,Platinum,Desktop,Land-based,Singapore,5660.59,816.94,6,Bank Transfer,2024-09-04
+8e0c57a2-3c88-4066-8710-aeee8cdc76ba,Robert White,Female,23,Uganda,Poker,Silver,Tablet,Land-based,Macau,7993.8,3030.06,9,Bank Transfer,2024-06-09
+d3915a5b-a7bc-4ef5-ab5a-09f9d916c733,Linda Johnson,Non-binary,37,Bangladesh,Slot Machine,Gold,Desktop,Online,Singapore,6222.1,4962.36,5,PayPal,2024-06-05
+66c8213f-fd45-42da-b1c9-7a0b457abeed,Joshua Moreno,Female,28,Indonesia,Keno,Silver,Tablet,Land-based,Macau,8554.04,1086.16,21,Crypto,2025-04-08
+8baa242f-fe58-4043-addf-d7c4abb210f9,Benjamin Summers,Female,32,Timor-Leste,Baccarat,Gold,Desktop,Online,Las Vegas,6667.52,3754.93,15,PayPal,2024-08-09
+098d9ff0-f6a8-4bcb-b5ff-e6aca190a3ed,Jamie Herring,Non-binary,35,Indonesia,Poker,Platinum,Mobile,Online,Monte Carlo,8448.5,7262.52,17,Credit Card,2024-04-26
+3dee2f0b-cfc6-42a5-9712-89e6deb7f217,Jennifer Joyce,Male,38,Switzerland,Craps,Silver,Tablet,Land-based,Online,5751.09,4132.01,39,Crypto,2025-04-02
+2e2dab0c-350c-4b32-9d07-a22638989ab2,Jeffrey Gilbert,Male,45,Korea,Roulette,Platinum,Desktop,Online,Macau,7041.15,5610.06,3,Bank Transfer,2024-10-03
+d0d237a1-e56f-4356-8585-0e872926cebf,Kaitlyn Thomas,Male,48,Djibouti,Blackjack,Platinum,Mobile,Online,Las Vegas,1036.72,596.2,49,Crypto,2024-05-29
+12c741e9-780e-4c6e-9628-ddc2420da58a,Jacob Rogers,Male,46,Luxembourg,Blackjack,Platinum,Desktop,Online,Las Vegas,5879.03,1559.77,47,PayPal,2024-09-30
+3cb6da28-9169-454b-9928-68207bf1da12,Roy Turner,Male,67,Wallis and Futuna,Slot Machine,Gold,Desktop,Land-based,Online,3888.02,1576.13,34,Credit Card,2025-01-15
+66d22c36-76c1-46cd-9789-d40377773a4a,Arthur Johnson,Female,55,Grenada,Baccarat,Bronze,Desktop,Online,Online,1696.62,164.69,37,Crypto,2024-07-12
+42f60cf8-12d9-4440-84c9-be5403301e60,Jeffrey Bruce,Male,49,Svalbard & Jan Mayen Islands,Keno,Gold,Desktop,Land-based,Las Vegas,2996.96,1191.58,5,Credit Card,2024-04-23
+690de59d-d332-41cf-8492-392530b8d34a,Xavier Williams,Non-binary,67,Ireland,Poker,Bronze,Tablet,Online,Singapore,9728.67,3610.65,8,Credit Card,2024-10-27
+5410ab0e-8386-4f74-9168-dca586f9287f,Sarah Molina,Male,23,Israel,Blackjack,Silver,Tablet,Online,Macau,6872.2,1708.78,14,Crypto,2024-12-20
+ceb600ab-4615-46bb-8879-b4ed3cb76099,Roger Rollins,Non-binary,30,Botswana,Slot Machine,Bronze,Desktop,Online,Atlantic City,5627.52,1470.31,36,PayPal,2024-05-24
+248962a6-364f-48c5-9a53-7a567ec21b41,Julie Barrett,Non-binary,26,Cote d'Ivoire,Poker,Bronze,Mobile,Online,Atlantic City,7368.39,3180.96,25,Crypto,2024-12-11
+e69425b7-67bb-4214-8419-25d4681f6084,Theresa Villegas,Female,18,Guyana,Baccarat,Gold,Mobile,Land-based,Online,8406.87,5471.8,15,Crypto,2024-10-01
+c1461494-f3bd-4542-b754-193514c49066,Robert Kramer,Female,55,Australia,Blackjack,Bronze,Desktop,Land-based,Las Vegas,7264.27,873.14,7,PayPal,2024-12-04
+028612de-dd61-420d-9ef1-d0936bb174af,Sarah Lopez,Female,65,Bangladesh,Craps,Gold,Desktop,Land-based,Atlantic City,7348.67,546.01,30,Crypto,2024-08-30
+21e9fe5d-c2a1-4369-b757-0f70cf8f7c04,Desiree Rowe,Non-binary,71,Tunisia,Keno,Bronze,Mobile,Land-based,Macau,6651.43,1398.12,21,Credit Card,2024-05-29
+0b6fd4e8-a2af-40b6-8105-5ec32ca8b55c,Sarah Martin,Male,47,Grenada,Keno,Platinum,Tablet,Land-based,Atlantic City,8449.55,6894.22,41,Crypto,2024-12-18
+c838e7d2-eec9-4aac-bcf4-0e83b5a585a9,Jerry Cummings,Non-binary,63,Thailand,Blackjack,Bronze,Tablet,Land-based,Atlantic City,9403.56,4902.1,19,Crypto,2024-10-10
+b1816c98-be7e-437f-a1e0-213c7952429a,Justin Lee,Non-binary,24,Saint Martin,Baccarat,Gold,Mobile,Land-based,Online,6416.57,1204.75,40,Bank Transfer,2024-11-17
+2b347b80-fce8-45a1-8c97-49a9239c9c6f,Jason Liu,Male,18,Turkey,Roulette,Gold,Mobile,Land-based,Online,563.61,294.05,33,Crypto,2024-11-25
+ab53e318-e1bd-4a18-8cf3-2c1e6e454f7e,Abigail Chase,Female,59,South Georgia and the South Sandwich Islands,Poker,Gold,Mobile,Land-based,Las Vegas,2821.08,1691.12,34,PayPal,2024-07-04
+2dac8b6a-6105-4e00-9283-3c7b6af0fd84,Karen Anderson,Male,21,Aruba,Slot Machine,Gold,Tablet,Online,Atlantic City,2716.11,479.75,32,Bank Transfer,2025-04-03
+112d9eaa-a140-4d36-86ad-b87fb22f5547,Lindsey Carter,Male,32,Guatemala,Keno,Silver,Mobile,Online,Atlantic City,1984.63,543.8,23,Bank Transfer,2025-02-21
+da4da497-d209-4524-b8a3-459480f67a19,Cathy Olsen,Non-binary,56,Lebanon,Craps,Gold,Mobile,Land-based,Las Vegas,1454.26,1050.09,46,PayPal,2025-02-21
+5c2b9386-291a-47c5-95bb-8e144d4ca6f6,Joel Baker,Non-binary,35,Switzerland,Slot Machine,Silver,Mobile,Online,Las Vegas,2249.92,29.32,38,PayPal,2024-06-13
+9bf0cb9c-0bed-4be8-bbf8-c5b5c73dd5d2,Madeline Russell,Female,29,Bangladesh,Blackjack,Bronze,Desktop,Land-based,Macau,4421.58,2432.34,7,PayPal,2024-12-11
+8a0d3314-d120-40f5-9a46-ff14e0bb0978,Deanna Mendez,Non-binary,35,Rwanda,Craps,Gold,Desktop,Land-based,Singapore,6476.54,1627.24,37,PayPal,2025-02-09
+77596425-301f-4d06-b671-d24392d05b2c,Alexis Ramos,Non-binary,31,Bosnia and Herzegovina,Baccarat,Bronze,Mobile,Land-based,Las Vegas,1255.68,924.85,37,Credit Card,2024-11-22
+bc629750-d496-4cc4-8b22-cf355632d18a,Erin Harrison,Male,62,Slovakia (Slovak Republic),Roulette,Bronze,Tablet,Online,Online,5268.52,1794.73,35,Bank Transfer,2025-01-19
+d252a054-1ac9-48f2-b075-c6eb771c89ac,Austin Baker,Male,54,Latvia,Keno,Gold,Desktop,Online,Las Vegas,6281.19,5334.77,19,Bank Transfer,2025-03-28
+46e9c1be-a0c2-40fe-90e7-cf958ea42793,Jon Cox,Male,18,Iran,Keno,Bronze,Tablet,Land-based,Monte Carlo,9272.69,5066.23,17,Crypto,2024-06-06
+e430ec18-f291-462b-9385-6c7b4ea9e4c5,Jordan Wagner,Female,40,Solomon Islands,Craps,Platinum,Tablet,Land-based,Atlantic City,2672.13,1552.7,43,Crypto,2024-07-06
+3ddf4b8e-8e7e-4f94-9a2b-73dc873e8cc5,Alexander Byrd,Non-binary,35,Haiti,Roulette,Gold,Mobile,Online,Monte Carlo,650.04,291.55,23,Credit Card,2024-07-25
+1aada0ad-6703-4161-82a4-c4467dc3f615,Juan Hahn,Female,52,New Caledonia,Craps,Platinum,Mobile,Online,Online,1403.58,1301.24,5,PayPal,2024-04-10
+b61aa87a-c474-455f-b21f-0c642092b992,Kelly Wilson,Male,25,Zimbabwe,Poker,Platinum,Mobile,Online,Monte Carlo,6105.94,2151.12,43,Bank Transfer,2024-05-21
+9e543f45-dfb7-4031-8a7c-3d37b97b82fd,Willie Bush,Non-binary,70,Kuwait,Keno,Platinum,Mobile,Land-based,Atlantic City,6212.36,2572.24,26,PayPal,2025-04-09
+6ba08e18-d227-462e-9a8b-ce6840de1c3c,Jennifer Davis,Male,68,French Guiana,Keno,Gold,Desktop,Land-based,Atlantic City,6711.08,3691.33,30,Credit Card,2024-10-03
+03c7a2b3-3558-4016-b7a2-f330477a09da,Maureen Cole,Male,48,Thailand,Baccarat,Bronze,Desktop,Online,Monte Carlo,7074.71,821.16,46,Bank Transfer,2024-11-22
+d5aeb916-bc69-4348-998e-471fd93cca53,Rebecca Taylor,Non-binary,27,Kyrgyz Republic,Keno,Gold,Tablet,Land-based,Las Vegas,3406.01,1428.73,13,Bank Transfer,2025-03-19
+13a5bb1b-613d-43cd-b7e3-d1f4e690c089,Kevin Reed,Non-binary,62,Guatemala,Craps,Gold,Tablet,Online,Online,8794.93,1396.97,30,Crypto,2025-01-22
+dd2a2ee0-a72e-44c7-bed4-0021dd2a8e02,Travis Robinson,Female,72,Angola,Poker,Gold,Tablet,Land-based,Macau,2801.41,1487.72,39,Crypto,2024-08-06
+0594651b-967f-4a74-8560-62a58ee27505,Victor Edwards,Non-binary,68,Bangladesh,Poker,Silver,Tablet,Land-based,Las Vegas,4074.81,4027.16,10,Crypto,2024-04-14
+d79dc822-89b9-47d5-ba0b-fcab474b8629,Jessica Anderson,Non-binary,23,Bermuda,Slot Machine,Gold,Mobile,Online,Macau,8626.73,465.25,16,PayPal,2024-12-27
+ddca692a-e37f-4339-9413-a0a50d0a707b,Andrew Curtis,Female,23,Martinique,Slot Machine,Bronze,Mobile,Online,Las Vegas,7155.89,2496.89,34,PayPal,2025-01-20
+021bd231-49f1-47b9-ad87-9219b686f50f,Dr. Jacob Carter,Male,66,Saint Barthelemy,Baccarat,Silver,Tablet,Online,Atlantic City,2580.0,2242.04,8,Credit Card,2024-04-19
+ca676e8a-bbe0-43ae-a11e-93663ae3867a,Danielle Mendez,Male,64,Hong Kong,Blackjack,Gold,Tablet,Online,Online,366.81,80.57,25,Crypto,2024-12-14
+c5487311-0d65-4176-a53b-78db5b54117b,Ann Thompson,Non-binary,21,British Indian Ocean Territory (Chagos Archipelago),Roulette,Platinum,Desktop,Online,Las Vegas,707.94,433.21,5,Bank Transfer,2025-02-24
+a488ea64-e156-4a46-9aa7-461811348116,Tanner Shannon,Non-binary,28,Malawi,Keno,Gold,Mobile,Online,Macau,4651.7,3882.79,40,PayPal,2024-10-26
+ef3bc6e3-dc8a-4358-9499-aaf7e574da12,Nicole Mata,Female,37,Puerto Rico,Slot Machine,Silver,Mobile,Land-based,Las Vegas,7567.26,6106.37,43,Bank Transfer,2024-05-13
+e3222209-42c1-4d0c-a741-7fb715e349d9,Victor Clark,Non-binary,20,Lithuania,Craps,Silver,Mobile,Land-based,Online,9506.53,3805.85,47,Crypto,2025-03-16
+a104837f-43ed-4bc9-a9e8-ea50976fa008,Sarah Lewis,Female,50,Liberia,Blackjack,Gold,Tablet,Land-based,Las Vegas,701.26,196.19,42,Crypto,2024-06-23
+2dae0cdd-470d-4677-81f4-6e2fb3e795b2,Elizabeth Ochoa,Male,54,Sierra Leone,Poker,Platinum,Tablet,Land-based,Online,986.09,257.42,49,PayPal,2024-05-17
+e990ac74-3152-41e5-9548-f46599175294,Christopher Edwards,Male,51,Lao People's Democratic Republic,Blackjack,Silver,Mobile,Online,Atlantic City,5086.39,2276.62,5,Crypto,2025-01-13
+4ee7cf65-6fbb-418f-a808-e38ca5a11afb,Regina Richardson,Non-binary,56,French Southern Territories,Roulette,Platinum,Tablet,Land-based,Macau,9589.63,8125.72,15,PayPal,2024-05-03
+203b90a1-9dd3-48a2-9e49-bc988ea61361,Christopher Lynn,Non-binary,70,Reunion,Baccarat,Silver,Desktop,Land-based,Macau,3720.69,2743.2,39,Credit Card,2024-12-12
+b32d0d00-9c8e-47f8-839c-43a594c79c5d,Kari Brown,Female,70,Mozambique,Baccarat,Bronze,Mobile,Land-based,Online,4139.48,1256.6,7,Crypto,2025-03-11
+3719ace4-09fa-48b9-b373-e082145b2f19,Christopher Snyder,Female,19,Japan,Slot Machine,Gold,Tablet,Online,Singapore,1952.89,894.19,49,Bank Transfer,2024-09-08
+f01b5459-606e-4384-87ea-aa7d158b7d84,Stacey Jones,Male,31,Bolivia,Blackjack,Bronze,Mobile,Online,Monte Carlo,9460.32,8998.86,27,Bank Transfer,2024-05-19
+af9971c3-cb83-4800-b1a1-556912a0ec6f,Robert Cook,Female,62,Philippines,Poker,Gold,Desktop,Online,Macau,7.83,5.03,13,Crypto,2024-08-24
+6f4f6dca-8cc7-4efc-9cdc-e6fac67eecc7,Deborah Ramirez,Non-binary,56,New Zealand,Blackjack,Gold,Mobile,Online,Las Vegas,7678.81,6347.89,31,Crypto,2024-04-28
+5a0c4df8-34c3-491d-a804-22342adf3b97,Nicole Banks,Male,62,Eritrea,Roulette,Bronze,Tablet,Online,Monte Carlo,7311.91,2790.53,3,PayPal,2024-07-20
+9e04b183-343e-4dcf-8b36-123146b94ce2,Michael Smith,Male,21,Kuwait,Slot Machine,Platinum,Mobile,Land-based,Macau,299.69,76.25,42,Crypto,2024-09-25
+04c4887c-1379-4dcd-aecf-21af79429457,Karen Daniels,Female,59,Zimbabwe,Slot Machine,Silver,Tablet,Online,Atlantic City,1657.14,1051.39,36,PayPal,2025-01-16
+ddf5fb46-a41a-46b7-90f6-8ad172fb0c2d,Kyle Doyle,Female,42,Iran,Slot Machine,Silver,Desktop,Land-based,Singapore,6661.36,3995.59,40,PayPal,2024-09-09
+b9381895-31b2-4692-85fc-859432c17aee,Rick Peterson,Male,63,Dominican Republic,Blackjack,Gold,Mobile,Online,Atlantic City,5155.21,3630.67,25,PayPal,2024-04-13
+e408c711-b6df-4fb4-aef1-ed3658a709d1,Haley Reynolds,Male,23,Singapore,Roulette,Gold,Desktop,Land-based,Online,4065.79,531.64,36,Crypto,2024-12-18
+90fd57c0-c1a0-4e6b-bdb0-0e407ce9603d,Wendy Collins,Non-binary,22,Guinea,Poker,Silver,Mobile,Land-based,Monte Carlo,986.58,837.35,35,Credit Card,2025-02-15
+8ac41cae-8876-41ff-aec3-ea9c9001b615,Daniel Joseph,Male,47,Guyana,Keno,Silver,Tablet,Land-based,Las Vegas,7958.85,5970.81,32,Credit Card,2024-08-31
+7581282b-e79d-4d0f-b577-2dbb912283ce,Kimberly Haas,Female,20,Kiribati,Keno,Bronze,Desktop,Online,Macau,6368.37,1398.27,21,Bank Transfer,2024-12-04
+da14590d-18d2-46c2-8328-72515f3eeebf,Haley Davenport,Female,38,French Guiana,Baccarat,Bronze,Desktop,Land-based,Atlantic City,6170.23,4687.08,45,Bank Transfer,2024-12-16
+0f269231-25db-4f1b-8c35-bb2bf7b86353,Madison Jones,Non-binary,49,Heard Island and McDonald Islands,Craps,Platinum,Mobile,Online,Macau,4298.59,1327.39,25,PayPal,2025-01-27
+8df5a93b-e505-4f75-b09c-08a333b95ee7,Mr. William Johnson,Female,22,Monaco,Slot Machine,Silver,Tablet,Land-based,Singapore,7758.74,5296.9,46,PayPal,2024-10-02
+389f19d7-2f79-4e30-9f8b-72fa044abfa5,Nicholas Thomas,Male,42,Canada,Baccarat,Silver,Desktop,Land-based,Las Vegas,1015.61,711.71,47,Bank Transfer,2024-07-10
+4c93f070-d316-4d21-99c1-b749f5fc8140,Henry Smith,Non-binary,38,Israel,Blackjack,Bronze,Mobile,Online,Atlantic City,6864.76,4685.82,2,PayPal,2024-06-03
+e5276b44-9fcb-497b-bce3-dca1b426b970,Amanda Smith,Male,35,Suriname,Baccarat,Silver,Desktop,Land-based,Online,909.6,71.1,19,Credit Card,2024-10-12
+a54a7546-b323-464d-9c7b-adad2224ce36,Carrie Hoffman,Male,51,Reunion,Keno,Gold,Desktop,Online,Macau,5537.01,3277.13,49,PayPal,2024-09-19
+57c2b74f-baaa-4d21-a77e-43cb7e25a925,Kelly Mcgrath,Female,75,Bosnia and Herzegovina,Keno,Platinum,Mobile,Online,Monte Carlo,3769.41,2119.15,41,Bank Transfer,2024-11-06
+cc10e771-4f9b-4aa8-931e-fd64a07fcc07,Rhonda Williams,Male,18,Saint Barthelemy,Poker,Gold,Tablet,Online,Atlantic City,9987.1,9392.88,11,PayPal,2024-12-12
+480f01ff-cc75-49cb-aa8b-c7ed5df8e60f,Alexis Schneider,Female,42,Saint Helena,Roulette,Silver,Mobile,Land-based,Macau,5458.08,831.89,43,Crypto,2024-10-02
+11a5c6f2-9daa-412b-bea4-ae678e51a416,Austin Mitchell,Male,47,South Georgia and the South Sandwich Islands,Keno,Bronze,Mobile,Land-based,Atlantic City,4901.63,62.84,1,Crypto,2025-02-06
+fbf8443e-cfd3-4862-a81a-ec2b51dd0b3d,David Martinez,Female,19,Sao Tome and Principe,Craps,Gold,Tablet,Online,Singapore,1687.03,1031.6,13,Bank Transfer,2024-08-25
+9a76aa59-c811-4499-b738-8ade83bc3fa7,Alexander Walters,Female,19,Afghanistan,Slot Machine,Gold,Desktop,Online,Monte Carlo,7390.06,3496.04,13,Credit Card,2024-07-29
+2b104426-96d9-478c-b141-0bcc2ee19df7,Amber Clay,Non-binary,52,Micronesia,Craps,Bronze,Mobile,Online,Monte Carlo,8040.71,7216.59,45,Crypto,2024-07-11
+6ebdb3d0-054e-4052-bda0-70bbcdf1595d,Charles Hardy,Female,63,Mongolia,Keno,Bronze,Tablet,Land-based,Online,6364.02,4211.44,17,PayPal,2024-04-21
+cbbf0e6a-fac0-405e-a304-cb71a2ad121c,Patricia Daniel,Male,40,Falkland Islands (Malvinas),Baccarat,Gold,Desktop,Land-based,Macau,1529.35,47.41,26,Crypto,2024-08-07
+2589276d-d644-4efe-a88a-e9664b703278,Kristine Cannon,Male,67,Cayman Islands,Keno,Silver,Tablet,Land-based,Monte Carlo,3441.16,2370.2,29,Bank Transfer,2025-01-24
+e7432884-ed15-444d-ba5c-b8a8b8fee61b,Brenda Todd,Non-binary,49,Ethiopia,Poker,Platinum,Tablet,Land-based,Las Vegas,8063.06,7102.91,49,Crypto,2025-01-09
+325f6797-cfdb-43ab-96d0-7bdf342cd6c9,Amanda Hernandez,Female,46,Macedonia,Baccarat,Bronze,Tablet,Land-based,Atlantic City,2289.69,398.45,11,PayPal,2024-12-01
+2796d232-9527-4626-9f63-9826efc40316,Erik Curry,Non-binary,63,Chile,Roulette,Silver,Mobile,Land-based,Macau,7431.08,2744.68,14,Crypto,2024-07-29
+de31a835-50cd-4529-8cbb-cb4fe8e0982f,James Barrera,Non-binary,75,Montenegro,Blackjack,Gold,Tablet,Land-based,Monte Carlo,5500.29,4039.84,48,PayPal,2024-04-25
+244b6e54-1f6a-41fd-b13a-5f0d10c725de,Joe Warren,Male,61,Latvia,Craps,Bronze,Desktop,Land-based,Online,9097.56,4936.6,40,Bank Transfer,2024-06-02
+064dc61e-06c6-4ec4-aef1-a00e9bd040ab,Ana Smith,Non-binary,21,Hong Kong,Baccarat,Platinum,Tablet,Land-based,Macau,1387.41,721.23,45,Bank Transfer,2024-12-18
+35977684-2036-45ad-9bd4-d371024a46c8,Christina Rodriguez,Non-binary,40,Burundi,Poker,Silver,Mobile,Online,Las Vegas,4844.9,519.63,18,Credit Card,2024-10-14
+a5db37fc-16fc-40c6-8b6b-08246996e02f,Steven Johnson II,Male,36,Afghanistan,Craps,Silver,Tablet,Land-based,Online,803.6,44.33,35,Crypto,2025-01-27
+f19e2a7a-6d35-41ec-84cd-fe616aad8b00,Shannon Martin,Non-binary,35,Guatemala,Roulette,Silver,Mobile,Online,Singapore,493.76,478.38,34,PayPal,2024-10-26
+764bb822-0b71-4451-bec6-0bff2d9f2739,Randall Gomez,Male,70,Tuvalu,Blackjack,Platinum,Mobile,Land-based,Atlantic City,5993.74,1064.32,32,Credit Card,2024-10-30
+654206d1-bfd8-42c2-af32-532318ff8906,Amy Carroll,Female,24,Holy See (Vatican City State),Poker,Platinum,Tablet,Land-based,Monte Carlo,3969.24,876.36,44,Bank Transfer,2024-05-20
+66217cdd-5e4d-4368-8132-3365aee3a655,Nancy Price,Female,52,Malta,Baccarat,Silver,Desktop,Online,Singapore,5297.83,912.81,14,Bank Transfer,2025-02-14
+cb077e1f-88e2-425b-9589-47dda9719b13,Natalie Holmes,Male,32,Spain,Keno,Gold,Desktop,Land-based,Macau,8510.33,7452.13,29,Crypto,2024-10-08
+243290eb-df6d-4193-95d9-efea10f84d63,Michael Maddox,Non-binary,48,Denmark,Roulette,Platinum,Desktop,Online,Las Vegas,6003.59,5710.22,21,Credit Card,2024-07-10
+fde65887-5d40-4fde-b463-892bc616d9e9,Roy Neal,Female,71,Anguilla,Keno,Gold,Mobile,Land-based,Monte Carlo,7998.47,4134.69,21,Credit Card,2024-08-27
+db2c233c-2d9b-4d1a-ac1a-8760985ef703,Briana Moore,Male,73,Ireland,Keno,Bronze,Tablet,Online,Singapore,6217.01,5774.72,19,Bank Transfer,2024-12-18
+056d353f-7603-4eb2-bfef-d907adf3bb31,Brian Gomez,Female,24,Thailand,Blackjack,Platinum,Tablet,Land-based,Las Vegas,2671.99,2150.32,15,PayPal,2024-07-22
+3a4c2ed8-ede9-4326-98c8-ba43edabd23e,Mr. William Evans,Non-binary,70,Montserrat,Slot Machine,Silver,Tablet,Land-based,Online,8916.0,1547.55,3,Credit Card,2024-07-02
+7e55c2d1-53a0-4f3f-afc4-06c1a54f56d8,Stephanie Norris,Female,22,Mongolia,Poker,Gold,Tablet,Online,Monte Carlo,362.44,253.26,37,Credit Card,2025-04-03
+1896f78a-e032-41b1-8c02-9fcdb5832867,Sarah Williams,Male,63,Congo,Craps,Platinum,Tablet,Land-based,Singapore,5631.36,4199.12,46,Crypto,2024-11-13
+bfad5498-1078-4e9a-a972-f23ae7bdaa13,James Conner,Female,20,Greenland,Poker,Silver,Tablet,Online,Las Vegas,227.15,15.45,33,Crypto,2025-02-25
+c6fd8cd3-3db8-4b2e-b1f3-00e677b1009f,Teresa Silva,Non-binary,60,Mauritania,Baccarat,Gold,Tablet,Land-based,Atlantic City,8982.2,6946.98,44,Credit Card,2025-02-26
+42c79fae-6a75-48d1-938d-76347e8d907f,Angela Clark,Male,34,Norfolk Island,Baccarat,Platinum,Desktop,Land-based,Singapore,3590.39,3396.61,5,Credit Card,2025-02-04
+87fc9961-1969-473d-9f89-8d1e807b5c81,Susan Francis,Non-binary,75,Marshall Islands,Keno,Bronze,Desktop,Online,Online,8416.6,4082.83,14,Crypto,2024-11-29
+483e9366-76f0-49bc-a3a2-038b7323700b,Melinda Bond,Male,39,Panama,Baccarat,Bronze,Mobile,Land-based,Macau,8449.61,4227.31,21,PayPal,2024-09-18
+a927d128-7a09-4396-89d5-ecb9f39d8b0e,Sarah Wilson,Female,21,Finland,Slot Machine,Silver,Desktop,Land-based,Las Vegas,3705.1,2640.61,37,Crypto,2024-08-05
+6b377d5e-3067-48c8-9702-c956c41d8ba6,Joshua Jones,Non-binary,24,Latvia,Keno,Platinum,Mobile,Land-based,Monte Carlo,480.43,51.72,11,PayPal,2024-05-27
+3b8e50e3-7982-43de-a79f-77f0c3271153,Christy Morgan,Non-binary,61,Bahamas,Slot Machine,Gold,Desktop,Online,Singapore,1308.43,670.43,22,Crypto,2024-12-16
+9b48dc2f-e41b-4e89-948c-566bcb17f065,Christy Rice,Non-binary,62,Cote d'Ivoire,Blackjack,Platinum,Desktop,Online,Macau,1965.07,1836.05,30,Credit Card,2025-01-20
+3153ec7b-490a-40e1-8626-a48339148238,Ashley Smith,Female,22,Bosnia and Herzegovina,Craps,Platinum,Desktop,Online,Las Vegas,9097.29,8943.48,26,PayPal,2025-02-16
+eb5c471e-3cab-4627-931a-a332f50c6597,Stephanie Rhodes,Female,18,Guadeloupe,Slot Machine,Gold,Mobile,Land-based,Monte Carlo,7682.17,7475.73,7,Crypto,2024-10-02
+578bc64d-54d3-4f6c-8b9b-d14037433799,Andrea York,Non-binary,63,Grenada,Blackjack,Bronze,Tablet,Online,Las Vegas,7875.14,7158.52,40,Credit Card,2024-04-27
+c709ffd1-33a8-4375-9a7c-024659f9402d,Samantha Mcmahon,Male,61,Taiwan,Craps,Silver,Mobile,Land-based,Macau,3596.43,1668.83,5,PayPal,2024-08-10
+db962151-3ea5-4e21-ae20-7a1f87f64b9a,Michelle Dillon,Female,63,Equatorial Guinea,Baccarat,Platinum,Desktop,Land-based,Macau,7033.44,6167.07,49,Credit Card,2025-04-02
+c163ffd7-392e-4cee-babd-93964e134315,Joshua Fisher,Male,25,Bangladesh,Keno,Bronze,Mobile,Online,Atlantic City,885.44,255.68,12,Bank Transfer,2024-05-08
+1e0b7eb9-5b05-4afc-a3a5-e85d352b5b75,Caitlin Haynes,Non-binary,56,Brunei Darussalam,Slot Machine,Bronze,Desktop,Online,Singapore,6128.44,969.44,14,PayPal,2024-12-23
+80efdff6-5aec-47ed-a27b-08e2fcc4edaf,Daniel Mckinney,Non-binary,68,Malaysia,Roulette,Bronze,Mobile,Online,Online,7830.94,3326.93,28,PayPal,2024-10-22
+4869450a-a3f4-460e-840f-e9fac91dcad0,Julie Watson,Male,45,Mali,Blackjack,Platinum,Desktop,Online,Macau,8328.05,5120.91,48,Crypto,2024-07-23
+16c55d1a-57ae-49e6-b84d-4ec1ed3f40a4,Joseph Smith,Male,72,Belize,Blackjack,Silver,Desktop,Online,Monte Carlo,4410.34,1218.56,32,PayPal,2024-06-05
+839cd442-9cb6-4664-b51e-ba16997a3a9e,Shelly Grant,Female,60,Saint Lucia,Keno,Bronze,Tablet,Land-based,Las Vegas,9250.11,335.93,21,Bank Transfer,2024-10-05
+a524d200-7497-4c59-aa76-22d22dbfb3a4,Kathleen Rodriguez,Female,75,Saint Kitts and Nevis,Craps,Silver,Desktop,Land-based,Online,9579.79,7519.51,32,PayPal,2025-04-10
+d90acf7c-8990-47b4-81b4-1d7e65e2817b,Rebecca Paul,Non-binary,52,Israel,Baccarat,Platinum,Mobile,Land-based,Online,2978.27,1835.31,5,Crypto,2024-07-23
+d50c6598-a6b0-4493-8343-94b82d03660c,Amber Parker,Male,40,Antigua and Barbuda,Baccarat,Silver,Mobile,Online,Atlantic City,1734.76,179.14,43,PayPal,2025-04-09
+30b52255-08dc-4acd-a7b9-bca652d07f34,Sandra Levy,Male,66,Uganda,Slot Machine,Silver,Desktop,Land-based,Monte Carlo,2778.28,947.35,47,PayPal,2024-08-30
+c9cd3ee2-5e71-46b6-83ea-dd26eb88e455,Daryl Bowen,Male,35,Greenland,Poker,Platinum,Desktop,Land-based,Online,7212.59,3838.73,5,PayPal,2024-11-10
+5b878205-77de-4ee2-a354-35fc5da782d3,Ray Roberts,Female,68,Niger,Roulette,Gold,Desktop,Land-based,Macau,7169.27,208.43,34,PayPal,2025-01-26
+95aca7a9-513c-4ac1-931a-f6b0786943ee,Nicole West,Female,59,Mozambique,Slot Machine,Bronze,Desktop,Land-based,Online,692.22,266.97,43,Credit Card,2025-02-06
+068c1a8b-89f6-4a9e-9fcd-e0d2131eb8be,Emily Torres,Non-binary,42,Senegal,Blackjack,Gold,Mobile,Online,Macau,7634.38,5153.19,41,Crypto,2025-03-06
+38231023-42bc-4473-aa09-ace802774858,Robert Fritz,Male,23,Bouvet Island (Bouvetoya),Blackjack,Gold,Tablet,Online,Macau,8908.33,3328.08,42,PayPal,2024-06-17
+88c813aa-001b-4aed-9545-90e69b2b0b23,Joe Norris,Non-binary,44,Papua New Guinea,Baccarat,Silver,Mobile,Online,Monte Carlo,9682.51,6489.45,17,Bank Transfer,2024-07-23
+bf2f19f1-c6b9-4393-88eb-683ee7e6d0df,Andrea Davis,Male,41,Austria,Craps,Bronze,Desktop,Land-based,Monte Carlo,4769.71,2536.51,14,Credit Card,2024-08-08
+b02559e3-5587-46e8-b826-af1e09594fe3,Tonya James,Female,44,Pitcairn Islands,Poker,Silver,Mobile,Land-based,Atlantic City,5439.84,5039.97,14,Bank Transfer,2024-05-08
+aedb721c-1c7a-47f9-b250-f8c2459d189b,Victoria Richard,Male,33,Venezuela,Blackjack,Platinum,Desktop,Land-based,Singapore,3873.23,2228.44,6,Crypto,2024-09-04
+b61485a7-851c-49c4-a9d3-14b378271156,Kenneth Fischer,Non-binary,65,Singapore,Slot Machine,Silver,Mobile,Online,Atlantic City,7097.44,6727.49,41,PayPal,2025-02-14
+e7c92801-4dda-4d68-a8eb-67d10bedfb47,Kenneth Barr,Non-binary,33,Palestinian Territory,Slot Machine,Bronze,Desktop,Land-based,Las Vegas,1664.45,1601.5,21,Credit Card,2024-05-01
+5318ff17-3390-416a-9c4a-a19d6a28321c,Joseph Wiley,Female,23,Latvia,Roulette,Silver,Desktop,Land-based,Las Vegas,2062.73,977.85,27,Crypto,2025-02-21
+2f9371ec-d51d-44f5-9329-3fb44ca103e0,Erica Long,Male,23,Cambodia,Roulette,Gold,Tablet,Land-based,Online,2010.67,351.94,40,Bank Transfer,2024-06-19
+3149169e-283e-48fb-91fe-94e6524d2b48,Emily Roth,Non-binary,58,Tanzania,Baccarat,Silver,Mobile,Land-based,Macau,6454.89,1214.08,34,Crypto,2024-07-29
+d9709ab0-51aa-434f-8732-eeb398198e36,Zachary Hall,Male,31,Christmas Island,Craps,Bronze,Tablet,Land-based,Monte Carlo,4590.9,1479.15,30,Bank Transfer,2025-03-24
+b072bf71-9a26-4d0e-a2de-84cdaf513c03,Charles Williams,Non-binary,70,Australia,Keno,Platinum,Mobile,Land-based,Macau,5033.07,246.56,43,Credit Card,2024-06-22
+2e587b1e-d274-41b4-9de7-42fe1fab35d8,Dave Hopkins,Non-binary,51,Botswana,Craps,Silver,Tablet,Online,Singapore,6666.93,6120.04,33,Credit Card,2024-04-16
+8de525c8-6e5a-4dce-9a15-d4c12a552bac,April Walker,Non-binary,55,Albania,Roulette,Silver,Tablet,Land-based,Macau,8448.12,7215.77,14,PayPal,2025-02-11
+b1f12d52-a67e-4ee1-bae5-d09e9b9feb12,Renee Miles,Male,54,Taiwan,Slot Machine,Platinum,Desktop,Online,Las Vegas,6684.79,2566.86,48,PayPal,2024-05-26
+ae8e58ad-3aae-43e8-9817-2c120034b906,Erin Davis,Male,73,Djibouti,Craps,Silver,Tablet,Land-based,Singapore,4853.12,3423.21,9,Credit Card,2024-06-14
+2bad7e19-2413-4ad1-8512-e2d921e43830,Dustin Livingston,Female,56,Saint Barthelemy,Slot Machine,Silver,Mobile,Online,Singapore,8236.47,3131.8,31,Credit Card,2024-08-17
+1f9cde6e-49cd-4fe8-9e9b-84a32954d034,Joseph Galvan,Male,29,Western Sahara,Poker,Silver,Mobile,Land-based,Atlantic City,4698.93,1909.3,19,Credit Card,2024-07-20
+3f2eef8e-a9a9-4a1d-b214-c802aace4ebf,Allen Fleming,Female,23,Saint Vincent and the Grenadines,Craps,Gold,Desktop,Online,Macau,5429.36,586.12,21,Crypto,2024-06-23
+2d040fe5-2af9-4429-b5ac-ab842f4b3cb2,Amanda Smith,Male,65,Greenland,Poker,Gold,Desktop,Land-based,Monte Carlo,9870.92,5404.34,17,PayPal,2024-12-08
+2e954cc1-ac36-4334-b01d-cab14fcf336d,Adam Hutchinson,Male,40,Montenegro,Poker,Gold,Tablet,Online,Monte Carlo,3066.86,141.46,15,Credit Card,2024-12-21
+e07e618e-9ade-4ece-8356-51b99829ec20,Christian Beasley,Non-binary,22,Wallis and Futuna,Craps,Bronze,Mobile,Land-based,Las Vegas,5414.37,4771.93,42,Credit Card,2025-04-08
+e6b87f87-076b-4b84-9ddc-21b8b06399bd,Ann Davis,Non-binary,32,Brunei Darussalam,Slot Machine,Gold,Tablet,Land-based,Atlantic City,9227.07,6871.37,26,Credit Card,2024-04-17
+dfd5e44e-abd9-40ef-8cb5-1c253706e27e,Mark Ray,Non-binary,26,Denmark,Craps,Silver,Tablet,Land-based,Singapore,3382.54,883.73,27,Crypto,2024-05-23
+c9f7b824-f379-4ac8-854b-1833888b2532,James Hanson,Female,45,Liechtenstein,Poker,Gold,Mobile,Online,Online,973.81,198.65,27,PayPal,2024-11-12
+860b2b3f-c30c-45e5-9323-a7d1fb65149d,Matthew Romero,Non-binary,71,Yemen,Poker,Bronze,Mobile,Land-based,Monte Carlo,4168.79,3521.38,41,Crypto,2025-01-09
+487e8eba-e3cc-42bf-a3ca-ad2d26aa24ed,Charles Werner,Female,54,Svalbard & Jan Mayen Islands,Keno,Platinum,Tablet,Online,Las Vegas,2017.11,974.11,38,Crypto,2024-07-06
+25003437-dea9-4f55-a71b-7eefba37a767,Joshua Ward,Non-binary,45,Mexico,Slot Machine,Silver,Tablet,Land-based,Atlantic City,2026.04,1410.68,30,Crypto,2024-04-25
+9e014662-0e04-45e0-858d-1bef134adc92,Jack Young,Non-binary,34,Georgia,Blackjack,Silver,Mobile,Online,Singapore,6521.8,1076.68,7,PayPal,2024-09-10
+79c9acfb-e700-4398-8753-89607aeb4002,Jerry Avery,Female,39,Afghanistan,Roulette,Bronze,Desktop,Online,Atlantic City,4089.14,2979.88,50,Credit Card,2024-08-10
+6e9f311d-f17a-4470-9fb2-dce248c8b710,Debra Wright,Non-binary,63,Kenya,Roulette,Platinum,Desktop,Online,Singapore,6369.2,2306.61,31,Bank Transfer,2024-09-04
+cd2937a9-f517-4185-a8ce-265dda01ccd0,Tyler Hill,Male,66,Benin,Baccarat,Gold,Mobile,Online,Las Vegas,6130.01,1824.5,44,Bank Transfer,2024-06-05
+c816cb02-c4b9-40dc-bdfb-f9451eaab1aa,Larry Jones DDS,Male,38,French Southern Territories,Keno,Platinum,Tablet,Online,Macau,3278.21,1368.81,40,PayPal,2024-12-10
+60abcd54-dd46-483b-8a72-44ebc84b27e0,Kevin Smith,Non-binary,59,Lao People's Democratic Republic,Keno,Platinum,Mobile,Online,Macau,3189.85,947.04,42,Bank Transfer,2024-05-10
+c46f4f63-3045-4e39-a5ce-5295bbb0772c,Mitchell Greene,Female,40,Ethiopia,Blackjack,Silver,Desktop,Land-based,Las Vegas,8014.13,2927.64,29,PayPal,2024-07-26
+0f9c0180-bd7c-4d06-8866-35c6b68e1741,Jonathan Patton,Non-binary,40,Iran,Baccarat,Gold,Mobile,Land-based,Atlantic City,4725.81,2851.57,41,PayPal,2024-06-02
+a6af0217-617e-4453-b466-a0a7f9056ba5,Felicia Watson,Non-binary,31,Kuwait,Slot Machine,Silver,Desktop,Land-based,Atlantic City,6666.96,5572.35,38,Credit Card,2024-11-22
+f0c6da3b-b539-4eb8-b3d7-4d8e38f8a0d4,Dr. Allison Tanner,Non-binary,63,Dominican Republic,Poker,Gold,Tablet,Land-based,Online,9552.33,8501.56,42,Crypto,2024-12-15
+63cc1c73-b773-4286-845b-ec13b7e46d01,Daniel Chapman,Female,40,Saint Barthelemy,Blackjack,Gold,Desktop,Land-based,Las Vegas,8887.92,4986.81,32,PayPal,2024-06-17
+238c10d1-55fc-4f14-b206-b50424443b87,Zachary Shaffer,Female,47,Afghanistan,Roulette,Platinum,Tablet,Online,Atlantic City,339.49,315.48,50,Crypto,2024-10-04
+1dcb2e4e-8c76-4f60-a8bb-1f22fa7fcb3d,Fernando Higgins,Non-binary,73,Norfolk Island,Blackjack,Bronze,Tablet,Land-based,Online,5358.93,4400.13,19,PayPal,2024-09-22
+becdd01c-555b-4782-9f88-564a9066c14e,Sabrina Smith,Female,57,El Salvador,Craps,Gold,Desktop,Land-based,Atlantic City,4118.35,1734.57,39,Credit Card,2024-07-09
+b0453f3f-0b61-4127-b61b-3101e34a332f,Christian Castro,Male,70,Zambia,Roulette,Gold,Desktop,Land-based,Online,5792.95,5742.3,48,PayPal,2025-04-05
+1c114af4-0343-44ca-adc7-b5d52ddcbae7,Mrs. Glenda Wilson,Non-binary,61,Madagascar,Blackjack,Platinum,Desktop,Online,Macau,7589.01,2921.76,33,Credit Card,2024-04-23
+99b3a0fa-2c37-4a3a-9c7a-3de406f718bd,Whitney Davis,Non-binary,49,Iceland,Roulette,Gold,Desktop,Land-based,Singapore,9831.16,2833.78,2,Bank Transfer,2024-05-20
+2321d274-1916-4cb2-bc51-f273f1709a87,Jacob Jackson,Female,40,Israel,Poker,Silver,Mobile,Land-based,Online,1528.79,280.06,41,Credit Card,2024-07-18
+b53d384c-f51a-4ada-ade5-d0efae5875d5,Austin Anderson,Non-binary,67,Western Sahara,Keno,Silver,Tablet,Online,Monte Carlo,7421.74,2655.23,31,Bank Transfer,2024-06-12
+3cfc8233-46d0-4e1e-878e-5baeeba406cc,Mike Henderson,Male,30,Estonia,Craps,Bronze,Tablet,Land-based,Atlantic City,9475.45,8936.5,37,Credit Card,2024-12-13
+ea8baf1d-5ec9-47e9-a8cf-8d1d8e1593a4,John Mckenzie,Female,68,Mayotte,Roulette,Platinum,Mobile,Land-based,Atlantic City,4109.64,1923.61,16,PayPal,2024-05-08
+a9fe86c1-aa49-402b-8d66-a9e4de6b394e,Melissa Potts,Non-binary,35,Azerbaijan,Blackjack,Platinum,Tablet,Land-based,Las Vegas,7798.62,5678.61,20,PayPal,2025-01-28
+d4250242-ce90-41cd-a282-53af0ca84514,Patricia Robinson,Non-binary,74,Anguilla,Baccarat,Bronze,Mobile,Online,Monte Carlo,6738.46,4131.46,29,PayPal,2024-05-25
+e7d66dde-1269-4510-8196-67e9a96287b0,Tammy Warren,Female,39,Mongolia,Poker,Platinum,Desktop,Online,Las Vegas,707.27,185.89,10,Crypto,2024-06-08
+fa4a9f17-e422-4926-b611-baaaf9feef74,Ryan Madden,Male,55,Cuba,Craps,Gold,Desktop,Online,Monte Carlo,1597.15,85.78,26,Bank Transfer,2024-05-09
+cdcf02b4-45b8-48fc-adc6-577510395958,Andrew Bird,Female,72,Australia,Blackjack,Platinum,Mobile,Online,Macau,6457.0,2566.99,24,PayPal,2024-05-16
+1fd1abef-dfac-4c6b-8224-9d80fc8dccef,Tanya Lee,Female,51,Faroe Islands,Roulette,Platinum,Mobile,Online,Las Vegas,219.24,6.7,23,Credit Card,2024-07-02
+afdde4dc-17c6-4037-8089-63dec08e0a7f,Tanya Dickerson,Male,33,Cambodia,Blackjack,Platinum,Tablet,Online,Macau,7604.3,2952.55,11,PayPal,2025-04-01
+5dca7780-e32e-4418-a6ac-c3168d1d4327,Ann Esparza,Female,19,Afghanistan,Baccarat,Bronze,Mobile,Land-based,Las Vegas,5356.19,4298.98,35,PayPal,2025-02-27
+28c56090-8822-48ab-99eb-fbbb9f5c6741,Veronica White,Female,28,Saint Kitts and Nevis,Keno,Silver,Tablet,Online,Singapore,5230.46,2084.08,34,PayPal,2024-04-26
+a26fd20e-8a24-46e8-9fac-088c5d1a748a,David Morris,Non-binary,56,United States Minor Outlying Islands,Baccarat,Silver,Tablet,Online,Macau,9190.41,8207.28,42,PayPal,2025-02-08
+a24a980d-abf4-4adc-ba54-7e7ca6518c15,Joshua Schroeder,Male,50,Vanuatu,Craps,Gold,Tablet,Land-based,Online,8862.62,2972.83,30,PayPal,2024-06-05
+100c4341-11cd-47e0-a767-ebb22a4da56d,Andrew Pearson,Female,75,Seychelles,Baccarat,Gold,Mobile,Online,Macau,9496.27,2282.56,18,Crypto,2024-05-31
+752dc505-5f70-42de-ae39-78ee1d820fe1,William Moore,Male,25,Vanuatu,Baccarat,Platinum,Mobile,Land-based,Monte Carlo,2386.15,254.2,31,Crypto,2025-01-11
+3c37bd43-7113-48b7-b2c1-d2b5da7ccd07,Angela Baker,Non-binary,19,Timor-Leste,Keno,Platinum,Mobile,Online,Las Vegas,4177.72,3673.02,20,Credit Card,2024-12-03
+eee97b16-55c2-491a-b50f-b2c11a35b9cd,Kristin Adams,Female,47,Zimbabwe,Craps,Gold,Mobile,Land-based,Online,8578.47,8326.93,34,Crypto,2024-07-05
+1b5e267c-a59b-4c0a-9e58-84fb55c66232,Stephanie Rice,Female,73,Jamaica,Poker,Silver,Desktop,Land-based,Las Vegas,6695.27,4061.16,13,Bank Transfer,2025-03-13
+c3259285-2a5f-4fa0-95d5-4ef8d75359c6,Pamela Smith,Non-binary,64,Japan,Slot Machine,Platinum,Mobile,Online,Macau,7026.39,4276.6,46,PayPal,2024-08-21
+76ad1c3a-9235-48c9-b1f6-6e5b899eea1a,David Schmidt,Female,46,Bouvet Island (Bouvetoya),Slot Machine,Silver,Desktop,Land-based,Monte Carlo,4004.72,117.51,48,Crypto,2024-12-23
+a925da43-d766-435b-9eaf-0f677f8ed552,Shane Park,Non-binary,25,French Southern Territories,Keno,Platinum,Desktop,Land-based,Online,9455.91,1345.03,27,Credit Card,2024-11-27
+5ac3eb58-aa4f-4c2f-887c-76f56cb39b8a,Scott Moore,Non-binary,41,Chile,Blackjack,Platinum,Desktop,Land-based,Online,8785.42,5336.42,8,Credit Card,2024-06-19
+b41f5ecd-ef6e-4d63-8ed2-7de0c5fc01d4,Heather Powell,Female,35,Austria,Blackjack,Silver,Tablet,Online,Singapore,1222.05,1111.72,48,Bank Transfer,2025-04-04
+90705294-3891-447d-9baf-4c64746dcf39,Sharon Rose,Female,55,Nepal,Poker,Silver,Desktop,Land-based,Singapore,6784.15,3536.8,15,Crypto,2024-07-19
+eeb1fa0c-215c-4d87-9461-55dd27c79828,John Short,Male,61,Sudan,Baccarat,Platinum,Tablet,Online,Online,6067.73,3256.98,28,Bank Transfer,2024-08-24
+78ae11ff-9f73-4f9e-9f66-6ac43999a294,James Powell,Female,20,Serbia,Keno,Bronze,Mobile,Land-based,Singapore,3383.94,1618.21,16,Credit Card,2024-11-16
+baad5448-627e-42cd-b4a7-cb1ee5c95287,Ashley Jones,Male,43,United States of America,Craps,Gold,Desktop,Land-based,Macau,9000.29,8703.32,32,Credit Card,2024-04-28
+9c25d1e5-ac19-4659-9a90-d58a2209df89,Kathryn Johnson,Male,31,Wallis and Futuna,Keno,Platinum,Desktop,Land-based,Atlantic City,9065.87,9044.58,19,Credit Card,2024-07-19
+ec571db1-a10b-428b-86a4-3299ca86b7cb,Sherri Leonard,Female,72,Kiribati,Keno,Gold,Mobile,Land-based,Las Vegas,5219.41,4230.06,4,Crypto,2024-06-22
+b341dbfd-d0e6-48a8-ac22-5aba5c901d02,Katelyn Moon,Female,69,Turkmenistan,Craps,Silver,Desktop,Land-based,Monte Carlo,8150.89,7840.42,39,Bank Transfer,2024-06-14
+125cd2e7-8e20-4a3b-969a-e3154093b623,Joel Luna,Male,34,Korea,Poker,Bronze,Mobile,Land-based,Singapore,3999.44,316.49,21,Bank Transfer,2025-03-10
+472c19d2-1b5f-40bb-bbf6-da94fd6ec9e7,Alexander Sullivan,Non-binary,54,Grenada,Keno,Silver,Tablet,Land-based,Macau,2200.39,772.28,37,Crypto,2024-09-13
+725ab63c-1090-473c-a2a1-d1d3e0386fdb,Christopher Horton,Male,53,Venezuela,Poker,Platinum,Tablet,Land-based,Macau,4604.92,1345.97,41,Credit Card,2025-01-16
+3e3a71f3-8b46-47d6-a404-7d2a23d161e5,Kristina Johnson,Non-binary,31,Antarctica (the territory South of 60 deg S),Roulette,Platinum,Desktop,Land-based,Online,5003.05,2448.83,32,Crypto,2025-01-21
+ce440405-508e-4fb0-9b65-17bd3d7c2814,Angela Rojas,Female,42,Marshall Islands,Baccarat,Gold,Tablet,Online,Atlantic City,8695.93,5995.15,36,PayPal,2024-08-22
+47a1cf34-1015-4e18-a1e3-fa72fcab9f1f,Peggy Ortiz,Non-binary,23,Guinea-Bissau,Slot Machine,Bronze,Mobile,Online,Atlantic City,1548.14,409.69,27,Crypto,2025-02-22
+8d9d9cb2-01b6-4d85-9f1c-0b9b6f494762,Denise Barber,Female,44,Croatia,Poker,Silver,Mobile,Online,Macau,99.7,36.2,47,PayPal,2024-12-25
+9716308c-a4d9-4d81-a686-2aef8ca64ee0,Travis Wright,Male,56,Nepal,Keno,Silver,Tablet,Land-based,Atlantic City,3885.92,3631.05,11,Crypto,2024-11-08
+912cc98e-8a3e-4a24-a0c7-b8956ff2414f,David Robbins,Non-binary,73,Monaco,Keno,Silver,Desktop,Online,Atlantic City,219.31,216.89,4,Credit Card,2024-04-10
+4ec14d63-bf6c-44b7-9ed3-24c79c7f4dc0,Michael Franklin,Non-binary,63,Zambia,Craps,Gold,Tablet,Online,Macau,9925.94,5953.22,20,Crypto,2024-12-16
+d728a584-3db8-4490-857b-1159da66fab4,Heidi Gonzalez,Male,51,Azerbaijan,Slot Machine,Gold,Mobile,Online,Monte Carlo,461.32,203.58,33,Crypto,2024-12-08
+c394a0f6-d6a6-4cdf-a7c1-48abbcbe7925,Felicia Kelly,Non-binary,56,Spain,Roulette,Gold,Tablet,Online,Online,1692.21,90.1,3,Credit Card,2025-01-30
+db028af0-1f7b-442a-9c70-a4b6465cee41,Micheal Campbell,Male,61,Comoros,Blackjack,Gold,Desktop,Land-based,Las Vegas,8824.97,7365.93,32,PayPal,2025-02-01
+7a438e94-3489-4cc0-83c9-2a2bca63a59c,Joseph Greer,Non-binary,56,Korea,Keno,Platinum,Desktop,Online,Las Vegas,6009.66,4857.75,34,Bank Transfer,2025-02-05
+6dd57e7f-2db1-4fea-bab3-0183012b21e7,Amber Thomas,Female,68,Norfolk Island,Poker,Silver,Mobile,Land-based,Las Vegas,71.45,19.17,7,Credit Card,2024-11-08
+13eb41a3-5fed-4c44-9aff-6a08721162e6,Caroline Dickson,Female,71,Ethiopia,Blackjack,Gold,Mobile,Online,Las Vegas,2740.66,895.72,30,Bank Transfer,2024-12-09
+6998b8f8-d437-446c-b661-7a0bd24a9296,Randall Barry,Male,33,Tajikistan,Poker,Bronze,Tablet,Land-based,Monte Carlo,940.36,464.51,49,Bank Transfer,2024-05-08
+9438c8ad-d773-426b-92e5-386ef715989b,Lauren Mclaughlin,Male,29,Cocos (Keeling) Islands,Baccarat,Bronze,Desktop,Online,Macau,1546.55,1242.24,26,PayPal,2024-06-05
+be0f4892-e3d0-4d17-b628-a3d4ee1ce4af,Lisa Harrison,Male,40,Marshall Islands,Blackjack,Silver,Mobile,Online,Online,4539.31,2808.25,5,Crypto,2024-11-25
+6ace44cb-8b02-484d-ae54-632b3fefb162,Diana Fletcher,Non-binary,45,Papua New Guinea,Poker,Platinum,Tablet,Online,Las Vegas,5049.56,3038.69,50,Crypto,2024-10-26
+16183ff4-9956-4910-82da-89a6847b83a5,Courtney Graham,Male,32,Oman,Blackjack,Silver,Desktop,Online,Singapore,8608.9,5014.35,13,Crypto,2024-04-11
+15e45f48-2380-4a71-8b59-0977f88ecf5b,William Lopez,Male,19,Gambia,Blackjack,Silver,Desktop,Land-based,Online,1558.98,199.29,46,Credit Card,2025-02-12
+b73c01de-dd0c-4e10-a8f3-06b6eff306e2,Anthony Hall,Female,28,Czech Republic,Baccarat,Silver,Tablet,Land-based,Las Vegas,7931.57,1474.03,25,Bank Transfer,2025-02-11
+2390084a-e901-4250-b751-1920c0c78e55,Amy Kemp,Male,22,Tonga,Keno,Gold,Mobile,Land-based,Atlantic City,2692.36,28.5,48,Bank Transfer,2025-01-11
+42c71314-d128-4825-b963-d8e1b8f95370,Christina Rollins,Non-binary,32,Haiti,Slot Machine,Gold,Desktop,Land-based,Online,5350.6,2575.11,50,Credit Card,2024-07-03
+9f887c46-2277-43bf-85db-ba0fedff0321,Tamara Thomas,Female,36,Liberia,Keno,Platinum,Mobile,Online,Las Vegas,3033.2,489.55,22,Credit Card,2024-10-16
+d4c075bd-bba6-4a90-a163-13869292aa10,Dawn Nelson,Female,71,Afghanistan,Slot Machine,Silver,Tablet,Land-based,Online,3203.04,1449.3,8,Credit Card,2024-07-31
+c2ea3121-0d35-4f59-9da0-e80afbd0dea4,Micheal Bailey,Female,18,Tajikistan,Keno,Gold,Mobile,Online,Monte Carlo,2648.79,2313.64,2,Bank Transfer,2024-06-08
