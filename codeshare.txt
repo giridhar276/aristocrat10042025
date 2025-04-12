@@ -1,0 +1,1280 @@
+preassessment link
+-------------------
+https://forms.office.com/r/YBUnNrhmrZ
+
+
+post assessment link
+-------------------
+https://forms.office.com/r/JkY0JHthiF
+
+
+Feedback Link
+-------------
+https://forms.office.com/r/kXwpvEEh3s
+
+
+
+https://github.com/giridhar276/aristocrat10042025
+
+
+https://raw.githubusercontent.com/giridhar276/aristocrat10042025/refs/heads/main/employeeinfo.csv
+
+
+
+pre assessment test
+--------------
+https://forms.office.com/r/YBUnNrhmrZ
+
+
+colors = [
+{
+"colors": "red",
+"values": "#f00"
+},
+{
+"colors": "green",
+"values": "#0f0"
+},
+{
+"colors": "blue",
+"values": "#00f"
+},
+{
+"colors": "cyan",
+"values": "#0ff"
+},
+{
+"colors": "magenta",
+"values": "#f0f"
+},
+{
+"colors": "yellow",
+"values": "#ff0"
+},
+{
+"colors": "black",
+"values": "#000"
+}
+]
+
+
+
+write a program to display all the colors and its values.
+
+sample output :
+
+red #f00
+green #0f0
+yellow  #ff0
+magenta #f0f
+..
+..
+..
+
+
+if isinstance(colors,list): # True
+    for item in colors:
+        print(item['colors'] ,  item['values'])
+
+
+################################################################################
+
+
+
+
+
+data = {
+    'Sales': {
+        'North': {
+            'Alice': 'Manager',
+            'Bob': 'Sales Executive',
+            'Eve': 'Sales Coordinator',
+            'John': 'Account Manager'
+        },
+        'South': {
+            'Charlie': 'Sales Executive',
+            'Grace': 'Regional Sales Manager',
+            'Mallory': 'Business Development Associate'
+        },
+        'West': {
+            'Oscar': 'Sales Executive',
+            'Peggy': 'Account Executive',
+            'Victor': 'Territory Sales Manager'
+        }
+    },
+    'Marketing': {
+        'Digital': {
+            'David': 'SEO Specialist',
+            'Hannah': 'Content Strategist',
+            'Irene': 'Social Media Manager'
+        },
+        'Offline': {
+            'Eve': 'Event Coordinator',
+            'Jake': 'Brand Manager',
+            'Liam': 'Public Relations Specialist'
+        },
+        'Research': {
+            'Mia': 'Market Research Analyst',
+            'Noah': 'Customer Insights Manager'
+        }
+    },
+    'IT': {
+        'Infrastructure': {
+            'Quinn': 'Network Engineer',
+            'Riley': 'System Administrator',
+            'Sam': 'Cloud Architect'
+        },
+        'Development': {
+            'Tina': 'Software Engineer',
+            'Uma': 'Backend Developer',
+            'Walter': 'Full Stack Developer'
+        }
+    },
+    'HR': {
+        'Recruitment': {
+            'Yara': 'Recruitment Specialist',
+            'Zane': 'Talent Acquisition Manager',
+            'Nina': 'HR Coordinator'
+        },
+        'Employee Relations': {
+            'Oliver': 'Employee Relations Specialist',
+            'Sophia': 'HR Business Partner'
+        }
+    },
+    'Finance': {
+        'Accounting': {
+            'Xander': 'Accountant',
+            'Yvette': 'Accounts Payable Specialist',
+            'Zara': 'Financial Analyst'
+        },
+        'Audit': {
+            'Luna': 'Internal Auditor',
+            'Mason': 'Compliance Officer'
+        }
+    }
+}
+
+
+write a program to display the below output:
+
+
+Sales
+-----
+North
+South
+West
+
+
+Marketing
+--------
+Digital
+Offline
+Research
+
+
+IT
+---
+Infrasturcture
+Development
+
+HR
+---
+Recruitment
+Employee Relations
+
+
+################################################################################
+
+
+
+info = {
+"id": "0001",
+"type": "donut",
+"name": "Cake",
+"image":
+{
+"url": "images/0001.jpg",
+"width": 200,
+"height": 200
+},
+"thumbnail":
+{
+"url": "images/thumbnails/0001.jpg",
+"width": 32,
+"height": 32
+}
+}
+
+
+sample output:
+
+ID              : 0001
+TYPE            : donut
+NAME            : Cake
+IMAGE URL       :"images/0001.jpg
+IMAGE WIDTH     : 200
+IMAGE HEIGHT    : 200
+THUMBNAIL URL   : "images/thumbnails/0001.jpg"
+THUMBNAIL WIDTH : 32
+THUMBNAIL HEIGHT:  32
+
+
+
+for key,value in info.items():
+    if isinstance(value,str):   # if type(value) is str:
+        print(key.ljust(20).upper(),":",value)
+    elif isinstance(value,dict):
+        for skey,svalue in value.items():
+            finalkey = key + " " + skey
+            print(finalkey.ljust(20).upper(),":",svalue)
+
+
+################################################################################
+
+
+alist= [
+  {
+    "login": "mojombo",
+    "id": 1,
+    "node_id": "MDQ6VXNlcjE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mojombo",
+    "html_url": "https://github.com/mojombo",
+    "followers_url": "https://api.github.com/users/mojombo/followers",
+    "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+    "organizations_url": "https://api.github.com/users/mojombo/orgs",
+    "repos_url": "https://api.github.com/users/mojombo/repos",
+    "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mojombo/received_events",
+    "type": "User",
+    "site_admin": False
+  },
+  {
+    "login": "defunkt",
+    "id": 2,
+    "node_id": "MDQ6VXNlcjI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/defunkt",
+    "html_url": "https://github.com/defunkt",
+    "followers_url": "https://api.github.com/users/defunkt/followers",
+    "following_url": "https://api.github.com/users/defunkt/following{/other_user}",
+    "gists_url": "https://api.github.com/users/defunkt/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/defunkt/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/defunkt/subscriptions",
+    "organizations_url": "https://api.github.com/users/defunkt/orgs",
+    "repos_url": "https://api.github.com/users/defunkt/repos",
+    "events_url": "https://api.github.com/users/defunkt/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/defunkt/received_events",
+    "type": "User",
+    "site_admin": False
+  }
+]
+
+write a a program to display all the keys and values.
+
+
+
+
+for value in alist:    # read the list # each item in the list is dictionary
+    if isinstance(value,dict):
+        for k,v in value.items():
+            print(k.ljust(15),v)
+            
+            
+################################################################################
+
+write a program to display the below IP addresses
+
+192.168.0.1
+192.168.0.2
+192.168.0.3
+..
+..
+192.168.0.10
+
+
+
+name = "I love {} and {}"  # template
+print(name.format("python","c"))
+print(name.format("hyderabad","delhi"))
+
+# method1
+fixed = "192.168.0.{}"
+for val in range(1,11):
+    print(fixed.format(val))
+
+
+#method2
+fixed = "192.168.0."
+for val in range(1,11):
+    ip = fixed + val
+    print(ip)
+
+
+
+################################################################################
+
+write a program to display the below IP addresses
+
+192.168.0.1
+192.168.0.2
+192.168.0.3
+..
+..
+192.168.0.10
+192.168.1.1
+192.168.1.2
+192.168.1.3
+..
+..
+192.168.1.10
+
+
+
+fixed = "192.168.{}.{}"
+for val in range(0,2):
+    for ival in range(1,11):
+        ip = fixed.format(val,ival)
+        print(ip)
+
+
+################################################################################
+
+
+write a program to capture any filename from the keyboard and display its filename and extension seperately
+
+Output:
+
+Enter any filename:  abc.py
+
+filename : abc
+extension: py
+
+
+filename = input("Enter any filename :")
+print("You entered :",filename)
+if "." in filename :
+    data = filename.split(".")
+    print("Filename :",data[0])
+    print("Extension :",data[1])
+else:
+    print("input is not the proper filename")
+
+################################################################################
+
+write a program for performing the below operaitons
+
+1. define empty tuple
+2. append  "unix" to the tuple
+3. append few more elements like 'spark', 'scala','hadoop',sccm' to the list
+4  append few more elements like 'c','cpp','java','salesforce','sap','unix' to the list
+5.  remove java
+6  remove salesforce -
+7. add  'oracle' at the index 0
+8. add ' mongodb' at the index 5
+9. reverse all the elements
+10. display the total.  no. of eleents of the list
+11. display the total count of 'unix' in the list
+
+################################################################################
+
+write a progam to capture filename from the keyboard and display the type of the file
+if the filename is ending with .py  .... display "Its python file"
+if the filename is ending with .pl   .... display "Its perl file"
+If the filename is ending with .c  ....... display "Its C lang file"
+if the filename is ending with .json ...  display "Its json file"
+
+Enter any filename :  info.py
+Python file
+
+
+
+
+
+################################################################################
+
+write a program to validate the IP address
+
+Enter any IP address : 192.168.0.1
+Its valid IP
+Enter any IP address : 1001.1.2.3
+Invalid IP
+
+################################################################################
+
+write a program to capture any string from the keyboard and perform the below
+
+if the string is defined in uppercase......   convert the string to lower and display it
+
+if the string is defined in lowercase ...... convert the string to upper and display it.
+
+################################################################################
+
+define some list as below
+
+alist = ["google","oracle","microsoft"]
+
+write a program to
+add "http://www"  at the beginning and  
+add ".com" at tht end of the string
+
+Output:
+http://www.google.com
+http://www/.oracle.com
+http://www.microsoft.com
+
+################################################################################
+
+
+define some list as below
+
+data = ["perl","unix","perl","scala","perl"]
+
+write a program to count the no. of occurences of each item
+
+perl 3
+unix 1
+scala 1
+
+
+################################################################################
+######## lambda functions #############
+################################################################################
+
+
+
+# traditional way
+def display(a,b):
+    c = a + b
+    return c
+# calling function
+total = display(10,20)
+print(total)
+
+
+#lambda function
+# lambda is the replacement of single liner function
+# Advantage : expression will be replaced in the calling function body internally
+# faster execution
+#syntax
+#functioname = lambda variables: expression
+display = lambda a,b : a + b
+# calling function
+total = display(10,20)
+print(total)
+
+
+display = lambda *args : sum(args)
+# calling function
+total = display(10,20,30,40,50,60,60,70,80,80,90,100)
+print(total)
+
+
+display = lambda x : "positive" if x > 0 else "negative"
+output = display(5)
+print(output)
+
+
+checkupper = lambda x: "upper" if x.isupper() else "lower"
+status = checkupper("python")
+print(status)
+
+
+###########################  VIRTUAL ENVIRONMENTS ####################
+
+
+There are different ways of creating virtual environment
+
+1. using venv library
+2. using conda library ( installed along with anaconda python)
+3. virtualenv library
+
+
+
+
+
+create virual environment
+------------------------
+python -m venv <env_name>
+Example : python -m venv myenv1
+
+Activate the Environment
+-------------------
+myenv1\Scripts\activate  ( windows)
+source myenv/bin/activate  ( mac)
+
+Deactivating the environment
+-----------------------
+deactivate
+
+what is the need of virtual environment in Python:
+-----------------
+Keeps project dependencies separate from global Python packages.
+Allows different projects to use different versions of the same package.
+Prevents accessing the global Python installation.
+
+
+
+
+langauges.csv
+-----------
+python,1990
+unix,1970
+java,1990
+oracle,1980
+scala,2010
+
+
+
+
+
+import csv
+try:
+    with open("employeeinfo1.csv","r") as fobj:  # file object
+        reader = csv.reader(fobj) # converting file object to csv object
+        for line in reader:
+            print(line)
+except FileNotFoundError as err:
+    print("file not found.. please check")
+    print(err)
+except TypeError as err:
+    print("Invalid Operation")
+    print(err)
+except (IndexError,KeyError) as err:
+    print("Index or key is not found")
+    print(err)
+except Exception as e:  # default exception
+    print("Unknown error found")
+    print(e) 
+
+
+################################################################################################
+
+write a program to read employeeinfo.csv and display workclass and education columns data only
+
+
+
+
+
+
+
+import csv
+try:
+    with open("employeeinfo.csv","r") as fobj:  # file object
+        reader = csv.reader(fobj) # converting file object to csv object
+        for line in reader:
+            print("Workclass:",line[1])
+            print("Education :",line[3])
+            print("-----------")
+except FileNotFoundError as err:
+    print("file not found.. please check")
+    print(err)
+except TypeError as err:
+    print("Invalid Operation")
+    print(err)
+except (IndexError,KeyError) as err:
+    print("Index or key is not found")
+    print(err)
+except Exception as e:  # default exception
+    print("Unknown error found")
+    print(e)
+
+################################################################################################
+
+write a program to read employeeinfo.csv and display all the unique workclasses ONLY
+
+sample output:
+--------------
+State-gov
+Private
+Self-emp-not-inc
+Federal-gov
+..
+..
+
+
+# method1
+
+
+
+
+
+
+
+import csv
+try:
+    workset = set()
+    with open("employeeinfo.csv","r") as fobj:  # file object
+        header = fobj.readline() # reading header to object
+        reader = csv.reader(fobj) # converting file object to csv object
+        # processing
+        for line in reader:
+            workclass = line[1]
+            workset.add(workclass)
+        # display output
+        for item in workset:
+            print(item)
+except FileNotFoundError as err:
+    print("file not found.. please check")
+    print(err)
+except TypeError as err:
+    print("Invalid Operation")
+    print(err)
+except (IndexError,KeyError) as err:
+    print("Index or key is not found")
+    print(err)
+except Exception as e:  # default exception
+    print("Unknown error found")
+    print(e)
+    
+    
+# method2
+
+
+
+
+
+
+
+
+import csv
+try:
+    workdict = dict()
+    with open("employeeinfo.csv","r") as fobj:  # file object
+        header = fobj.readline() # reading header to object
+        reader = csv.reader(fobj) # converting file object to csv object
+        # processing
+        for line in reader:
+            workclass = line[1]
+            workdict[workclass] =1  # {"Private":1 ,"Public":1}
+        # display output
+        for item in workdict.keys():
+            print(item)
+except FileNotFoundError as err:
+    print("file not found.. please check")
+    print(err)
+except TypeError as err:
+    print("Invalid Operation")
+    print(err)
+except (IndexError,KeyError) as err:
+    print("Index or key is not found")
+    print(err)
+except Exception as e:  # default exception
+    print("Unknown error found")
+    print(e)
+    
+    
+#method3
+
+
+
+
+
+
+
+
+import csv
+try:
+    worklist = []
+    with open("employeeinfo.csv","r") as fobj:  # file object
+        header = fobj.readline() # reading header to object
+        reader = csv.reader(fobj) # converting file object to csv object
+        # processing
+        for line in reader:
+            workclass = line[1]
+            worklist.append(workclass)
+        # display output
+        for item in set(worklist):
+            print(item)
+except FileNotFoundError as err:
+    print("file not found.. please check")
+    print(err)
+except TypeError as err:
+    print("Invalid Operation")
+    print(err)
+except (IndexError,KeyError) as err:
+    print("Index or key is not found")
+    print(err)
+except Exception as e:  # default exception
+    print("Unknown error found")
+    print(e)
+
+
+
+
+################################################################################################
+
+write a program to read employeeinfo.csv and the below output
+
+sample output:
+--------------
+Total male count  : 822
+Total Female count: 34
+
+
+
+
+import csv
+try:
+    mcount = 0
+    fcount = 0
+    with open("employeeinfo.csv","r") as fobj:  # file object
+        header = fobj.readline() # reading header to object
+        reader = csv.reader(fobj) # converting file object to csv object
+        # processing
+        for line in reader:
+            gender = line[9].strip()
+            if gender == "Male":
+                mcount = mcount + 1
+            if gender == "Female":
+                fcount = fcount + 1
+        print("Male count  :", mcount)
+        print("Female count:",fcount)
+except FileNotFoundError as err:
+    print("file not found.. please check")
+    print(err)
+except TypeError as err:
+    print("Invalid Operation")
+    print(err)
+except (IndexError,KeyError) as err:
+    print("Index or key is not found")
+    print(err)
+except Exception as e:  # default exception
+    print("Unknown error found")
+    print(e)
+
+
+################################################################################################
+write a program to read employeeinfo.csv and replace all the lines containing  
+United-States -----> USA   and write the output to empdetails.csv
+
+
+################################################################################################
+
+
+
+################################################################################################
+
+
+
+
+#Reading CSV (As List of Lists)
+import csv
+with open('employeeinfo.csv', mode='r', newline='') as file:
+    reader = csv.reader(file)
+    for row in reader:
+        print(row)
+
+
+
+
+#Reading CSV (Line by Line as Dictionary)
+import csv
+with open('employeeinfo.csv', mode='r', newline='') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        print(row)
+
+
+# writing to csv
+new_employee = ["Robert", 45, "Legal"]
+with open('employeeinfo.csv', mode='a', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(new_employee)
+
+
+    
+
+#Writing to CSV (New File with Headers)
+data = [
+    {"Name": "John Doe", "Age": 28, "Department": "HR"},
+    {"Name": "Jane Smith", "Age": 32, "Department": "Finance"},
+]
+
+with open('new_employee_data.csv', mode='w', newline='') as file:
+    fieldnames = ["Name", "Age", "Department"]
+    writer = csv.DictWriter(file, fieldnames=fieldnames)
+    writer.writeheader()
+    for emp in data:
+        writer.writerow(emp)
+
+
+
+
+
+
+
+import requests
+
+url = "https://raw.githubusercontent.com/giridhar276/aristocrat10042025/refs/heads/main/employeeinfo.csv"
+
+response = requests.get(url)
+#print(response.status_code)
+if response.status_code == 200:
+    print(response.text)
+
+
+
+
+
+
+
+
+#########
+import csv
+from io import StringIO
+import requests
+
+# URL of the CSV file hosted on GitHub
+url = "https://raw.githubusercontent.com/giridhar276/aristocrat10042025/refs/heads/main/employeeinfo.csv"
+
+# Step 1: Download the CSV content
+response = requests.get(url)
+if response.status_code == 200:
+    # Step 2: Parse CSV using csv module
+    #converting text stream using StringIO method (an in-memory text buffer)
+    csv_data = StringIO(response.text)   
+    reader = csv.DictReader(csv_data)
+    for record in reader:
+        print(record)
+
+### using pandas
+import pandas as pd
+df = pd.read_csv(url)
+print(df)
+
+
+
+
+
+
+write a program to read employeeinfo.csv and write the output to excelfile
+and excel file should be with today's timestamp.(11_Apr_2025.xlsx)
+
+
+
+
+from openpyxl import Workbook
+import csv
+import time
+try:
+    filename = time.strftime("%d_%b_%Y_%H_%M_%S.xlsx") #11_Apr_2025.xlsx
+    wb = Workbook() # creating workbook
+    # grab the active worksheet
+    ws = wb.active
+    with open("employeeinfo.csv") as fobj:
+        reader = csv.reader(fobj)
+        for line in reader:
+            #print(line)
+            ws.append(line)
+    wb.save(filename)
+except Exception as err:
+    print(err)
+
+
+
+
+https://www.topcoder.com/thrive/articles/excel-automation-with-openpyxl-in-python
+
+
+################################### frequently used builtin libraries #############################
+
+os         : os level activities
+math       : mathematical operations
+sys        :  sys and python config data
+shutil     : copy,move, rmtree  etc
+urllib     : read the web, downloading the files
+logging    : logging all the events
+smtplib    : sending the mails
+ftplib     : performing ftp operations
+sysconfig  :  sys and python config data
+zipfile    : create/extract the zip files
+rarfile    : create/extract the rar files
+cryptopgraphy : encrypting and decrypting the data or files
+tarfile    : create/extract the tar files
+filecmp    : comparing files or directories
+sqlite3    : python default database
+csv        : reading/writing csv files
+xml        : reading/writing xml files
+calendar   : display month,year calendar info
+datetime   : working with date n time
+time       : working with date n time
+fractions  : working with decimal values
+glob       : display all the files
+heapq      : more of array operations ( getting largest among list )
+subprocess : executing system commands in python (  subprocess.getoutput("ls -ltr")
+pdb        : python debugger
+platform   : platform information
+random     : random operations ( shuffling , random digit ... )
+re         : grep + awk + sed
+socket     : networking programming
+stat       : stats of the file
+statistics : basic statistics
+pathlib	   : Object-oriented file path operations
+time	     : Delays, timestamps, performance checks
+logging	   : Logging for scripts/apps (replace print for real apps)
+argparse	 : Command-line interface (CLI) argument parsing
+configparser : 	Read/write .ini config files
+json	     :Serialize/deserialize JSON (common in APIs)
+uuid	     : Generate unique IDs (useful in files, databases)
+statistics	:Basic stats: mean, median, stdev
+random	    :Random number generation, sampling
+collections	:Specialized containers (defaultdict, Counter, namedtuple)
+traceback	   :Print/format exception tracebacks
+warnings	   :Raise and handle warnings
+
+####################################################################################
+
+  write a progarm to display all the files and folders from the current directory
+
+####################################################################################
+
+write a program to delete all .xlsx files from the current directory
+
+####################################################################################
+
+write a program to create 10 directories as below in the current directory
+
+dir1
+dir2
+dir3
+dir4
+..
+..
+dir10
+
+####################################################################################
+
+write a program to delete 10 directories as below in the current directory
+
+dir1
+dir2
+dir3
+dir4
+..
+..
+dir10
+
+####################################################################################
+
+write a script to perform the below operations :
+
+1. display current working directory
+2. display login name
+3. display all environment variables
+4. display today's date ( timestamp )
+5. display April months calendar
+6. display all .py files and its size in bytes
+7. display the modified time of employeeinfo.csv file
+8. display current process id
+9. set an environment variables. ( Eg.    TEST_PATH = "C:/Users/Admin/")
+10. Retrieve the current system's load average.
+
+
+####################################################################################
+
+write a script to display the below information ( psutil library)
+
+1. CPU percentage
+2. Memory info ( total memory, available, used)
+3. process info
+4. disk partitions
+5. network statistics
+
+####################################################################################
+
+write a program to display the below output
+
+boot time of the system 
+list of processes that are currently running and display the output
+ip address
+hostname
+
+####################################################################################
+
+write a program to read companies.txt and check whether below urls are accesible or not. 
+If the status is 200 display url is up.
+
+companies.txt
+--------------
+https://www.tcs.com/
+https://www.wikipedia.org/
+https://www.telangana.gov.in/
+https://www.india.gov.in/
+https://www.oracle.com/
+
+output:
+https://www.tcs.com/  is live
+https://www.wikipedia.org/  is live
+https://www.tẻlangana.gov.in/ is not working
+https://www.india.gov.in/ is not working
+https://www.oracle.com/ is live
+
+
+import requests
+try:
+    with open("companies.txt") as fobj:
+        for line in fobj:
+            url = line.strip()
+            response = requests.get(url)
+            #print(response.status_code)
+            if response.status_code == 200 :
+                print(url,"is up")
+            else:
+                print(url,"is down")
+except Exception as err:
+    print(err)
+    
+    
+    
+####################################################################################
+##### differnet ways of importing library
+# method1  # preferred way
+import math   # all the methods will be importing to your space
+print(math.log(1))
+print(math.tan(2))
+
+# method2 - importing with alias name
+# pip install matplotlib
+import matplotlib.pyplot as plt
+plt.plot([10,20],[30,40])
+plt.show()
+
+
+#method3 - we are just importing sin() and cos() methods only 
+from math import sin,cos
+print(sin(1))
+print(cos(2))
+
+#method4 - not much preferred
+from math import *
+print(sin(1))
+print(cos(2))
+
+##########################################################
+web scraping : reading html from web
+
+
+write a program to read https://www.wikipedia.org/ and display all the URLS present in that link
+
+
+
+
+
+
+import requests
+from bs4 import BeautifulSoup
+
+response =requests.get("https://www.wikipedia.org/")
+if response.status_code == 200:
+    content = response.text
+    #print(content)  # content is html content
+    soup = BeautifulSoup(content, 'html.parser')
+    for link in soup.find_all('a'):
+        print(link.get('href'))
+
+####################################################################################
+
+
+####################################################################################
+
+
+####################################################################################
+
+employees.xml
+-------------
+<employees>
+    <employee>
+        <id>101</id>
+        <name>John Doe</name>
+        <age>28</age>
+        <department>HR</department>
+    </employee>
+    <employee>
+        <id>102</id>
+        <name>Jane Smith</name>
+        <age>32</age>
+        <department>Finance</department>
+    </employee>
+</employees>
+
+
+
+############################## XML Operations #####################
+
+#Parse and Print All Employee Names
+import xml.etree.ElementTree as ET
+
+tree = ET.parse('employees.xml')
+root = tree.getroot()
+
+for emp in root.findall('employee'):
+    name = emp.find('name').text
+    print("Employee Name:", name)
+
+
+#Example 2: Extract Employee Info into Dictionary
+import xml.etree.ElementTree as ET
+
+tree = ET.parse('employees.xml')
+root = tree.getroot()
+
+employees = []
+
+for emp in root.findall('employee'):
+    emp_data = {
+        'id': emp.find('id').text,
+        'name': emp.find('name').text,
+        'age': int(emp.find('age').text),
+        'department': emp.find('department').text
+    }
+    employees.append(emp_data)
+
+print(employees)
+
+
+#Find Employees in a Specific Department
+dept_name = 'Finance'
+
+for emp in root.findall('employee'):
+    if emp.find('department').text == dept_name:
+        print(emp.find('name').text)
+
+
+# Add a New Employee to XML
+
+new_emp = ET.Element("employee")
+ET.SubElement(new_emp, "id").text = "103"
+ET.SubElement(new_emp, "name").text = "Alice Brown"
+ET.SubElement(new_emp, "age").text = "25"
+ET.SubElement(new_emp, "department").text = "IT"
+
+root.append(new_emp)
+tree.write("employees_updated.xml")
+
+#Delete an Employee by ID
+for emp in root.findall('employee'):
+    if emp.find('id').text == '101':
+        root.remove(emp)
+
+tree.write("employees_deleted.xml")
+
+
+
+
+
+
+
+
+
+
+
+
+class Employee:
+    def getDetails(self,name,city):
+        self.name = name  # initialization
+        self.city = city
+    def displayDetails(self):
+        print("Name :",self.name)
+        print("City :",self.city)
+
+emp1 = Employee()
+emp1.getDetails("Rita","Mumbai")
+emp1.displayDetails()
+
+emp2 = Employee()
+emp2.getDetails("gita","Delhi")
+emp2.displayDetails()
+
+
+
+
+
+
+
+
+class3.py
+-----------
+class Employee:
+    #constructor
+    #constructor is invoked automatically when object is created
+    def __init__(self,name,city):
+        self.name = name  #emp1.name = "rita"
+        self.city = city  #emp1.city = "mum"
+    def displayDetails(self):
+        print("Name :",self.name)
+        print("City :",self.city)
+
+ 
+emp1 = Employee("Rita","Mumbai") # object creation
+emp1.displayDetails()             # display name
+
+
+emp2 = Employee("gita","Delhi")
+emp2.displayDetails()
+
+
+
+
+
+
+
+
+
+
+def displayname():
+    print("Name :","ram")
+
+def displayage():
+    print("Age:",29)
+
+def displaycity():
+    print("city :","mumbai")
+
+
+displayname()
+displayage()
+displaycity()
+
+
+
+
+
+
+
+allfunctions.py
+----------------
+
+
+
+
+def displayname():
+    print("Name :","ram")
+
+def displayage():
+    print("Age:",29)
+
+def displaycity():
+    print("city :","mumbai")
+
+# if this program is called directly the below condition is True
+# if this program is imported to other program ... below condition becomes False
+if __name__ == "__main__":
+    displayname()
+    displayage()
+    displaycity()
+    
+    
+    
+    
+ myprogram.py
+ ------------
+ import allfunctions
+
+allfunctions.displayname()
+allfunctions.displaycity()
